@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Grijze achtergrond voor de hele e-mail */
+            margin: 0;
+            padding: 0;
+            color: #333;
+            max-width: 600px;
+            line-height: 1.6;
+        }
+
+        h1 {
+            color: #444;
+            font-size: 1.5em;
+        }
+
+        p {
+            margin-bottom: 10px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #3498db;
+            color: #fff;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+
+        .email-container {
+            max-width: 600px; /* Maximale breedte van de e-mail */
+            margin: 40px auto; /* Centreert het witte blok in het midden van de e-mail */
+            background-color: #ffffff; /* Witte achtergrond voor het centrale blok */
+            border-radius: 10px; /* Geeft afgeronde hoeken aan het witte blok */
+            overflow: hidden; /* Zorgt ervoor dat alles binnen de grenzen van het afgeronde blok blijft */
+        }
+
+        .email-content {
+            padding: 20px; /* Ruimte binnenin het witte blok */
+        }
+
+    .email-signature {
+        display: flex; /* Activeer flexbox-layout */
+        align-items: start; /* Lijn items uit aan de bovenkant */
+        padding: 15px;
+        background-color: #f6f6f6;
+        border-radius: 10px;
+        font-family: Arial, sans-serif;
+    }
+
+    .email-signature .signature-image {
+        flex: 1; /* Neem 1 deel van de beschikbare ruimte */
+        padding-right: 15px; /* Ruimte tussen de afbeelding en de tekst */
+        text-align: center;
+    }
+
+    .email-signature .signature-text {
+        flex: 2; /* Neem 2 delen van de beschikbare ruimte */
+    }
+
+    .email-signature p {
+        margin: 5px 0;
+        font-size: 13px;
+    }
+
+    .email-signature img {
+        max-width: 135px; /* Zorg ervoor dat de afbeelding zich aanpast aan de container */
+        border-radius: 50%; /* Maak de afbeelding rond */
+    }
+
+    .email-signature a {
+        color: #3498db;
+        text-decoration: none;
+    }
+
+    .email-signature a:hover {
+        text-decoration: underline;
+    }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="email-content">
+            <h1>Gratis linkbuilding starten voor {{ $json.Website }}?</h1>
+          
+            <p>Beste {{ $json.Contactpersoon }},</p>
+          
+            <p><strong>Benutten jullie al de volle capaciteit voor jullie B&B? Wanneer jullie nog niet volgeboekt zijn zouden we graag slechts een paar minuten van je tijd willen vragen. Wij zijn dagelijks bezig om er op een voordelige manier voor te zorgen om meer mensen te helpen bij het vinden van een B&B.</strong></p>
+          
+            <p>Hoe wij dit doen? Een van de meest gebruikte methoden hoe mensen een B&B vinden, is nog altijd na een zoekopdracht via Google. Het is dus een must om goed te ranken in de resultaten van Google. Een van de belangrijkste manieren om hierop in te spelen is door slim gebruik te maken van linkbuilding voor jouw site. Dit is waar wij van DMS Digital Marketing Services ons compleet op richten.</p>
+          
+            <a href="{{calendly_link}}" class="button">Plan een afspraak</a>
+          
+            <p>Dit wekt natuurlijk diverse vragen op. Wat is linkbuilding? Hoe pas is het toe? Wat levert het me op? Wat zijn de kosten? En meer..</p>
+          
+            <p>In plaats van deze mail nog langer te maken bieden wij gratis & vrijblijvende optie om een belafspraak in te plannen. Een van onze specialisten checkt van tevoren gratis jouw website en geven eventuele tips tijdens de belafspraak. Daarnaast geven me meer informatie over wat linkbuilding voor jullie kan betekenen. </p>
+          
+          
+          
+            <div class="email-signature">
+              <div class="signature-image">
+                      <img src="https://media.licdn.com/dms/image/C4E03AQGRfc1EPkXzZA/profile-displayphoto-shrink_400_400/0/1601371693374?e=1702512000&v=beta&t=Ub1dUxNaUgMvCltGsGY8p-KCh61ui2FgHWZ2Gxr0grY" alt="Maarten Lagerweij">
+              </div>
+              <div class="signature-text">
+                  <p><b>Maarten Lagerweij</b></p>
+                  <p><b>DMS Digital Marketing Services</b></p>
+                  <p style="color:#999999;">Mail: maarten.lagerweij1@gmail.com</p>
+                  <p style="color:#999999;">Tel: +31638241911</p>
+                  <p style="color:#999999;">Website: <a href="https://www.digitalmarketingservices.nl/">https://www.digitalmarketingservices.nl/</a></p>
+              </div>
+          </div>
+          
+          <div class="footer">
+              U ontvangt deze e-mail omdat we denken dat onze diensten waardevol kunnen zijn voor uw bedrijf. Als u geen verdere communicatie van ons wilt ontvangen, laat het ons dan weten.
+          </div>
+        </div>        
+    </div>
+<!-- <div class="email-signature">
+  <p>Maarten Lagerweij</p>
+  <p>DMS Digital Marketing Services</p>
+https://media.licdn.com/dms/image/C4E03AQGRfc1EPkXzZA/profile-displayphoto-shrink_400_400/0/1601371693374?e=1702512000&v=beta&t=Ub1dUxNaUgMvCltGsGY8p-KCh61ui2FgHWZ2Gxr0grY
+  <img src="https://www.digitalmarketingservices.nl/wp-content/uploads/2021/09/logo-digital-marketing-services-2.png" alt="DMS Digital Marketing Services">
+
+  <p>Mail: maarten.lagerweij1@gmail.com</p>
+  <p>Tel: +31638241911</p>
+  <p>Website: <a href="https://www.digitalmarketingservices.nl/">https://www.digitalmarketingservices.nl/</a></p>
+
+</div> -->
+
+</body>
+</html>
