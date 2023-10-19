@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Maliekwartier Tandartsen",
+      "address": "Maliebaan 67, 3581 CE Utrecht, Netherlands",
+      "place_id": "ChIJRcvXM65oxkcRBVyfQPscQHI",
+      "website": "https://www.tandartsutrecht.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 2,
+      "name": "Tandartspraktijk Dalhuisen",
+      "address": "Blauwkapelseweg 15, 3572 KA Utrecht, Netherlands",
+      "place_id": "ChIJOdLa4kpvxkcRyRYYD57IPdI",
+      "website": "https://www.tandartspraktijkdalhuisen.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 3,
+      "name": "The Utrecht Dental Practice",
+      "address": "Bernadottelaan 11, 3527 GA Utrecht, Netherlands",
+      "place_id": "ChIJvVCWVo9lxkcRec1EEU3ioNo",
+      "website": "http://www.deutrechtsetandartspraktijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 4,
+      "name": "Tandartsenpraktijk in je element",
+      "address": "Alexander Numankade 199-201, 3572 KW Utrecht, Netherlands",
+      "place_id": "ChIJAQAAAE9vxkcRQV9XCzvcXsg",
+      "website": "http://www.in-je-element.net/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 5,
+      "name": "Tandartspraktijk Studentist Utrecht",
+      "address": "Keistraat 4, 3512 HV Utrecht, Netherlands",
+      "place_id": "ChIJrztXYEVvxkcRkXcT1oHJPRI",
+      "website": "https://www.studentist.nl/tandarts-utrecht",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 6,
+      "name": "MyDent Mondzorg Centrum Utrecht - Tandarts Utrecht",
+      "address": "Beneluxlaan 25, 3527 HS Utrecht, Netherlands",
+      "place_id": "ChIJEUhWOY9lxkcR_ou9AcppCPk",
+      "website": "https://www.mondzorgcentrum-utrecht.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 7,
+      "name": "Tandartspraktijk Domstad",
+      "address": "Griftstraat 26-A, 3572 GW Utrecht, Netherlands",
+      "place_id": "ChIJY9qZJ0pvxkcR_CbHKnyhRb4",
+      "website": "http://www.praktijkdomstad.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 8,
+      "name": "De Kliniek voor Tandheelkunde",
+      "address": "Jan Muschlaan 21, 3584 GV Utrecht, Netherlands",
+      "place_id": "ChIJx33hUKRoxkcRAiV9i0_e938",
+      "website": "http://www.dekliniekvoortandheelkunde.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 9,
+      "name": "Tandartspraktijk Bartoklaan",
+      "address": "Bartoklaan 42, 3533 JA Utrecht, Netherlands",
+      "place_id": "ChIJ75yuWXxvxkcRUNI7RUy1rQE",
+      "website": "http://www.bartoklaan.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 10,
+      "name": "Tandartspraktijk Tuindorp",
+      "address": "Professor sjollemalaan 36, 3571 CH Utrecht, Netherlands",
+      "place_id": "ChIJxfq6_jlvxkcR0RXWzLdJlIM",
+      "website": "http://www.tandartstuindorp.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 11,
+      "name": "Tandartsenpraktijk Leidseweg",
+      "address": "Leidseweg 82, 3531 BE Utrecht, Netherlands",
+      "place_id": "ChIJ-arfwGRvxkcRB_faoMWer7c",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 12,
+      "name": "AVT-Kliniek Tandartspraktijk Utrecht",
+      "address": "Pieterskerkhof 25, 3512 JS Utrecht, Netherlands",
+      "place_id": "ChIJqZ_68E9vxkcRQwkgUIJIFak",
+      "website": "https://www.avtkliniek.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 13,
+      "name": "Tandartspraktijk Veemarkt",
+      "address": "Livarstraat 51, 3573 SB Utrecht, Netherlands",
+      "place_id": "ChIJEykCXwppxkcRLKWpoGA-GsE",
+      "website": "http://www.tandartspraktijkveemarkt.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 14,
+      "name": "Jordan Lane Dental Practice",
+      "address": "Prof. Jordanlaan 88, 3571 KC Utrecht, Netherlands",
+      "place_id": "ChIJDYbWxjNvxkcRJgyPqFLBaOk",
+      "website": "http://www.tandartspraktijkjordanlaan.nl",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 15,
+      "name": "Tandartspraktijk Oog in Al",
+      "address": "Kanaalweg 93 F, 3533 HH Utrecht, Netherlands",
+      "place_id": "ChIJ6Yw5onlvxkcRImI4odnLOLs",
+      "website": "http://www.tp-ooginal.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 16,
+      "name": "Dental Clinics Utrecht Oudenoord",
+      "address": "Oudenoord 619-621, 3513 EP Utrecht, Netherlands",
+      "place_id": "ChIJmbj-1BRvxkcRuEXs6W5eAGE",
+      "website": "https://www.dentalclinics.nl/tandarts/utrecht-oudenoord/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 17,
+      "name": "Tandarts Surtea",
+      "address": "Kaap Hoorndreef 24A, 3563 AT Utrecht, Netherlands",
+      "place_id": "ChIJz9UP0xtvxkcRTqMusJUyafI",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 18,
+      "name": "Dental Care Utrecht - Van Hogendorpstraat",
+      "address": "Van Hogendorpstraat 1, 3581 KA Utrecht, Netherlands",
+      "place_id": "ChIJkwQtdS5pxkcRrgFKoIheZtw",
+      "website": "https://www.dentalcareutrecht.nl/nl/dental-care-utrecht-vh/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 19,
+      "name": "Staalwijk dental practice",
+      "address": "Jutfaseweg 79, 3522 HG Utrecht, Netherlands",
+      "place_id": "ChIJ41omqfBlxkcRqhk9QIZxqAE",
+      "website": "https://www.staalwijktandarts.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 20,
+      "name": "Tandartspraktijk Parkwijk",
+      "address": "Mierikswortelstraat 5, 3544 CM Utrecht, Netherlands",
+      "place_id": "ChIJ79sjt4xvxkcRJX0_7l7bKCg",
+      "website": "http://www.tandartsparkwijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 21,
+      "name": "Tandarts G. van Limborgh",
+      "address": "Zeemanlaan 44, 3572 ZD Utrecht, Netherlands",
+      "place_id": "ChIJ3wbQNDVvxkcR1gHXoFnCOzE",
+      "website": "http://tandartsvanlimborgh.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 22,
+      "name": "Your Oral B.V.",
+      "address": "Meerkoethof 48, 3582 DA Utrecht, Netherlands",
+      "place_id": "ChIJSQ6vAlZvxkcRKji57rCgsr4",
+      "website": "https://www.jouwmondzorg.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 23,
+      "name": "tandarts dijkgraaf",
+      "address": "Maliebaan 63, 3581 CE Utrecht, Netherlands",
+      "place_id": "ChIJRcknbE1vxkcRDLbBEmkuKWM",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 24,
+      "name": "Boelens Tandartsen",
+      "address": "Amsterdamsestraatweg 538, 3553 EN Utrecht, Netherlands",
+      "place_id": "ChIJ0U3ePadvxkcRRHsYtyIuVyI",
+      "website": "http://www.boelenstandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 25,
+      "name": "Tandartspraktijk Utrecht",
+      "address": "Groeneweg 56, 3531 VG Utrecht, Netherlands",
+      "place_id": "ChIJ6RNVGHpvxkcRSI_wUgxL2ZQ",
+      "website": "https://www.tandartspraktijk-utrecht.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 26,
+      "name": "Dental Clinics Utrecht Maliebaan",
+      "address": "Maliebaan 44, 3581 CS Utrecht, Netherlands",
+      "place_id": "ChIJdbHxEE1vxkcRKMHDEZqzNWw",
+      "website": "https://www.dentalclinics.nl/tandarts/utrecht-maliebaan/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 27,
+      "name": "Tandartspraktijk Prinsenhof",
+      "address": "Johan Willem Frisostraat 8, 3583 JS Utrecht, Netherlands",
+      "place_id": "ChIJSVwG9bFoxkcRUP5UYIUsR5c",
+      "website": "http://www.tandartspraktijkprinsenhof.com/contact.php",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 28,
+      "name": "Tandartspraktijk Njika te Hoograven",
+      "address": "Constant Erzeijstraat 38, 3523 VW Utrecht, Netherlands",
+      "place_id": "ChIJZ6Q4EeVlxkcR57A1Gk41hRg",
+      "website": "https://www.tandartspraktijknjika.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 29,
+      "name": "Tandartsenpraktijk De Nieuwegracht",
+      "address": "Nieuwegracht 79, 3512 LH Utrecht, Netherlands",
+      "place_id": "ChIJc1euFNdvxkcRX5OQlRCGfns",
+      "website": "https://www.tandartsenpraktijkdenieuwegracht.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 30,
+      "name": "Tandartspraktijk Zeemanlaan",
+      "address": "Zeemanlaan 10, 3572 ZD Utrecht, Netherlands",
+      "place_id": "ChIJYZMRNDVvxkcRrgvtiKkvlwA",
+      "website": "https://tandartszeemanlaan.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 31,
+      "name": "Tandartspraktijk Top Lach",
+      "address": "Amsterdamsestraatweg 346, 3551 CV Utrecht, Netherlands",
+      "place_id": "ChIJ0ff-R0NvxkcRjRQTnOxHQcE",
+      "website": "https://toplach.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 32,
+      "name": "Tandartspraktijk Sabouri",
+      "address": "Wolgadreef 96, 3561 CS Utrecht, Netherlands",
+      "place_id": "ChIJTc7GXi5vxkcR67jP6oKBnzU",
+      "website": "http://www.tandartssabouri.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 33,
+      "name": "Tandartsenpraktijk van Dijk",
+      "address": "Van Asch van Wijckskade 37, 3512 VR Utrecht, Netherlands",
+      "place_id": "ChIJwZbXGkZvxkcRNkR2eai1du0",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 34,
+      "name": "Tandartspraktijk Utrecht Oost",
+      "address": "Kapelweg 10, 3566 MK Utrecht, Netherlands",
+      "place_id": "ChIJEyS1nSxvxkcRsbVIjmzyMjQ",
+      "website": "http://www.tandartspraktijkutrechtoost.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 35,
+      "name": "Tandartspraktijk B. The",
+      "address": "Marco Pololaan 111, 3526 GB Utrecht, Netherlands",
+      "place_id": "ChIJ5foSxpFlxkcR__8Wp0LSj2A",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 36,
+      "name": "Tandheelkundig Centrum Utrecht",
+      "address": "Yavaridreef 4, 3563 ES Utrecht, Netherlands",
+      "place_id": "ChIJ1cPlCztvxkcRto5sCKHfgmU",
+      "website": "https://tandheelkundigcentrum-utrecht.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 37,
+      "name": "Mondzorgpraktijk Orion | Tandarts Utrecht Overvecht",
+      "address": "Gambiadreef 58, 3564 ES Utrecht, Netherlands",
+      "place_id": "ChIJtQk7zR1vxkcR12GkmXi3UQE",
+      "website": "http://www.mondzorgorion.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 38,
+      "name": "Tandartspraktijk Oelp Hoogh Boulandt Utrecht",
+      "address": "Catharijnesingel 77, 3511 GN Utrecht, Netherlands",
+      "place_id": "ChIJy-L7u1lvxkcRuKEpW8zYItQ",
+      "website": "https://oelp.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 39,
+      "name": "Tandartspraktijk Al Sadawi B.V.",
+      "address": "Tafelbergdreef 72, 3564 AC Utrecht, Netherlands",
+      "place_id": "ChIJIX1YNhlvxkcRt8PgG7mL9Ko",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 40,
+      "name": "Tandartspraktijk Tolsteegplantsoen",
+      "address": "Tolsteegplantsoen 32, 3523 AK Utrecht, Netherlands",
+      "place_id": "ChIJ10txPvllxkcRZtSAsEYRP5o",
+      "website": "http://www.tandartstolsteeg.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 41,
+      "name": "Tandartspraktijk Knol",
+      "address": "Zamenhofdreef 14, 3562 JW Utrecht, Netherlands",
+      "place_id": "ChIJrQkl9xhvxkcR1-FE83Zjgk4",
+      "website": "http://www.tandartspraktijkknol.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 42,
+      "name": "Tandartspraktijk Hutter",
+      "address": "Vleutenseweg 269, 3532 HE Utrecht, Netherlands",
+      "place_id": "ChIJQ96G1HdvxkcRFhc2H2eYYAE",
+      "website": "http://www.tphutter.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 43,
+      "name": "Tandartsen- en Verwijspraktijk Wilhelminapark",
+      "address": "Wilhelminapark 26, 3581 NE Utrecht, Netherlands",
+      "place_id": "ChIJ_TN1oK1oxkcRLCSvD9Mk53Q",
+      "website": "http://www.tandartspraktijkwilhelminapark.com/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 44,
+      "name": "Tandgenoten Utrecht",
+      "address": "Willem van Noortplein 15bis, 3514 GK Utrecht, Netherlands",
+      "place_id": "ChIJq0mCJDdvxkcRbL1jrP0U41E",
+      "website": "http://www.tandgenoten.nl/utrecht",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 45,
+      "name": "Clinique voor Cosmetische Tandheelkunde",
+      "address": "Nachtegaalstraat 45, 3581 AC Utrecht, Netherlands",
+      "place_id": "ChIJP7FGw01vxkcRkcXnGRAZtqU",
+      "website": "http://www.tandartsenpraktijkdenieuwegracht.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 46,
+      "name": "Tandartspraktijk Muradin",
+      "address": "Vleutenseweg 121, 3532 HA Utrecht, Netherlands",
+      "place_id": "ChIJ3d5cOG9vxkcRn2iqY93k79Q",
+      "website": "http://www.muradent.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 47,
+      "name": "Tandartspraktijk Huurdeman",
+      "address": "Herculesplein 379, 3584 AA Utrecht, Netherlands",
+      "place_id": "ChIJg7UphQJmxkcR5MGTEm-XC_w",
+      "website": "https://huurdeman.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 48,
+      "name": "Tandartspraktijk Zuilen",
+      "address": "Amsterdamsestraatweg 622, 3555 HX Utrecht, Netherlands",
+      "place_id": "ChIJl8ELeKZvxkcRoyyG8kbDzxU",
+      "website": "http://www.tandartszuilen.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 49,
+      "name": "Dental Care Utrecht",
+      "address": "Wilhelminapark 26, 3581 NE Utrecht, Netherlands",
+      "place_id": "ChIJp-pOaq1oxkcRLS-egtKLTGM",
+      "website": "http://www.dentalcareutrecht.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 50,
+      "name": "Tandartspraktijk F.C. Oudkerk",
+      "address": "Nieuwegracht 50, 3512 LT Utrecht, Netherlands",
+      "place_id": "ChIJaWWbVVBvxkcRi0j0mq6sw7E",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 51,
+      "name": "Tandartspraktijk N.g. Abrahams",
+      "address": "Kampereiland 23, 3524 CZ Utrecht, Netherlands",
+      "place_id": "ChIJ267wyw5mxkcRQbwsv3gPxXQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 52,
+      "name": "Tandartspraktijk Verkade",
+      "address": "Dillenburgstraat 11, 3583 VB Utrecht, Netherlands",
+      "place_id": "ChIJJya7Gq5oxkcRgsGoXvLKIuA",
+      "website": "https://www.tandartspraktijkverkade.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 53,
+      "name": "Tandartspraktijk Winter",
+      "address": "Wilhelminapark 26, 3581 NE Utrecht, Netherlands",
+      "place_id": "ChIJ__-Gwa5oxkcR5QiNXUuXue8",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 54,
+      "name": "Tandartspraktijk Verstand Leidsche Rijn",
+      "address": "Grauwaartsingel 328, 3541 DA Utrecht, Netherlands",
+      "place_id": "ChIJL2non4tvxkcRJq0t2-dTF3g",
+      "website": "https://www.tandartspraktijk.nu/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 55,
+      "name": "Mts. O.C.M. van Groot Battavé/ S.J. van Groot Battavé",
+      "address": "Chopinstraat 49, 3533 EK Utrecht, Netherlands",
+      "place_id": "ChIJWWic5H5vxkcRtc-6FQoG9S8",
+      "website": "https://tp-vangrootbattave.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 56,
+      "name": "Mondzorg Poli - Spoed Tandarts Utrecht",
+      "address": "Daltonlaan 400, 3584 BK Utrecht, Netherlands",
+      "place_id": "ChIJfbr4TqpoxkcREP2NfhGNtvk",
+      "website": "http://www.mondzorgpoli.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 57,
+      "name": "Faber Tandartspraktijk",
+      "address": "Emmalaan 6, 3581 HR Utrecht, Netherlands",
+      "place_id": "ChIJP-RyvbNoxkcRv4ZNGYije94",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 58,
+      "name": "Tandartspraktijk J.A. van Leeuwen",
+      "address": "Marnixlaan 59, 3552 HB Utrecht, Netherlands",
+      "place_id": "ChIJMX5SZQxvxkcRs82XONAhrSw",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 59,
+      "name": "Tandartspraktijk Oudwijk",
+      "address": "Oudwijk 27, 3581 TG Utrecht, Netherlands",
+      "place_id": "ChIJH043XLJoxkcReJnw4Md4ofA",
+      "website": "http://www.tandartspraktijkoudwijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   },
+   {
+      "id": 60,
+      "name": "Tandheelkunde Vleutenseweg",
+      "address": "Vleutenseweg 492, 3532 HZ Utrecht, Netherlands",
+      "place_id": "ChIJl71_1HdvxkcRGvwNrVQUhH8",
+      "website": "http://www.tandheelkundevleutenseweg.nl/",
+      "usedSearchTerm": "tandartsen+in+Utrecht"
+   }
+]

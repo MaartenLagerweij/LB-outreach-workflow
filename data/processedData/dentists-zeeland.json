@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Tandarts A.D. de Wit",
+      "address": "Van Dusseldorpstraat 5, 4461 LT Goes, Netherlands",
+      "place_id": "ChIJS7zsXdaJxEcRL60xs6ahtm4",
+      "website": "http://www.mondzorgcentrumgoes.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 2,
+      "name": "Centrum voor Tandheelkunde Walcheren",
+      "address": "Alexander Gogelweg 12, 4384 EV Vlissingen, Netherlands",
+      "place_id": "ChIJbwxYnmSXxEcRzeLSUwjTquM",
+      "website": "http://ct-walcheren.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 3,
+      "name": "Tandartspraktijk Tuyl",
+      "address": "Kastanjestraat 307, 4462 VD Goes, Netherlands",
+      "place_id": "ChIJxapFOyuIxEcRsXR9acczp1Q",
+      "website": "http://www.tandartstuyl.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 4,
+      "name": "Stichting de Zeeuwse Tandarts",
+      "address": "van de Spiegelstraat 35, 4461 LJ Goes, Netherlands",
+      "place_id": "ChIJp7axNdCJxEcROVnCCxhYsx4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 5,
+      "name": "Dental Talent Dröge",
+      "address": "Van Dusseldorpstraat 38, 4461 LV Goes, Netherlands",
+      "place_id": "ChIJS7zsXdaJxEcRsXdhg6qkCzA",
+      "website": "http://www.dentaltalent.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 6,
+      "name": "Tandartsenpraktijk Beerens",
+      "address": "Dorpsstraat 20-A, 4451 BC Heinkenszand, Netherlands",
+      "place_id": "ChIJ3z5BmLiIxEcRfqgYgj7-ArE",
+      "website": "https://beerens.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 7,
+      "name": "Tandartspraktijk Reddingius",
+      "address": "Singel 26, 4382 LA Vlissingen, Netherlands",
+      "place_id": "ChIJRZcCLOiZxEcRRgXPd8LGBKM",
+      "website": "https://tandartspraktijkreddingius.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 8,
+      "name": "Tandartsenpraktijk Van Malland B.V.",
+      "address": "Nieuwstraat 6, 4381 CT Vlissingen, Netherlands",
+      "place_id": "ChIJTxzZ4uyZxEcRUD8KS5Y-8cc",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 9,
+      "name": "Tandartspraktijk Suikerpoort",
+      "address": "Suikerpoort 7, 4331 EW Middelburg, Netherlands",
+      "place_id": "ChIJ6yw2VSeRxEcRb3ONQ11-mDI",
+      "website": "https://www.suikerpoort.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 10,
+      "name": "Dental Center North Beveland",
+      "address": "Hoofdstraat 77, 4484 CC Kortgene, Netherlands",
+      "place_id": "ChIJESuuqnSMxEcRdTsIQ19rkTw",
+      "website": "https://www.thk-centrum.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 11,
+      "name": "Maatschap Tandartsenpraktijk de Haes",
+      "address": "Westweg 4, 4357 BN Domburg, Netherlands",
+      "place_id": "ChIJoYTIahq-xEcRGGfiLdo6FCc",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 12,
+      "name": "Makdo Mondzorgpraktijk - Tandarts Oost-Souburg",
+      "address": "Kanaalstraat 40, 4388 BN Oost-Souburg, Netherlands",
+      "place_id": "ChIJvankv6qRxEcR9Q7sHck7Sso",
+      "website": "https://www.makdo.nl/praktijken/tandarts-oost-souburg/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 13,
+      "name": "Tandartspraktijk Mathia",
+      "address": "Kalverstraat 1, 4331 LZ Middelburg, Netherlands",
+      "place_id": "ChIJo3xyfhmRxEcRrSgEeW9gRTs",
+      "website": "https://www.tandartsmathia.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 14,
+      "name": "Tandzorg Goes",
+      "address": "Van Hallstraat 2, 4463 TZ Goes, Netherlands",
+      "place_id": "ChIJFUKdmMCJxEcRCloBlgkg6qw",
+      "website": "http://www.tandzorggoes.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 15,
+      "name": "Tandartspraktijk Open Hof B.v.",
+      "address": "Alexander Gogelweg 12, 4384 EV Vlissingen, Netherlands",
+      "place_id": "ChIJU9thP32XxEcRUKWCmPGez8o",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 16,
+      "name": "Mondzorgcentrum Goes",
+      "address": "Van Dusseldorpstraat 1, 4461 LT Goes, Netherlands",
+      "place_id": "ChIJJd439dWJxEcRivHJyEsOIXQ",
+      "website": "https://www.mondzorgcentrumgoes.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 17,
+      "name": "Tandarts aan Zee",
+      "address": "Kriekemeet 9, 4328 AW Burgh-Haamstede, Netherlands",
+      "place_id": "ChIJVVU0FhryxEcRQX-g-Yw_efs",
+      "website": "https://tandartsaanzee.nl/contact/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 18,
+      "name": "Tandartsenpraktijk Wimmers B.V.",
+      "address": "Beatrixlaan 24, 4461 PN Goes, Netherlands",
+      "place_id": "ChIJS7zsXdaJxEcRzPOCSTiMe0k",
+      "website": "http://www.tandartsenpraktijkwimmers.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 19,
+      "name": "Tandarts Verhelst H",
+      "address": "Zuidlandstraat 34, 4532 CL Terneuzen, Netherlands",
+      "place_id": "ChIJ5wRFLfiAxEcRddK7z8gCxss",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 20,
+      "name": "Tandartspraktijk Singel",
+      "address": "Singel 99, 4382 LN Vlissingen, Netherlands",
+      "place_id": "ChIJpfjp-OWZxEcR6L4EDIdktrA",
+      "website": "https://www.tandartspraktijksingel-vlissingen.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 21,
+      "name": "Tandartspraktijk den Broeder",
+      "address": "Grachtweg 24, 4301 KJ Zierikzee, Netherlands",
+      "place_id": "ChIJLf3A8ohfxEcRCUkkShto3Og",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 22,
+      "name": "Tandartspraktijk Mondiaal",
+      "address": "Torenplein 14, 4307 AB Oosterland, Netherlands",
+      "place_id": "ChIJn6hYT9BdxEcRBbzz0-mNk18",
+      "website": "http://www.mondiaal.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 23,
+      "name": "C.A. de Ruiter, tandarts",
+      "address": "Zonnebloemstraat 46, 4461 PL Goes, Netherlands",
+      "place_id": "ChIJUz9CINeJxEcRoemeGmbILKc",
+      "website": "https://mondzorgderuiter.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 24,
+      "name": "Tandartspraktijk De Oude Vest",
+      "address": "Veersesingel 45, 4332 TA Middelburg, Netherlands",
+      "place_id": "ChIJYZZikx-RxEcRQn95Z_Gs9tA",
+      "website": "https://www.tp-deoudevest.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 25,
+      "name": "Tandartspraktijk de Stigter",
+      "address": "Van Borselelaan 38, 4351 NP Veere, Netherlands",
+      "place_id": "ChIJX6w7UoaRxEcR41EV_BtZfRo",
+      "website": "https://tandartpraktijkdestigter.tandartsennet.nl/pages/default.asp",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 26,
+      "name": "Tandartsenpraktijk Adriaansen En Van Der Meulen",
+      "address": "Thorbeckelaan 3, 4463 VA Goes, Netherlands",
+      "place_id": "ChIJt8Ubs8GJxEcRb48GHWfO_7c",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 27,
+      "name": "Tandartsenpraktijk Paul & de Witte",
+      "address": "Doornenburg 31, 4385 EJ Vlissingen, Netherlands",
+      "place_id": "ChIJCy3No1-XxEcRHhzHM_VYHz0",
+      "website": "https://www.paulendewitte.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 28,
+      "name": "Dental Point",
+      "address": "Kloetingseweg 48, 4462 BA Goes, Netherlands",
+      "place_id": "ChIJUzYUQ39ixEcRnZfzdtLvhr8",
+      "website": "https://www.dentalpointgoes.eu/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 29,
+      "name": "Tandartspraktijk DeoSmile Goes",
+      "address": "Nassaulaan 151, 4461 SW Goes, Netherlands",
+      "place_id": "ChIJLWegpHdixEcRu8Mm4gA_ix8",
+      "website": "https://www.tandartsdeosmile.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 30,
+      "name": "Tandartsenpraktijk Pellegrino",
+      "address": "Oostperkweg 39, 4332 SB Middelburg, Netherlands",
+      "place_id": "ChIJQ2gMVSaRxEcR4ZMba4DGLgw",
+      "website": "http://pellegrino.uwtandartsonline.nl/pages/default.asp",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 31,
+      "name": "Tandartspraktijk Koster",
+      "address": "Beatrixlaan 24, 4461 PN Goes, Netherlands",
+      "place_id": "ChIJO-h86NmJxEcRsRD2E3XEZNo",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 32,
+      "name": "Tandartsen Middelburg",
+      "address": "Park Veldzigt 3, 4336 DR Middelburg, Netherlands",
+      "place_id": "ChIJRSVjlFeRxEcR57FOpNl62es",
+      "website": "https://tandartsenmiddelburg.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 33,
+      "name": "Tandartspraktijk Arratoon",
+      "address": "Stadhuisplein 6, 4382 LG Vlissingen, Netherlands",
+      "place_id": "ChIJpw55NoCXxEcRVmaA-KePMfA",
+      "website": "https://www.dentalclinics.nl/tandarts/vlissingen/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 34,
+      "name": "Tandartsenpraktijk De Klerck & Moens",
+      "address": "Turfkaai 1, 4331 JV Middelburg, Netherlands",
+      "place_id": "ChIJ9emOY9mQxEcRgKK-OPc5AXc",
+      "website": "http://www.deklerckmoens.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 35,
+      "name": "J.M.E. Adriaansen B.V.",
+      "address": "Thorbeckelaan 3, 4463 VA Goes, Netherlands",
+      "place_id": "ChIJt8Ubs8GJxEcR2IrNxctH4VE",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 36,
+      "name": "Tandartsenpraktijk De Rietlanden",
+      "address": "Schepenlaan 2, 4533 JR Terneuzen, Netherlands",
+      "place_id": "ChIJPdqWTlmAxEcRNfu46JxI7P4",
+      "website": "http://www.tandartsenpraktijkderietlanden.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 37,
+      "name": "Tandheelkundig Centrum Kwadrant",
+      "address": "Grachtweg 24, 4301 KJ Zierikzee, Netherlands",
+      "place_id": "ChIJNf1YknD1xEcRbqgpmxOdq-0",
+      "website": "https://www.thckwadrant.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 38,
+      "name": "Tandartspraktijk F. van der Vliet",
+      "address": "Grachtweg 24, 4301 KJ Zierikzee, Netherlands",
+      "place_id": "ChIJ88XQWYdfxEcR8ZQxvcFPkDQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 39,
+      "name": "dental care Schot",
+      "address": "Walcherseweg 168, 4334 NB Middelburg, Netherlands",
+      "place_id": "ChIJfRgVBtaQxEcRT4ZqbbaI5b8",
+      "website": "http://www.mondzorgschot.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 40,
+      "name": "Tandartsenpraktijk Van der Schaaf en Westveer",
+      "address": "Zuidsingel 36, 4331 RT Middelburg, Netherlands",
+      "place_id": "ChIJD2XcvyeRxEcRjkYyRDDtD1I",
+      "website": "https://mijntandarts.praktijkinfo.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 41,
+      "name": "Tandartsenpraktijk van den Dorpel",
+      "address": "Burgemeester Elenbaasstraat 1-A, 4416 AN Kruiningen, Netherlands",
+      "place_id": "ChIJ28DJQtJkxEcR1wvNPks9los",
+      "website": "https://www.tandartsenpraktijkvandendorpel.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 42,
+      "name": "Tandarts A.C.R. Bracké",
+      "address": "Burgemeester van Zuijenstraat 81, 4511 GL Breskens, Netherlands",
+      "place_id": "ChIJodwVFRaZxEcRQrtxNtlxKXk",
+      "website": "http://tandartspraktijkbracke.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 43,
+      "name": "R.W. de Bruin",
+      "address": "Vermetstraat 15, 4458 BA 's-Heer Arendskerke, Netherlands",
+      "place_id": "ChIJh5hJtN-IxEcRnmkh8N25ndU",
+      "website": "https://www.tandarts.nl/tandarts-s-heer-arendskerke/rw-de-bruin",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 44,
+      "name": "Koster tandarts-implantoloog Goes",
+      "address": "Beatrixlaan 24, 4461 PN Goes, Netherlands",
+      "place_id": "ChIJO-h86NmJxEcRAsJAIpSqB1I",
+      "website": "https://www.tandimplantaten.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 45,
+      "name": "tandarts de smedt",
+      "address": "Grachtweg 24, 4301 KJ Zierikzee, Netherlands",
+      "place_id": "ChIJS3TI7GL1xEcR3KAyTyW6ea4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 46,
+      "name": "Lippens Tandartspraktijk B.V.",
+      "address": "Zuidlandstraat 34, 4532 CL Terneuzen, Netherlands",
+      "place_id": "ChIJI0ADXmGAxEcRujc8KU5Cgm8",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 47,
+      "name": "Mondzorgcentrum Axel / Tandarts Han Verhelst",
+      "address": "Molenstraat 1, 4571 EZ Axel, Netherlands",
+      "place_id": "ChIJ9WPPYf6Bw0cRdu2t_SYFO8A",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 48,
+      "name": "Tandartspraktijk De Vervulling",
+      "address": "Roozenburglaan 14, 4337 JH Middelburg, Netherlands",
+      "place_id": "ChIJN84NneeQxEcR6111SDg6SKE",
+      "website": "http://tandartspraktijkdevervulling.nl/contact",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 49,
+      "name": "drs. W.J.C. Besuijen, tandarts",
+      "address": "Sint Maartenlaan 9, 4383 AP Vlissingen, Netherlands",
+      "place_id": "ChIJtxKve9mZxEcRZ5LexS2eBtQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 50,
+      "name": "Tandartspraktijk de Veste",
+      "address": "Axelsestraat 14, 4537 AJ Terneuzen, Netherlands",
+      "place_id": "ChIJ93EJX_uAxEcRAs8wJIRxnc8",
+      "website": "http://www.tpdeveste.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 51,
+      "name": "Tandartsenpraktijk Friedrich B.V.",
+      "address": "Ring 19-A, 4328 AE Burgh-Haamstede, Netherlands",
+      "place_id": "ChIJf4uiqhDyxEcR7Jb1RHvgYRk",
+      "website": "http://www.tandartsenburghhaamstede.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 52,
+      "name": "Tandartspraktijk Bonnez",
+      "address": "Koninginnelaan 22, 4532 BR Terneuzen, Netherlands",
+      "place_id": "ChIJa_-myPCAxEcRxBSP4LlpfF8",
+      "website": "http://www.tandartspraktijkbonnez.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 53,
+      "name": "Makdo Mondzorgpraktijk Oostburg",
+      "address": "Melkweg 1A, 4501 GJ Oostburg, Netherlands",
+      "place_id": "ChIJG30axJmfxEcR7rm5ajMb4a4",
+      "website": "https://www.makdo.nl/praktijken/tandarts-oostburg/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 54,
+      "name": "Adriaansens Tandprotheticus",
+      "address": "Van Dusseldorpstraat 5, 4461 LT Goes, Netherlands",
+      "place_id": "ChIJmxruXdaJxEcRgGkPPfne2Ac",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 55,
+      "name": "M.H. Rackwitsz",
+      "address": "Veersesingel 45, 4332 TA Middelburg, Netherlands",
+      "place_id": "ChIJYZZikx-RxEcRgmqQHS-Kuzc",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 56,
+      "name": "Tandartsenpraktijk Houg B.V.",
+      "address": "Dam 7, 4461 HV Goes, Netherlands",
+      "place_id": "ChIJ9xJmRtCJxEcRR6XVUeuzOiI",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 57,
+      "name": "A.P. van den Dorpel",
+      "address": "Ericalaan 31, 4401 HP Yerseke, Netherlands",
+      "place_id": "ChIJsdkmUFZkxEcRwKZ8h48_FBs",
+      "website": "https://www.tandartsenpraktijkvandendorpel.nl/",
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 58,
+      "name": "J. Klaver, Tandarts",
+      "address": "Grachtweg 24, 4301 KJ Zierikzee, Netherlands",
+      "place_id": "ChIJxTvrhQNfxEcRWxZckxvYp8c",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 59,
+      "name": "tandartspraktijk de Looff",
+      "address": "Turfkaai 1, 4331 JV Middelburg, Netherlands",
+      "place_id": "ChIJ9emOY9mQxEcRgIPk55zQBTc",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   },
+   {
+      "id": 60,
+      "name": "Tandarts Van Den Dorpel",
+      "address": "Sint Felixstraat 1, 4411 DB Rilland, Netherlands",
+      "place_id": "ChIJD9pYdJNxxEcRePBZJDGmtxI",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+zeeland"
+   }
+]

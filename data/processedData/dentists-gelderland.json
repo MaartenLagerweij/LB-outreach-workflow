@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Tandartspraktijk Jeurissen",
+      "address": "Sleggeplantsoen 40B, 6835 AJ Arnhem, Netherlands",
+      "place_id": "ChIJyzY3_36mx0cR_NZ8_H-FugA",
+      "website": "http://www.tpdegeldersekroon.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 2,
+      "name": "Tandartsenpraktijk Klaassen",
+      "address": "Emmastraat 65, 6882 MK Velp, Netherlands",
+      "place_id": "ChIJm-Xi4YOjx0cR0eA77YLzwUs",
+      "website": "https://www.tandartsklaassen.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 3,
+      "name": "Tandartsenpraktijk Loenenseweg",
+      "address": "Loenenseweg 90, 6961 CT Eerbeek, Netherlands",
+      "place_id": "ChIJ_3zcps69x0cRU7mBdA7Zox4",
+      "website": "https://www.tandartsenpraktijkloenenseweg.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 4,
+      "name": "Tandartsenpraktijk Driel",
+      "address": "Doctor A.W. Ausemsstraat 5a, 6665 DL Driel, Netherlands",
+      "place_id": "ChIJc7ws4dKox0cRlok0IIQmu_g",
+      "website": "http://www.tandartspraktijkdriel.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 5,
+      "name": "Tandartspraktijk Fredrikze",
+      "address": "Apeldoornseweg 59, 6814 BJ Arnhem, Netherlands",
+      "place_id": "ChIJoaHHS7Klx0cRHDiB-kBByCE",
+      "website": "http://www.apeldoornseweg59.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 6,
+      "name": "Tandartsenpraktijk Schuytgraaf",
+      "address": "Hunnenveld 38, 6846 CP Arnhem, Netherlands",
+      "place_id": "ChIJyTB546aox0cR9u2EWxM6myw",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 7,
+      "name": "Tandarts Doetinchem",
+      "address": "Varsseveldseweg 69, 7002 LJ Doetinchem, Netherlands",
+      "place_id": "ChIJkaV8h8OEx0cRtZTLh_p-kUw",
+      "website": "http://www.tandarts-doetinchem.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 8,
+      "name": "Tandartsenpraktijk Arnhemseweg",
+      "address": "Arnhemseweg 18, 6711 HA Ede, Netherlands",
+      "place_id": "ChIJc3T6PEWtx0cRozIga-aG3ls",
+      "website": "https://www.aw18.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 9,
+      "name": "dentist Ede",
+      "address": "Arnhemseweg 10A, 6711 HA Ede, Netherlands",
+      "place_id": "ChIJC5m5bk-tx0cRuOS4MHh7hAg",
+      "website": "http://www.tandartsede.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 10,
+      "name": "Tandartspraktijk van den Berg",
+      "address": "Winkelsteegseweg 99, 6534 AP Nijmegen, Netherlands",
+      "place_id": "ChIJhboShB8Gx0cR7eHVw06wq_E",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 11,
+      "name": "De Tandartspraktijk Doetinchem",
+      "address": "Burgemeester de Bruijnstraat 87A, 7006 AV Doetinchem, Netherlands",
+      "place_id": "ChIJZ2c9FSqFx0cRpef1an7mNCY",
+      "website": "http://www.detandartspraktijkdoetinchem.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 12,
+      "name": "Tandartspraktijk de Gelder",
+      "address": "Binnenweg 35, 7391 GL Twello, Netherlands",
+      "place_id": "ChIJl0yg0TPAx0cRrw_z0YyChTY",
+      "website": "http://www.tandartspraktijkdegelder.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 13,
+      "name": "Schuytse Tandartsen",
+      "address": "Bakerwaard 29, 6846 EM Arnhem, Netherlands",
+      "place_id": "ChIJ_88iwp-px0cRtLN4Q2UKJ-U",
+      "website": "http://www.schuytsetandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 14,
+      "name": "Tandarts Today",
+      "address": "Loenenseweg 90, 6961 CT Eerbeek, Netherlands",
+      "place_id": "ChIJ_3zcps69x0cRdjQVJ0uti1s",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 15,
+      "name": "Samenwerkende Tandartsen Zetten - Hoofdstraat",
+      "address": "Hoofdstraat 12, 6671 CB Zetten, Netherlands",
+      "place_id": "ChIJkebshbWrx0cRuctHBwUcuBs",
+      "website": "https://www.tandartszetten.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 16,
+      "name": "Tandartsenpraktijk Wilhelminaweg, Praktijk Voor Orale Implantologie Veluwezoom",
+      "address": "Wilhelminaweg 88, 6951 BR Dieren, Netherlands",
+      "place_id": "ChIJq6pm_OaXx0cRg55JfumYHZc",
+      "website": "https://tandartsenpraktijkwilhelminaweg.nl/huisregels/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 17,
+      "name": "Tandartsenpraktijk de Leng",
+      "address": "Bachlaan 7, 6815 DD Arnhem, Netherlands",
+      "place_id": "ChIJC9RrXAalx0cRzrfYFpylAM4",
+      "website": "https://www.tandartsenpraktijkdeleng.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 18,
+      "name": "Dental Apeldoornseweg 59",
+      "address": "Apeldoornseweg 59, 6814 BJ Arnhem, Netherlands",
+      "place_id": "ChIJoaHHS7Klx0cR_NcYr6Eg3Z8",
+      "website": "http://www.apeldoornseweg59.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 19,
+      "name": "Tandartsenpraktijk St. Elisabeths Gasthuis",
+      "address": "Sint Elisabethshof 1, 6812 AV Arnhem, Netherlands",
+      "place_id": "ChIJk1eRHr6lx0cR3papt-CyqJ4",
+      "website": "https://www.tpeg.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 20,
+      "name": "M.D. Nab Tandartspraktijk B.V.",
+      "address": "Langstraat 1A, 6661 NL Elst, Netherlands",
+      "place_id": "ChIJfzi4UPCox0cRZj3JfxlMnCY",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 21,
+      "name": "Schellekens and Van den Boomen Dentists",
+      "address": "Beekhuizenseweg 2, 6881 AJ Velp, Netherlands",
+      "place_id": "ChIJw2OL83ajx0cRctMhA33uBjY",
+      "website": "https://www.tandartsvelp.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 22,
+      "name": "Tandartsen Elst",
+      "address": "Stationsdwarsstraat 17, 6662 AZ Elst, Netherlands",
+      "place_id": "ChIJq6p6n9Onx0cRr2w2uGZQ2TI",
+      "website": "https://www.tandartsenelst.nl/privacy/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 23,
+      "name": "Spoedgevallendienst van de tandartsen in Doetinchem eo",
+      "address": "Sint Martinusstraat 3, 7037 AA Beek Gem Montferland, Netherlands",
+      "place_id": "ChIJVVVBHzacx0cRUmRPlDIpLDM",
+      "website": "http://www.spoed-tandarts.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 24,
+      "name": "Tandartspraktijk Rijnzigt",
+      "address": "Klingelbeekseweg 134, 6812 DJ Arnhem, Netherlands",
+      "place_id": "ChIJVyqEtpilx0cRobrJxLZ6Mtg",
+      "website": "http://www.rijnzigt.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 25,
+      "name": "Tandartsenpraktijk W H Polet",
+      "address": "Sint Elisabethshof 1, 6812 AV Arnhem, Netherlands",
+      "place_id": "ChIJWcxj9JWlx0cRX3UxmreRlCE",
+      "website": "http://www.stralendwittelach.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 26,
+      "name": "Tandartsenpraktijk E.R. Versteegh B.V.",
+      "address": "Loenenseweg 90, 6961 CT Eerbeek, Netherlands",
+      "place_id": "ChIJ_3zcps69x0cR3UttIuP9bFc",
+      "website": "https://www.tandartsenpraktijkloenenseweg.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 27,
+      "name": "F.C. van Meeteren Tandarts",
+      "address": "Oremusplein 6, 6815 DN Arnhem, Netherlands",
+      "place_id": "ChIJmf04nAelx0cRJCdG6LPS6rU",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 28,
+      "name": "Tandartspraktijk mw. dr. S.C. Raffel",
+      "address": "Rijksweg 57, 6921 AC Duiven, Netherlands",
+      "place_id": "ChIJmc-GfIihx0cR1nO4KsE4qQA",
+      "website": "https://www.detandarts.nu/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 29,
+      "name": "Centrum voor tandheelkunde Beekbergen",
+      "address": "Arnhemseweg 507, 7361 CJ Beekbergen, Netherlands",
+      "place_id": "ChIJCxYCjwS5x0cRE9FFDGu4pzw",
+      "website": "https://www.tandartsvansambeek.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 30,
+      "name": "Tandartspraktijk Gluzek",
+      "address": "Peeskesweg 1a, 7037 CH Beek Gem Montferland, Netherlands",
+      "place_id": "ChIJ-6u2PEqcx0cRUpFFq-6e7bQ",
+      "website": "http://www.tandarts-gluzek.com/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 31,
+      "name": "Tandartspraktijk Staring",
+      "address": "Emmastraat 23, 6881 SN Velp, Netherlands",
+      "place_id": "ChIJVYHGl4Gjx0cRAEpnicgjb2g",
+      "website": "https://tandartspraktijkstaring.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 32,
+      "name": "Tandheelkundepraktijk Evers",
+      "address": "Velperweg 98, 6824 HM Arnhem, Netherlands",
+      "place_id": "ChIJ37ON01ykx0cRMMmUDIwv04U",
+      "website": "http://www.tandartspraktijkevers.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 33,
+      "name": "dental practice Sonswijck",
+      "address": "Van Lawick van Pabststraat 120, 6814 HA Arnhem, Netherlands",
+      "place_id": "ChIJQzI2qLylx0cRm7einbPNii4",
+      "website": "http://www.tandartspraktijksonswijck.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 34,
+      "name": "Tandartspraktijk Wolfheze",
+      "address": "Wolfheze 2, 6874 BE Wolfheze, Netherlands",
+      "place_id": "ChIJJYMLafaux0cR7pYymU3MuDI",
+      "website": "https://www.tandartspraktijkwolfheze.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 35,
+      "name": "Tandartspraktijk Ellecom",
+      "address": "Kastanjelaan 21, 6955 AM Ellecom, Netherlands",
+      "place_id": "ChIJXwWTnwGYx0cRvLjFAAaaneo",
+      "website": "http://www.tandartspraktijkellecom.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 36,
+      "name": "Dental Design & Styling",
+      "address": "Graafseweg 232, 6531 ZZ Nijmegen, Netherlands",
+      "place_id": "ChIJB97rx7kJx0cRFw54R-avtMc",
+      "website": "https://www.dental-styling.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 37,
+      "name": "Tandarts H.P.E. Tak",
+      "address": "Veerweg 36, 6991 GN Rheden, Netherlands",
+      "place_id": "ChIJBau7duWix0cRax81gRvm5F0",
+      "website": "http://www.tandartspraktijktak.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 38,
+      "name": "Dentist Van den Berg en Klasen",
+      "address": "Kievitstraat 1, 6942 KC Didam, Netherlands",
+      "place_id": "ChIJT-zOZNmex0cRhScHzkNN4ds",
+      "website": "https://www.tandartsdidam.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 39,
+      "name": "DoeDental Tandartsen",
+      "address": "Julianaplein 44, 7003 DW Doetinchem, Netherlands",
+      "place_id": "ChIJ8--UF8aEx0cRJJ3fek7V4us",
+      "website": "https://doedental.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 40,
+      "name": "Tandartspraktijk Fabels",
+      "address": "Louise de Colignylaan 2, 6961 EN Eerbeek, Netherlands",
+      "place_id": "ChIJXzBy-7u9x0cR5uIDkvOkBw4",
+      "website": "http://www.tandartspraktijkfabels.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 41,
+      "name": "Tandartspraktijk M.m.h. Van Der Linden",
+      "address": "Julianaplein 31, 7001 HE Doetinchem, Netherlands",
+      "place_id": "ChIJn0FEdseEx0cRXL7_XHRjCOM",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 42,
+      "name": "Bronckhorst tandartsen",
+      "address": "Rijksweg 54, 6997 CA Hoog-Keppel, Netherlands",
+      "place_id": "ChIJi8yuVyGax0cRLLeddygq5HQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 43,
+      "name": "Aams Tandheelkundig Centrum - Nijhof",
+      "address": "Nieuwe Aamsestraat 67A, 6662 NK Elst, Netherlands",
+      "place_id": "ChIJkQl1aDKmx0cRlzGQh6xVrAU",
+      "website": "https://www.atcnijhof.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 44,
+      "name": "Ncm Van Mook Tandarts",
+      "address": "Panhuis 52, 6941 BZ Didam, Netherlands",
+      "place_id": "ChIJZ6zajtGex0cR39FNUNCkXxM",
+      "website": "https://www.gcdidam.nl/zorgverlener/tandarts/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 45,
+      "name": "Tandartspraktijk Swaters & Kremer",
+      "address": "Mauvestraat 46, 6813 JM Arnhem, Netherlands",
+      "place_id": "ChIJ9ywioZ6lx0cRQAb0jq_6t50",
+      "website": "http://www.swaterskremer.nl/contact.html",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 46,
+      "name": "Tandartspraktijk The",
+      "address": "Burgemeester Dijckmeesterweg 43, 7201 AK Zutphen, Netherlands",
+      "place_id": "ChIJmw6tLmWUx0cRg6me8bbZezc",
+      "website": "http://www.tandartsthe.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 47,
+      "name": "Tandartspraktijk Schuytvaart Arnhem",
+      "address": "Parelmoerwolk 5, 6846 DP Arnhem, Netherlands",
+      "place_id": "ChIJcaYInK2ox0cR0a0GXl1AuPE",
+      "website": "http://www.tandarts-schuytvaart.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 48,
+      "name": "Tandartspraktijk Wichgers",
+      "address": "Gochsestraat 49, 6851 JD Huissen, Netherlands",
+      "place_id": "ChIJ6SAkesSmx0cRUerv1IsX0Lk",
+      "website": "http://www.tandartspraktijkwichgers.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 49,
+      "name": "Tandartspraktijk Witjes",
+      "address": "Rijksweg Zuid 4a, 6662 KD Elst, Netherlands",
+      "place_id": "ChIJO-yazNSnx0cRCoUL5qtALw4",
+      "website": "http://www.tandartswitjes.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 50,
+      "name": "Radic Tandartspraktijk",
+      "address": "Aalburgstraat 108, 6844 DJ Arnhem, Netherlands",
+      "place_id": "ChIJYcQbFB2mx0cRHF1dph3yPS0",
+      "website": "http://tandartspraktijkradic.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 51,
+      "name": "Alphadent Tandartspraktijk",
+      "address": "Doctor Joop Den Uylsingel 33, 6836 GK Arnhem, Netherlands",
+      "place_id": "ChIJVVXECmWmx0cRNWU32vJ0ONs",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 52,
+      "name": "Mondzorg Angeren",
+      "address": "Viswei 3, 6687 EA Angeren, Netherlands",
+      "place_id": "ChIJISTA6Bynx0cRtulVpXYR88Y",
+      "website": "http://www.mondzorgangeren.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 53,
+      "name": "Tandartsenpraktijk Apeldoornseweg",
+      "address": "Apeldoornseweg 98, 8172 EN Vaassen, Netherlands",
+      "place_id": "ChIJdzIKGmbGx0cRUJ8PBULLNhI",
+      "website": "http://www.tandartsenapeldoornseweg.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 54,
+      "name": "Tandartspraktijk Stammen",
+      "address": "De Rauwendaal 25, 6666 BX Heteren, Netherlands",
+      "place_id": "ChIJ1ecx51Cpx0cRhe8Mi6j87sY",
+      "website": "http://www.tandartsheteren.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 55,
+      "name": "Tandartspraktijk Uilenberg",
+      "address": "Hogenkampseweg 189, 6871 JN Renkum, Netherlands",
+      "place_id": "ChIJa3Isxxisx0cRwZR0ZXnF-Iw",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 56,
+      "name": "Tandarts Everaars R J",
+      "address": "Buurtweg 42, 6991 VZ Rheden, Netherlands",
+      "place_id": "ChIJe1DTZf2ix0cRYMhW9K6eivM",
+      "website": "https://tandartseveraars.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 57,
+      "name": "Tandarts Smans",
+      "address": "Velperweg 31, 6824 BD Arnhem, Netherlands",
+      "place_id": "ChIJ9W71n0-kx0cR25p55xZhRhE",
+      "website": "http://www.gsmans.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 58,
+      "name": "P.Q. Brackman, praktijk voor tandheelkunde en implantologie",
+      "address": "De Gasperisingel 30, 6716 RB Ede, Netherlands",
+      "place_id": "ChIJSVyJeNRSxkcRe2bYdFAIavM",
+      "website": "https://www.mondzorgrietkampen.nl/over-ons-2/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 59,
+      "name": "Rierink Tandartsen",
+      "address": "Bergstraat 2, 6711 DD Ede, Netherlands",
+      "place_id": "ChIJO0lDHlutx0cRi4hinp_a1HQ",
+      "website": "http://www.rierinktandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   },
+   {
+      "id": 60,
+      "name": "Tandartspraktijk R.W. Beck B.V.",
+      "address": "Arnhemseweg 18, 6711 HA Ede, Netherlands",
+      "place_id": "ChIJa4dVPEWtx0cRSW-lUhblh8w",
+      "website": "http://tandartsbeck.nl/",
+      "usedSearchTerm": "tandartsen+in+Gelderland"
+   }
+]

@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Dental Practice Gilden",
+      "address": "Sint Catharinagilde 1, 8253 KA Dronten, Netherlands",
+      "place_id": "ChIJU6R0NlAqxkcR4Ub8OGj9tk4",
+      "website": "http://www.tandartspraktijkdegilden.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 2,
+      "name": "Flevo Tandarts",
+      "address": "Meenthoek 3, 8224 BS Lelystad, Netherlands",
+      "place_id": "ChIJIVxfAC0nxkcRVAnxzK0tNMk",
+      "website": "https://www.flevotandarts.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 3,
+      "name": "Tandartspraktijk De Jong",
+      "address": "Botter 44 13, 8243 JE Lelystad, Netherlands",
+      "place_id": "ChIJp5os_P8mxkcRN_iQ41GiQ0M",
+      "website": "https://www.samenwerkendetandartsen.nl/praktijken/lelystad",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 4,
+      "name": "Tandartsenpraktijk de Vries",
+      "address": "De Bolder 22, 8251 KC Dronten, Netherlands",
+      "place_id": "ChIJLb1p6PwqxkcR_On6By1HyH4",
+      "website": "https://www.tandartsenpraktijkdevries.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 5,
+      "name": "Tandartspraktijk Reuvers B.V.",
+      "address": "Griend 1109, 8225 VG Lelystad, Netherlands",
+      "place_id": "ChIJaaq5mX0mxkcRAp5kBjzSBlk",
+      "website": "http://www.tandartsreuvers.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 6,
+      "name": "Tandartspraktijk Gezondheidscentrum de Jol",
+      "address": "Jol 3718, 8243 HP Lelystad, Netherlands",
+      "place_id": "ChIJLQ1-qbkmxkcRXanoqay1NDA",
+      "website": "https://www.tandartspraktijk-lelystad.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 7,
+      "name": "Tandartspraktijk Warande",
+      "address": "Haagwinde 4, 8245 HW Lelystad, Netherlands",
+      "place_id": "ChIJlc73qJolxkcR58QvYX1mxXI",
+      "website": "http://www.tandartspraktijkwarande.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 8,
+      "name": "Tandartspraktijk Leeuwin",
+      "address": "Leemwierde 130, 1353 LP Almere, Netherlands",
+      "place_id": "ChIJ8csT26IWxkcRzPiRq1lMosw",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 9,
+      "name": "Tandzorg Op Maat Lelystad",
+      "address": "Reaalhof 31, 8232 VW Lelystad, Netherlands",
+      "place_id": "ChIJx6GboI4mxkcRuWxYeDKGcnE",
+      "website": "https://tandzorgopmaatlelystad.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 10,
+      "name": "M.C.J. Coenen Tandartspraktijk",
+      "address": "Griend 1109, 8225 VG Lelystad, Netherlands",
+      "place_id": "ChIJaaq5mX0mxkcRyvL67BCkXQc",
+      "website": "http://www.tandartscoenen.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 11,
+      "name": "Tandartspraktijk Broere",
+      "address": "Radio Oranjelaan 38, 1318 AX Almere, Netherlands",
+      "place_id": "ChIJndsftwAXxkcR3R66gZz0sK8",
+      "website": "https://www.tandartsenalmere.nl/praktijken/tandarts-broere/broere/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 12,
+      "name": "Tandartspraktijk G.H. Corbeek",
+      "address": "Binnendijk 29, 8244 AA Lelystad, Netherlands",
+      "place_id": "ChIJyzO-n1EhxkcRhrHsyBUJ4Ms",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 13,
+      "name": "Tandartspraktijk Flevohuis",
+      "address": "De Helling 11, 8251 GH Dronten, Netherlands",
+      "place_id": "ChIJq7MlOOMqxkcRq1mFspx9FfY",
+      "website": "http://www.tandartspraktijkflevohuis.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 14,
+      "name": "Mondzorg Ivoren Klif B.V.",
+      "address": "Plaats 9d, 8224 AB Lelystad, Netherlands",
+      "place_id": "ChIJV1nzKPYmxkcR9m7RBtF9olw",
+      "website": "https://mondzorgivorenklif.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 15,
+      "name": "Dent Perfect Tandarts",
+      "address": "Zilverparkkade 3, 8232 WJ Lelystad, Netherlands",
+      "place_id": "ChIJ2UAGfKgLxkcRI_oLHaKeDPk",
+      "website": "http://www.dentperfect.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 16,
+      "name": "Tandheelkundig Centrum Dronten Zuid",
+      "address": "Lancasterdreef 67, 8251 TJ Dronten, Netherlands",
+      "place_id": "ChIJAQAQGBorxkcR1W30jDEV65U",
+      "website": "https://tandheelkundigcentrumdrontenzuid.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 17,
+      "name": "Tandartspraktijk Peppellaan",
+      "address": "Peppellaan 16, 8302 AL Emmeloord, Netherlands",
+      "place_id": "ChIJj8S1rcmHyEcRYg3VzbcSeoo",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 18,
+      "name": "Tandartspraktijk De Meridiaan",
+      "address": "Palembangweg 86, 1335 HK Almere, Netherlands",
+      "place_id": "ChIJuSHqFeYXxkcRG9GfZerasIY",
+      "website": "https://tandartsmeridiaan.praktijkinfo.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 19,
+      "name": "Tandartspraktijk Wesselink",
+      "address": "De Bolder 22, 8251 KC Dronten, Netherlands",
+      "place_id": "ChIJLb1p6PwqxkcRfsGv4K20ZG8",
+      "website": "https://tandartswesselink.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 20,
+      "name": "Tandartspraktijk de Jol Lelystad",
+      "address": "Jol 33 03, 8243 HD Lelystad, Netherlands",
+      "place_id": "ChIJCxwYBrkmxkcRME2WkB6INb4",
+      "website": "https://www.tandarts-lelystad.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 21,
+      "name": "Tandartspraktijk Biddinghuizen",
+      "address": "Sportlaan 21, 8256 CE Biddinghuizen, Netherlands",
+      "place_id": "ChIJ7ST4IPYsxkcRsYOLW676RAA",
+      "website": "http://www.tandartsbiddinghuizen.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 22,
+      "name": "Tandartsenpraktijk Voorbraak & Macville",
+      "address": "Botter 3904, 8243 KB Lelystad, Netherlands",
+      "place_id": "ChIJBXf1SZcmxkcRQcsPWEDnFA4",
+      "website": "http://www.voordent.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 23,
+      "name": "Tandartspraktijk Dronten",
+      "address": "De Bolder 12, 8251 KC Dronten, Netherlands",
+      "place_id": "ChIJw2YkWdgrxkcRGfv1Iy-tfZc",
+      "website": "https://tandartspraktijkdronten.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 24,
+      "name": "Tandartsenpraktijk Simons B.V.",
+      "address": "Boeier 01 2, 8242 CA Lelystad, Netherlands",
+      "place_id": "ChIJ9f9-scUmxkcRlDMg_-QHKYE",
+      "website": "https://tandartsenpraktijk-simons.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 25,
+      "name": "Samenwerkende Tandartsen Lelystad",
+      "address": "Botter 44 13, 8243 JE Lelystad, Netherlands",
+      "place_id": "ChIJAXFgtpAmxkcRxxf7m_W-f40",
+      "website": "https://tandartsenpraktijklelystad.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 26,
+      "name": "Tandartspraktijk Waterwijk",
+      "address": "Botplein 4, 1317 SL Almere, Netherlands",
+      "place_id": "ChIJ3SM78BEXxkcRT7VXSdNIHzM",
+      "website": "https://www.tandartspraktijkwaterwijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 27,
+      "name": "Tandarts J.j.a. Moonen",
+      "address": "Griend 11 9, 8225 VG Lelystad, Netherlands",
+      "place_id": "ChIJw7nHnn0mxkcR9dQsVwAIaLs",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 28,
+      "name": "Mondzorg Swifterbant",
+      "address": "Noordsingel 45, 8255 AD Swifterbant, Netherlands",
+      "place_id": "ChIJpz6W5AiCyEcRfAd53nSLQek",
+      "website": "https://www.mondzorgswifterbant.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 29,
+      "name": "Tandartspraktijk G.J. Becker",
+      "address": "Middendreef 273, 8233 GT Lelystad, Netherlands",
+      "place_id": "ChIJn4NxpcYmxkcRJHx_kmgEtHw",
+      "website": "http://www.lassustandartsenlelystad.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 30,
+      "name": "Alexodent Tandartspraktijk",
+      "address": "IJsselmeerlaan 77, 8304 DE Emmeloord, Netherlands",
+      "place_id": "ChIJje82hruHyEcRR1sjvPlxnUY",
+      "website": "http://www.alexodentpraktijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 31,
+      "name": "Dental practice Edelhertweg",
+      "address": "Edelhertweg 19, 1338 EC Almere, Netherlands",
+      "place_id": "ChIJc72ygsYXxkcR4-liCX4ckaM",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 32,
+      "name": "Tandartspraktijk Maassen B.V.",
+      "address": "Lancasterdreef 71, 8251 TJ Dronten, Netherlands",
+      "place_id": "ChIJDTDaFRorxkcRBnfq6QNxLMk",
+      "website": "https://www.tandarts.nl/tandarts-dronten/tandartspraktijk-maassen",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 33,
+      "name": "Tandartspraktijk de Geldersedreef",
+      "address": "Griend 1103, 8225 VG Lelystad, Netherlands",
+      "place_id": "ChIJBcyqpH0mxkcRFmY3OvUyWdM",
+      "website": "https://www.tandartsprust.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 34,
+      "name": "Voorbraak Tandartspraktijk B.v.",
+      "address": "Griend 11 9, 8225 VG Lelystad, Netherlands",
+      "place_id": "ChIJw7nHnn0mxkcR586ECBKFwm0",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 35,
+      "name": "Tandarts Almere",
+      "address": "Edelhertweg 19, 1338 EC Almere, Netherlands",
+      "place_id": "ChIJRaP6jusXxkcRgdyt45qkTEs",
+      "website": "https://detandartsalmere.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 36,
+      "name": "Tandzorg Flevoland B.v.",
+      "address": "Dwergkonijnstraat 1, 1338 AH Almere, Netherlands",
+      "place_id": "ChIJCyUYVcAXxkcRCO0tZvavybU",
+      "website": "https://www.tandartspraktijkfaunabuurt.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 37,
+      "name": "Tandartspraktijk Tussen de Vaarten",
+      "address": "Andy Warholstraat 13, 1328 LA Almere, Netherlands",
+      "place_id": "ChIJYWMO-MoXxkcRKaEqq6Cq1kQ",
+      "website": "http://www.tandartstussendevaarten.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 38,
+      "name": "Tandartspraktijk A.m. Siphanto",
+      "address": "Kempenaar 03 35, 8242 BD Lelystad, Netherlands",
+      "place_id": "ChIJ2zx7IuomxkcRekdv0MAni1M",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 39,
+      "name": "Tandartspraktijk Polder",
+      "address": "Houttuinen 5, 8301 XP Emmeloord, Netherlands",
+      "place_id": "ChIJPRk1ILGHyEcRi5EzKlC5Wx4",
+      "website": "https://www.tandartspraktijkpolder.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 40,
+      "name": "Tandartspraktijk Magnus G. Bohnmann",
+      "address": "Urkerweg 1, 8303 BX Emmeloord, Netherlands",
+      "place_id": "ChIJ8a18a7OHyEcRFwHVbKX8eSc",
+      "website": "http://bohnmann.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 41,
+      "name": "Tandartspraktijk De Landerijen Lelystad",
+      "address": "Oudaen 15, 8219 AA Lelystad, Netherlands",
+      "place_id": "ChIJXXWL8QsmxkcRRkbBcR7Grbs",
+      "website": "https://tandarts-landerijen.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 42,
+      "name": "Tandartspraktijk R.J. Dekker",
+      "address": "De Weerdt 9, 3891 BL Zeewolde, Netherlands",
+      "place_id": "ChIJHV1TYcQwxkcRMipi4eM-Mvs",
+      "website": "https://tandartsdekker.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 43,
+      "name": "Mondzorg Poli - Spoed Tandarts Almere",
+      "address": "Allendestraat 42, 1314 SE Almere, Netherlands",
+      "place_id": "ChIJqUXCUMQXxkcRfmu7C-rrhqI",
+      "website": "http://www.mondzorgpoli.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 44,
+      "name": "Lassus Tandartsen Lelystad",
+      "address": "Middendreef 273, 8233 GT Lelystad, Netherlands",
+      "place_id": "ChIJPSgLOoYnxkcRtdgKiKzypdM",
+      "website": "https://lassustandartsen.nl/lelystad/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 45,
+      "name": "Tandartspraktijk Faunabuurt",
+      "address": "Dwergkonijnstraat 1-3, 1338 AH Almere, Netherlands",
+      "place_id": "ChIJCyUYVcAXxkcRx-S27qNgs_I",
+      "website": "http://www.tandartspraktijkfaunabuurt.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 46,
+      "name": "Dentist van der Jagt",
+      "address": "Brandersmolenstraat 32, 1333 BX Almere, Netherlands",
+      "place_id": "ChIJT-KizJYXxkcR33a9qWCF7ks",
+      "website": "http://www.tandartsenalmere.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 47,
+      "name": "Tandartspraktijk Evenaar",
+      "address": "Scharlakenstraat 32, 1339 AC Almere, Netherlands",
+      "place_id": "ChIJSSpa--MXxkcRGGRba3C6oQI",
+      "website": "http://www.tandartspraktijkevenaar.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 48,
+      "name": "Tandartspraktijk Stedenwijk",
+      "address": "Allendestraat 42, 1314 SE Almere, Netherlands",
+      "place_id": "ChIJ___vRB8XxkcRGpAVQapoAQc",
+      "website": "http://tandartspraktijk-stedenwijk.nl/contact/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 49,
+      "name": "Tandartspraktijk Van der Linde Molleman",
+      "address": "Edelhertweg 19, 1338 EC Almere, Netherlands",
+      "place_id": "ChIJc72ygsYXxkcRyGKmNxcAIDw",
+      "website": "https://tp-vanderlindemolleman.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 50,
+      "name": "Tandzorg lief Almere",
+      "address": "Leemwierde 133, 1353 LP Almere, Netherlands",
+      "place_id": "ChIJCY_7JssXxkcRXLIu8x8I7eQ",
+      "website": "http://www.tandzorglief.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 51,
+      "name": "Almeerse Tandartsen Praktijk",
+      "address": "Grote Markt 97, 1315 JC Almere, Netherlands",
+      "place_id": "ChIJb5yTSOAWxkcRNkOSd2v5F-0",
+      "website": "https://almeretandartspraktijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 52,
+      "name": "Tandartsenpraktijk Centra Plaza",
+      "address": "Plaats 9K, 8224 AB Lelystad, Netherlands",
+      "place_id": "ChIJV1nzKPYmxkcRF9i5-jLaW1U",
+      "website": "http://www.tandartsenpraktijkcentraplaza.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 53,
+      "name": "Tandartsenpraktijk Drielanden",
+      "address": "Bazuindreef 21, 3845 DA Harderwijk, Netherlands",
+      "place_id": "ChIJkSZ5RFoxxkcRa1vpzuBuvzs",
+      "website": "http://www.tandartsenpraktijkdrielanden.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 54,
+      "name": "Mondzorgcentrum Kroonprins",
+      "address": "Kroonprinsstraat 3, 1312 BE Almere, Netherlands",
+      "place_id": "ChIJ_bYznNUQxkcRNbT8_ARbG4Y",
+      "website": "http://www.mondzorgcentrumkroonprins.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 55,
+      "name": "M.A. Spitters Tandarts B.V.",
+      "address": "Griend 10 05, 8225 VE Lelystad, Netherlands",
+      "place_id": "ChIJuWWzzkIIx0cRvXrVo57A_xM",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 56,
+      "name": "Tandstad",
+      "address": "Randstad 2175, 1314 BJ Almere, Netherlands",
+      "place_id": "ChIJPdT_JBwXxkcRDMAbrRhfKco",
+      "website": "http://www.tandstad.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 57,
+      "name": "A. van den Bergh, tandarts",
+      "address": "Schoolstraat 32, 1354 HP Almere, Netherlands",
+      "place_id": "ChIJdXn0fJsWxkcRiT_vsBPsYVc",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 58,
+      "name": "Durville",
+      "address": "Brandersmolenstraat 32, 1333 BX Almere, Netherlands",
+      "place_id": "ChIJT-KizJYXxkcRPpYH0OHPRlQ",
+      "website": "http://www.tandartsenalmere.nl/praktijken/tandarts-durville/durville/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 59,
+      "name": "Tandarts A. Ali Deeb",
+      "address": "Peppellaan 16, 8302 AL Emmeloord, Netherlands",
+      "place_id": "ChIJ7b50C51GxkcRwqcwK1x6fA4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   },
+   {
+      "id": 60,
+      "name": "Tandarts A.R. Zandpour",
+      "address": "Plaats 9-K, 8224 AB Lelystad, Netherlands",
+      "place_id": "ChIJV1nzKPYmxkcRSPULurECvCk",
+      "website": "http://www.tandartsenpraktijkcentraplaza.nl/",
+      "usedSearchTerm": "tandartsen+in+Flevoland"
+   }
+]

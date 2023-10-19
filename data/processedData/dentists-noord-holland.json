@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Tandartspraktijk Julianadorp B.V.",
+    "address": "Langevliet 60-B, 1788 BG Julianadorp, Netherlands",
+    "place_id": "ChIJJ6yxyZxIz0cRnftMgzoLLYs",
+    "website": "http://tandartspraktijkjulianadorp.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 1
+  },
+  {
+    "name": "Tandartsen Om de Noord",
+    "address": "Om de Noord 26, 1616 PR Hoogkarspel, Netherlands",
+    "place_id": "ChIJzxeLTMelyEcRC4PMFnICQEs",
+    "website": "http://www.tandartsenomdenoord.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 2
+  },
+  {
+    "name": "Pebble, Center for Dentistry",
+    "address": "Kokkel 22, 1723 HX Noord-Scharwoude, Netherlands",
+    "place_id": "ChIJmxJdPUVRz0cRJSE9K9Z2y_g",
+    "website": "http://www.ctdekiezel.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 3
+  },
+  {
+    "name": "Tandartsenpraktijk Middenbeemster",
+    "address": "Rijperweg 87, 1462 MD Middenbeemster, Netherlands",
+    "place_id": "ChIJ7fx5NoUAxkcR5YtcCkoUHys",
+    "website": "http://www.tandartsenpraktijkmiddenbeemster.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 4
+  },
+  {
+    "name": "Tandartsenpraktijk Santpoort Noord",
+    "address": "Antillenstraat 43, 2071 VL Santpoort-Noord, Netherlands",
+    "place_id": "ChIJczujZOHvxUcR24RgEP3KIZA",
+    "website": "http://www.tpsantpoortnoord.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 5
+  },
+  {
+    "name": "Dental Centrum Amsterdam Noord",
+    "address": "Nieuwendammerstraat 4, 1023 AD Amsterdam, Netherlands",
+    "place_id": "ChIJJaHZYuMIxkcRbgmr5nOuY0E",
+    "website": "http://www.noordent.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 6
+  },
+  {
+    "name": "Tandartspraktijk Mondzorg Eilandspolder",
+    "address": "Sloep, 1483 HA De Rijp, Netherlands",
+    "place_id": "ChIJZz4337f_xUcRbcyY14Dv18U",
+    "website": "http://www.mondzorg-eilandspolder.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 7
+  },
+  {
+    "name": "Tandartspraktijk Schmidt En Tambach",
+    "address": "Rijperweg 87, 1462 MD Middenbeemster, Netherlands",
+    "place_id": "ChIJ7fx5NoUAxkcR_zcATg1LGXc",
+    "website": "https://www.tandartsenpraktijkmiddenbeemster.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 8
+  },
+  {
+    "name": "Kenter Biesheuvel Tandartsen",
+    "address": "Randweg 11, 1671 GG Medemblik, Netherlands",
+    "place_id": "ChIJUXQ53yywyEcRzWusI1enPWA",
+    "website": "https://kenterbiesheuvel.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 9
+  },
+  {
+    "name": "De Zaanse Tandarts",
+    "address": "Mahoniehout 24, 1507 ED Zaandam, Netherlands",
+    "place_id": "ChIJdXRZ5-b9xUcRaJNigCn6Xxc",
+    "website": "https://dezaansetandarts.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 10
+  },
+  {
+    "name": "Tandheelkundig Centrum Nederland Westzaan",
+    "address": "Kerkbuurt 62, 1551 AE Westzaan, Netherlands",
+    "place_id": "ChIJQbCpfGT7xUcR0SCGN0gC1ys",
+    "website": "https://www.tcn.nl/tandarts-alkmaar-westzaan",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 11
+  },
+  {
+    "name": "Tandheelkunde Westerkoog",
+    "address": "Wezelstraat 1A, 1541 LZ Koog aan de Zaan, Netherlands",
+    "place_id": "ChIJKxDgm5L8xUcR2vrA-wjIWoQ",
+    "website": "http://www.tandheelkundewesterkoog.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 12
+  },
+  {
+    "name": "Tandheelkundig Centrum Nederland Heerhugowaard",
+    "address": "Middenweg 51, 1703 RB Heerhugowaard, Netherlands",
+    "place_id": "ChIJA1NYBjtUz0cReZtRlnMyRcA",
+    "website": "https://www.tcn.nl/tandarts-heerhugowaard",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 13
+  },
+  {
+    "name": "Tandarts P.H.Blokland",
+    "address": "Hoofdstraat 246, 2071 EP Santpoort-Noord, Netherlands",
+    "place_id": "ChIJ4UBR5tzvxUcRK19GiXol-hs",
+    "website": "http://www.tandzorgsantpoort.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 14
+  },
+  {
+    "name": "Tandartspraktijk T.T. Ong",
+    "address": "Julianalaan 177, 1483 VK De Rijp, Netherlands",
+    "place_id": "ChIJgQeiW_j-xUcRjjWlu-rQu2M",
+    "website": "http://www.tandartspraktijkttong.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 15
+  },
+  {
+    "name": "Dental Center Netherlands Einsteinstraat",
+    "address": "Einsteinstraat 2, 1821 BZ Alkmaar, Netherlands",
+    "place_id": "ChIJlz5dHjhWz0cR70KCLl3UT38",
+    "website": "https://www.tcn.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 16
+  },
+  {
+    "name": "Tandartspraktijk 't Dorp",
+    "address": "Dorpsstraat 4, 1861 KW Bergen, Netherlands",
+    "place_id": "ChIJ-Z8_99tZz0cRSYT5kJlCgWw",
+    "website": "http://www.tptdorp.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 17
+  },
+  {
+    "name": "Dentist group practice",
+    "address": "Heilooërdijk 132, 1814 LS Alkmaar, Netherlands",
+    "place_id": "ChIJu30r089Xz0cRvylJx-MwGMg",
+    "website": "https://tgpalkmaar.tandartsennet.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 18
+  },
+  {
+    "name": "Tandarts Liem",
+    "address": "Albatrospad 32, 1021 TR Amsterdam, Netherlands",
+    "place_id": "ChIJ71RUOFUIxkcRh3WUZuoQBLg",
+    "website": "http://www.tandartsliem.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 19
+  },
+  {
+    "name": "Nibedent B.V.",
+    "address": "Breesaperhof 35-A, 1951 KH Velsen-Noord, Netherlands",
+    "place_id": "ChIJYaHShVzwxUcR4RJ9u0UmXJ4",
+    "website": "https://www.mondzorgvelsen.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 20
+  },
+  {
+    "name": "Tandheelkundig Centrum Nederland Castricum",
+    "address": "Cieweg 10, 1901 GH Castricum, Netherlands",
+    "place_id": "ChIJiQn4AWr3xUcRjx3qtIHuW1I",
+    "website": "https://www.tcn.nl/tandarts-castricum",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 21
+  },
+  {
+    "name": "Tandartspraktijk Akersloot",
+    "address": "Simon Pauwelslaan 1, 1921 AX Akersloot, Netherlands",
+    "place_id": "ChIJL0C6ja75xUcR7HPOmH6rOSU",
+    "website": "http://www.tpakersloot.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 22
+  },
+  {
+    "name": "Kliniek voor Tandheelkunde Heemskerk",
+    "address": "Gerrit van Assendelftstraat 17, 1961 NH Heemskerk, Netherlands",
+    "place_id": "ChIJaRL7sabwxUcRg49JKOWAwzk",
+    "website": "http://tandheelkundeheemskerk.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 23
+  },
+  {
+    "name": "Tandartspraktijk Rijksstraatweg,",
+    "address": "Rijksstraatweg 126, 2022 DE Haarlem, Netherlands",
+    "place_id": "ChIJ1UzU8pzvxUcR6nQhzDgXIPM",
+    "website": "http://www.tandartsrijksstraatweg.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 24
+  },
+  {
+    "name": "Hagens & Schouten dentists",
+    "address": "Marktstraat 54, 1521 DZ Wormerveer, Netherlands",
+    "place_id": "ChIJL9fwr3b8xUcRvbF84Qtks40",
+    "website": "http://www.hagensenschouten.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 25
+  },
+  {
+    "name": "Tandarts in de Wolken B.V.",
+    "address": "Diodeweg 6, 1627 LL Hoorn, Netherlands",
+    "place_id": "ChIJO6XSiPaoyEcRNNrwfeYTpZU",
+    "website": "https://www.tandartsindewolken.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 26
+  },
+  {
+    "name": "Dentist Soederhuizen and De Groot",
+    "address": "Waterlandplein 3 C, 1441 RP Purmerend, Netherlands",
+    "place_id": "ChIJW9483M8GxkcRY93r-RvElQI",
+    "website": "http://www.detandartspraktijkpurmerend.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 27
+  },
+  {
+    "name": "Tandzorg Buiksloot",
+    "address": "Parlevinker 7, 1034 PX Amsterdam, Netherlands",
+    "place_id": "ChIJLffuLmEIxkcRrz7GRu1Ms4M",
+    "website": "http://www.tandzorgbuiksloot.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 28
+  },
+  {
+    "name": "Maatschap Kaandorp en Kaandorp Tandartsen",
+    "address": "Simon Pauwelslaan 1, 1921 AX Akersloot, Netherlands",
+    "place_id": "ChIJL0C6ja75xUcRfK8wkA9XVKc",
+    "website": "http://www.kaandorptandartsen.nl/contact.html",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 29
+  },
+  {
+    "name": "Dental Acacialaan",
+    "address": "Acacialaan 10, 1521 EL Wormerveer, Netherlands",
+    "place_id": "ChIJP-yr4Hb8xUcRVF86WZcvW4c",
+    "website": "http://www.tandartsenpraktijkacacialaan.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 30
+  },
+  {
+    "name": "De Tandartspraktijk Purmerend",
+    "address": "Waterlandplein, 1441 RP Purmerend, Netherlands",
+    "place_id": "ChIJbXkw2c8GxkcRWnPIAfrX8gU",
+    "website": "https://detandartspraktijkpurmerend.nl/contact/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 31
+  },
+  {
+    "name": "Dental Arts Volendam",
+    "address": "Dukaton 19, 1132 RA Volendam, Netherlands",
+    "place_id": "ChIJK-4emYMExkcRfWbnHj4BUps",
+    "website": "http://www.dentalartsvolendam.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 32
+  },
+  {
+    "name": "Tandartsenpraktijk Berkhoutplantsoen (Meijdentist)",
+    "address": "Tedingh van Berkhoutplantsoen 75, 1141 HM Monnickendam, Netherlands",
+    "place_id": "ChIJ6QYhOaYFxkcR8IoAPiVAElQ",
+    "website": "https://www.tandartsmonnickendam.nl/berkhoutplantsoen/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 33
+  },
+  {
+    "name": "Tandartspraktijk Bredewoud",
+    "address": "Mauvestraat 38 A, 1506 JJ Zaandam, Netherlands",
+    "place_id": "ChIJD55YIcT8xUcRyYEehHUXOJ8",
+    "website": "https://www.tpdeschildershoek.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 34
+  },
+  {
+    "name": "Waterlandse Tandartsen",
+    "address": "De Draai 25, 1151 CD Broek in Waterland, Netherlands",
+    "place_id": "ChIJIS6_rfsFxkcR-CTpDKJepPc",
+    "website": "https://www.waterlandsetandartsen.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 35
+  },
+  {
+    "name": "Tandartspraktijk Nibbixwoud B.V.",
+    "address": "Cunerastraat 35A, 1688 WC Nibbixwoud, Netherlands",
+    "place_id": "ChIJ7Wf3IriuyEcRmo9p7alZlyk",
+    "website": "http://www.tandarts-nibbixwoud.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 36
+  },
+  {
+    "name": "C2 Tandartsen",
+    "address": "Oudorperplein 21, 1823 HA Alkmaar, Netherlands",
+    "place_id": "ChIJEaU5HMlXz0cREGOs1OcA0SI",
+    "website": "http://c2tandartsen.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 37
+  },
+  {
+    "name": "Tandartsenpraktijk Verdronkenoord",
+    "address": "Verdronkenoord 75, 1811 BC Alkmaar, Netherlands",
+    "place_id": "ChIJi0KJYbVXz0cR74QQeGKdKVs",
+    "website": "http://www.tandartsvos.eu/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 38
+  },
+  {
+    "name": "Tandartspraktijk Molenwijk",
+    "address": "Molenwijk 16, 1035 EG Amsterdam, Netherlands",
+    "place_id": "ChIJ3xVARgUIxkcRawFoPLlKdrE",
+    "website": "http://www.tandartspraktijkmolenwijk.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 39
+  },
+  {
+    "name": "Tandarts Jie",
+    "address": "Arendsweg 84, 1826 JE Alkmaar, Netherlands",
+    "place_id": "ChIJN__xLftWz0cR4IUFY5A2XEI",
+    "website": null,
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 40
+  },
+  {
+    "name": "Tandartspraktijk Monnickendam",
+    "address": "Swaensborch 11D, 1141 VZ Monnickendam, Netherlands",
+    "place_id": "ChIJscN-EaYFxkcREGW-39jQZNw",
+    "website": "https://www.tandartspraktijkmonnickendam.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 41
+  },
+  {
+    "name": "Tandartspraktijk Hajema en van Kan",
+    "address": "Drechterwaard 13, 1824 EX Alkmaar, Netherlands",
+    "place_id": "ChIJAQDwD61Xz0cRGMRPuLiho0w",
+    "website": "https://www.hajemaenvankan.nl/contact/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 42
+  },
+  {
+    "name": "Tandartspraktijk Tuindorp Amsterdam Noord",
+    "address": "Orionplantsoen 1B, 1033 VG Amsterdam, Netherlands",
+    "place_id": "ChIJo9F5jCwJxkcRJsAQqYF-myg",
+    "website": "http://www.tandartspraktijktuindorp.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 43
+  },
+  {
+    "name": "Tandartspraktijk Dentalis",
+    "address": "Beatrixstraat 2-B, 1689 GR Zwaag, Netherlands",
+    "place_id": "ChIJ-2ftwCWpyEcRgM8ER0E1aT4",
+    "website": "http://www.tandartspraktijkdentalis.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 44
+  },
+  {
+    "name": "Tandartspraktijk D.G.V. Vo",
+    "address": "Wormerplein 10, 1442 CA Purmerend, Netherlands",
+    "place_id": "ChIJea9-tj0HxkcRGvd2lrRRJs0",
+    "website": "https://www.tandartspraktijkvo.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 45
+  },
+  {
+    "name": "Dental Center TCSD",
+    "address": "Narcissenstraat 18, 2071 NM Santpoort-Noord, Netherlands",
+    "place_id": "ChIJ_UvmvufvxUcRkVSpfVN_CoA",
+    "website": "http://www.tcsd.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 46
+  },
+  {
+    "name": "Tandartspraktijk De Noorderboog",
+    "address": "Elzenhagensingel 301, 1022 LA Amsterdam, Netherlands",
+    "place_id": "ChIJo9pXHFIIxkcRpM003LWT2MU",
+    "website": "http://www.tandartsnoorderboog.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 47
+  },
+  {
+    "name": "Tandartspraktijk ITGM Zegers",
+    "address": "Emmakade 2, 1441 ET Purmerend, Netherlands",
+    "place_id": "ChIJ92S1QNYGxkcRc-qTNPB9cDE",
+    "website": "http://www.tandartspraktijkzegers.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 48
+  },
+  {
+    "name": "Djie-Tandjung Tandartsen B.V.",
+    "address": "Antillenstraat 43, 2071 VL Santpoort-Noord, Netherlands",
+    "place_id": "ChIJi4HEZOHvxUcRCif3CsHvnmA",
+    "website": "https://tandartsdjie.tandartsennet.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 49
+  },
+  {
+    "name": "Tandartspraktijk Heddes",
+    "address": "Schelgeest 1, 1901 HB Castricum, Netherlands",
+    "place_id": "ChIJq6qGhBP3xUcRFgBWA1zoeYg",
+    "website": "https://www.tandartspraktijkheddes.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 50
+  },
+  {
+    "name": "Tandartspraktijk Beldent",
+    "address": "Cornelis Groenlandstraat 6 B, 1962 TG Heemskerk, Netherlands",
+    "place_id": "ChIJu_hKlm_6xUcRyVOgl4yWGOI",
+    "website": "http://www.tandartsinheemskerk.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 51
+  },
+  {
+    "name": "Tandarts Haarlem (Noord) - Mondzorgpraktijk & Mondhygiënist Haarlem",
+    "address": "Rijksstraatweg 346, 2025 DP Haarlem, Netherlands",
+    "place_id": "ChIJ-0riBvHvxUcRNKFwpbobbNQ",
+    "website": "https://www.mondzorgpraktijkhn.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 52
+  },
+  {
+    "name": "Tandartspraktijk De Hofstee B.v.",
+    "address": "Westeinderweg 7, 1687 PK Wognum, Netherlands",
+    "place_id": "ChIJVVVlJwysyEcR7gW7_H9LKY8",
+    "website": null,
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 53
+  },
+  {
+    "name": "TandHart - Amsterdam Noord dental clinic",
+    "address": "Amerbos 413, 1025 ZJ Amsterdam, Netherlands",
+    "place_id": "ChIJ4b0KBPcIxkcR1Kc88Ca2CLE",
+    "website": "http://www.tand-hart.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 54
+  },
+  {
+    "name": "Tandartspraktijk Bij Anne",
+    "address": "Bellinistraat 79, 1817 JM Alkmaar, Netherlands",
+    "place_id": "ChIJSUmTZGJXz0cRmb-yqFajydM",
+    "website": "http://www.tandartspraktijkbijanne.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 55
+  },
+  {
+    "name": "Tandartsenpraktijk Nieuwe Steen B.V.",
+    "address": "Nieuwe Steen 25-001, 1625 HV Hoorn, Netherlands",
+    "place_id": "ChIJL4gJQRapyEcRh7GRVFo0H7Y",
+    "website": "http://www.dentalkliniek.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 56
+  },
+  {
+    "name": "TANDARTS UITGEEST .In het Medisch Centrum Molenstraat",
+    "address": "Molenstraat 1a, 1911 BR Uitgeest, Netherlands",
+    "place_id": "ChIJ_0bnN_L5xUcRk1kVczRF5Bk",
+    "website": "https://www.tandartsuitgeest.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 57
+  },
+  {
+    "name": "Tandartspraktijk van der Oord",
+    "address": "Kerkebuurt 179, 1647 ME Berkhout, Netherlands",
+    "place_id": "ChIJYdCosEqqyEcR4eSihdj4rTE",
+    "website": null,
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 58
+  },
+  {
+    "name": "Dental Clinics Wormer",
+    "address": "Stationsstraat 5, 1541 LE Koog aan de Zaan, Netherlands",
+    "place_id": "ChIJyyHguPP8xUcRMK1fuZFMhNE",
+    "website": "https://www.dentalclinics.nl/tandarts/koog-aan-de-zaan/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 59
+  },
+  {
+    "name": "tandarts- Haarlem",
+    "address": "Rijksstraatweg 84, 2022 DC Haarlem, Netherlands",
+    "place_id": "ChIJJZ8hOj7vxUcROZCrz-ypbEg",
+    "website": "https://tandarts-haarlem.nl/",
+    "usedSearchTerm": "tandartsen+in+Noord-Holland",
+    "id": 60
+  }
+]

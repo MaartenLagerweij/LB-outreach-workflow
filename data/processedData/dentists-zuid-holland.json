@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Tandartspraktijk Laan op Zuid",
+      "address": "Laan op Zuid 2, 3071 AA Rotterdam, Netherlands",
+      "place_id": "ChIJX-LbL2wzxEcRteL9ZNpQ7pw",
+      "website": "https://www.tandartslaanopzuid.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 2,
+      "name": "Dental Center the Leyens Zoetermeer",
+      "address": "Kaagkade 57, 2725 AA Zoetermeer, Netherlands",
+      "place_id": "ChIJzwYpFc7IxUcR_b9sGJo7qCc",
+      "website": "https://www.thcdeleyens.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 3,
+      "name": "Tandartspraktijk Boogaard",
+      "address": "Gouwershoeck 2, 3218 XL Heenvliet, Netherlands",
+      "place_id": "ChIJVVUZTB5MxEcRZjozGLsHAKA",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 4,
+      "name": "Tandartspraktijk SB Tandartsen Den Haag",
+      "address": "De la Reyweg 495, 2571 EM Den Haag, Netherlands",
+      "place_id": "ChIJGWYg-iyxxUcRXsiSnNb5WSk",
+      "website": "https://www.sbtandartsen.nl/tandarts-den-haag",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 5,
+      "name": "Tandartsen aan de Nieuwe Maas",
+      "address": "Stieltjesstraat 118, 3071 JX Rotterdam, Netherlands",
+      "place_id": "ChIJszAb_GszxEcR9RzF-hj7gdw",
+      "website": "https://www.tandartsenaandenieuwemaas.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 6,
+      "name": "R.W. Roodenburg Tandartspraktijk",
+      "address": "Laan op Zuid 394d, 3071 AA Rotterdam, Netherlands",
+      "place_id": "ChIJHfotq20zxEcRbqyh_vQwszk",
+      "website": "https://www.topdent.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 7,
+      "name": "Tandarts Zuid Holland",
+      "address": "Beresteinlaan 423, 2542 JL Den Haag, Netherlands",
+      "place_id": "ChIJhd0jBGaxxUcRGeK1NajOQNg",
+      "website": "http://tandarts-zuidholland.com/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 8,
+      "name": "Tandartsenpraktijk Heenvliet",
+      "address": "Nico de Regtplein 1, 3218 XW Heenvliet, Netherlands",
+      "place_id": "ChIJXTMfTB5MxEcRKnQzCjXtmc4",
+      "website": "https://tandartsenpraktijkheenvliet.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 9,
+      "name": "Tandartspraktijk Zalmplaat",
+      "address": "3192 CG Hoogvliet Rotterdam, Netherlands",
+      "place_id": "ChIJqy0jif9JxEcReOTZiDq5jmo",
+      "website": "http://www.tandartszalmplaat.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 10,
+      "name": "Tandartspraktijk Randweg",
+      "address": "Randweg 31, 3074 BH Rotterdam, Netherlands",
+      "place_id": "ChIJmYqT9qczxEcR9kcOAXNFv5o",
+      "website": "http://www.tandartspraktijkrandweg.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 11,
+      "name": "Tandzorg Kralingen",
+      "address": "Voorschoterlaan 31A, 3062 KG Rotterdam, Netherlands",
+      "place_id": "ChIJVzr8djozxEcRpKp1MDsn5iY",
+      "website": "https://www.tandzorgkralingen.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 12,
+      "name": "Tandartspraktijk Leder Leidschendam-Voorburg",
+      "address": "Johann Sebastian Bachlaan 135, 2264 WD Leidschendam, Netherlands",
+      "place_id": "ChIJCVz2I9y3xUcRoCvHMTHfBFE",
+      "website": "http://www.tpleder.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 13,
+      "name": "Tandartspraktijk Kop van Zuid",
+      "address": "Cité Rotterdam gebouw, Laan op Zuid 169, 2e verdieping, 3072 DB Rotterdam, Netherlands",
+      "place_id": "ChIJ7-VSO2wzxEcRne60hrU3tUg",
+      "website": "http://www.tandartspraktijkkopvanzuid.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 14,
+      "name": "Tandartspraktijk De Tuinen B.V.",
+      "address": "Oranjetuin 98, 2665 VJ Bleiswijk, Netherlands",
+      "place_id": "ChIJY1EQHjDMxUcR2XO-2gcI9N4",
+      "website": "https://www.tandarts.nl/tandarts-bleiswijk/de-tuinen",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 15,
+      "name": "Tandartspraktijk Topdent",
+      "address": "Laan op Zuid 394, 3071 AA Rotterdam, Netherlands",
+      "place_id": "ChIJq229VGwzxEcR5uGn2bkn2A0",
+      "website": "http://www.topdent.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 16,
+      "name": "Tandartspraktijk 't Centrum",
+      "address": "Westlaan 27, 2641 DS Pijnacker, Netherlands",
+      "place_id": "ChIJq6qqqoHJxUcRbFjg9DI3t3I",
+      "website": "http://www.tandartshetcentrum.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 17,
+      "name": "Dental Clinic Schiedam B.V.",
+      "address": "'s-Gravelandseweg 612, 3119 NA Schiedam, Netherlands",
+      "place_id": "ChIJ8RCVFz81xEcR2jEmgfqdAzY",
+      "website": "http://www.tandartsvanschiedam.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 18,
+      "name": "Tandheelkundig Centrum Pijnacker",
+      "address": "Meidoornlaan 24, 2641 CB Pijnacker, Netherlands",
+      "place_id": "ChIJ95XZqS3LxUcRmKfSs5ZdoHo",
+      "website": "https://tandartspijnacker.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 19,
+      "name": "Kliniek voor Mondzorg Delft",
+      "address": "Papsouwselaan 295, 2624 AP Delft, Netherlands",
+      "place_id": "ChIJk4jjWby1xUcREGFWa49k1eo",
+      "website": "https://www.tandzorg-delft.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 20,
+      "name": "Tandartsenpraktijk Kieslokaal te Zuid-Beijerland",
+      "address": "Gravin Sabinastraat 2-C, 3284 AP Zuid-Beijerland, Netherlands",
+      "place_id": "ChIJQVP4NRM4xEcRnMI83ar6s_U",
+      "website": "http://www.kieslokaal.com/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 21,
+      "name": "Tandartspraktijk SB Tandartsen Berkel en Rodenrijs",
+      "address": "Noordeindseweg 116, 2651 CX Berkel en Rodenrijs, Netherlands",
+      "place_id": "ChIJT942g8jLxUcRLXAJeOn63Aw",
+      "website": "https://www.sbtandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 22,
+      "name": "Tandartsen-Praktijk E.J. van Valen B.V.",
+      "address": "Meyenhage 440, 3085 CK Rotterdam, Netherlands",
+      "place_id": "ChIJWUj7G-0zxEcRwQeZzOoUaUQ",
+      "website": "http://www.tandartsvanvalen.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 23,
+      "name": "Tandartspraktijk Leidschendam",
+      "address": "Delftsekade 22, 2266 AJ Leidschendam, Netherlands",
+      "place_id": "ChIJYywvtXK3xUcRr1vBOX2ukGs",
+      "website": "http://www.tandartsleidschendam.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 24,
+      "name": "Dental Center Brigantine",
+      "address": "Brigantijnlaan 97, 2496 ZR Den Haag, Netherlands",
+      "place_id": "ChIJyUxZWya2xUcRxU2BPyo4ei0",
+      "website": "http://www.tcbrigantijn.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 25,
+      "name": "Tandartspraktijk Ackerswoude",
+      "address": "Blauwe Kiekendieflande 2, 2641MM Pijnacker, Netherlands",
+      "place_id": "ChIJvyiRjwDLxUcREPCxcL834Wc",
+      "website": "http://www.tpackerswoude.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 26,
+      "name": "Tandartsenpraktijk de Graaf en Rietveld",
+      "address": "Gein 8, 3068 GJ Rotterdam, Netherlands",
+      "place_id": "ChIJdR3Yu27NxUcRPHlYSFoJhJI",
+      "website": "https://www.tpdegraafenrietveld.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 27,
+      "name": "Tandartsenpraktijk Vaerhorst - Tandarts Rotterdam",
+      "address": "Vaerhorst 8a, 10, 3085 HS Rotterdam, Netherlands",
+      "place_id": "ChIJP7OTeJUzxEcRUcGXLYWOukU",
+      "website": "https://www.vaerhorst.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 28,
+      "name": "Tandarts Mw.I.E van Grinsven",
+      "address": "Zoeterwoudsesingel 50, 2313 EK Leiden, Netherlands",
+      "place_id": "ChIJSflt2YjGxUcRZWziRilCThI",
+      "website": "http://www.detandartsinleiden.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 29,
+      "name": "Tandartspraktijk Voordijkshoorn",
+      "address": "Tuindersvaart 156-A, 2614 SL Delft, Netherlands",
+      "place_id": "ChIJMfJHujS0xUcRWjKprPZXspI",
+      "website": "https://www.tandartspraktijkvoordijkshoorn.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 30,
+      "name": "Tandartsenpraktijk Meerzicht",
+      "address": "Korfwater 40, 2715 AB Zoetermeer, Netherlands",
+      "place_id": "ChIJgSsQmj3JxUcR9X0l3USuzoU",
+      "website": "http://www.tandartsenpraktijkmz.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 31,
+      "name": "Tjan Tandheelkunde",
+      "address": "Brandingdijk 158, 3059 RB Rotterdam, Netherlands",
+      "place_id": "ChIJ_QgqI4jNxUcRC3XNiO4n5gg",
+      "website": "https://www.tjantandheelkunde.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 32,
+      "name": "Tandartsen overzicht",
+      "address": "Geestbrugweg 14, 2281 CK Rijswijk, Netherlands",
+      "place_id": "ChIJ___GEve2xUcR0R91qiUF548",
+      "website": "http://www.tandartsenoverzicht.nl/zuid-holland/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 33,
+      "name": "Tandartspraktijk Groothuizen",
+      "address": "Van Bleiswijkstraat 166, 2582 LJ Den Haag, Netherlands",
+      "place_id": "ChIJjTA8jriwxUcRl1I40YieVi4",
+      "website": "http://www.tandartsgroothuizen.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 34,
+      "name": "Tandartsenpraktijk De Schie",
+      "address": "Burgemeester Baumannlaan 144-A, Burgemeester Baumannlaan 146-A, 3042 AG Rotterdam, Netherlands",
+      "place_id": "ChIJLYjIxyo1xEcRmIX2yWbIh2s",
+      "website": "http://www.tandartsenpraktijkdeschie.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 35,
+      "name": "Stichting Mondzorg",
+      "address": "Gildeweg 12, 2632 BA Nootdorp, Netherlands",
+      "place_id": "ChIJO4rqIujJxUcRg07sm_KpT2E",
+      "website": "http://www.stichtingmondzorg.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 36,
+      "name": "Tandartspraktijk Hoge Veld",
+      "address": "Tiendweg 5, 2671 SB Naaldwijk, Netherlands",
+      "place_id": "ChIJ__8bq1eyxUcR3KCseyQt8Tk",
+      "website": "http://www.naaldwijk.tandartspraktijk-lie.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 37,
+      "name": "Tandartspraktijk Van Der Meer, Stolk En Engelbertink",
+      "address": "Merkelbachstraat 33, 3067 AL Rotterdam, Netherlands",
+      "place_id": "ChIJq6p6QTDNxUcRtaCBkzQIelU",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 38,
+      "name": "Tandartspraktijk J.H.Y.A.A. Beijers",
+      "address": "Junolaan 5-A, 3054 PV Rotterdam, Netherlands",
+      "place_id": "ChIJPXAaMJnMxUcRHaf2cIN87uE",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 39,
+      "name": "Tandartsen Zuidplein",
+      "address": "Dordtselaan 210A, 3073 GS Rotterdam, Netherlands",
+      "place_id": "ChIJT_-58Z4zxEcR37QuJc43AkY",
+      "website": "http://www.tandartsenzuidplein.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 40,
+      "name": "Tandartspraktijk R.H.G. The",
+      "address": "Sinclair Lewisplaats 510B, 3068 ED Rotterdam, Netherlands",
+      "place_id": "ChIJXYCocRHNxUcRwywETAqEJVo",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 41,
+      "name": "Tandartsenpraktijk Zuid B.V.",
+      "address": "Herman Costerstraat 3, 3072 PD Rotterdam, Netherlands",
+      "place_id": "ChIJ3Ya6B3MzxEcRiGPZlW6Ox9I",
+      "website": "https://tandartsenpraktijkzuid.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 42,
+      "name": "Dentist Dental Clinics Rotterdam - South Terrace",
+      "address": "Zuiderterras 6, 3083 BV Rotterdam, Netherlands",
+      "place_id": "ChIJNQU3VZozxEcRyPSDx1n1Raw",
+      "website": "https://www.dentalclinics.nl/tandarts/rotterdam-zuiderterras/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 43,
+      "name": "Tandarts & Specialisten Centrum Blaak",
+      "address": "Groenendaal 229, 3011 ZW Rotterdam, Netherlands",
+      "place_id": "ChIJIdT290QzxEcRWs760feztDM",
+      "website": "http://www.tandartsblaak.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 44,
+      "name": "Bydorp Tandartsen",
+      "address": "Bijdorplaan 401, 2713 SZ Zoetermeer, Netherlands",
+      "place_id": "ChIJCav62i7JxUcRHdqTmbC8kwk",
+      "website": "http://www.bydorptandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 45,
+      "name": "Tandartspraktijk P.H. van Wonderen",
+      "address": "Dorpsweg 57, 3082 LC Rotterdam, Netherlands",
+      "place_id": "ChIJE6RYWX80xEcR6ZVdEM5X6fQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 46,
+      "name": "Dental Clinics Pijnacker",
+      "address": "Floralaan 8, 2643 HC Pijnacker, Netherlands",
+      "place_id": "ChIJfQRtrszLxUcRteWZLbzReKo",
+      "website": "https://www.dentalclinics.nl/tandarts/pijnacker/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 47,
+      "name": "Tandartspraktijk Beethovenrode",
+      "address": "Beethovenrode 41, 2717 AP Zoetermeer, Netherlands",
+      "place_id": "ChIJU98Mj-HIxUcRrvS5uOmOZXc",
+      "website": "http://www.tandartspraktijkbeethovenrode.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 48,
+      "name": "Dental Luxe",
+      "address": "Pigmentsingel 4, 2718 AJ Zoetermeer, Netherlands",
+      "place_id": "ChIJv3pghD_JxUcRQnGAW3lf0Zs",
+      "website": "http://www.dentalluxe.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 49,
+      "name": "Tandheelkundig Centrum Zuid-Hollandse Eilanden (Spijkenisse)",
+      "address": "Lenteakker 5c, 3206 TB Spijkenisse, Netherlands",
+      "place_id": "ChIJyz4KN6NJxEcR71TMJ4_YUbI",
+      "website": "https://www.thczhe.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 50,
+      "name": "Tandartsenpraktijk Leidschenhof",
+      "address": "Harriët Freezerhof 4, 2492 JD Den Haag, Netherlands",
+      "place_id": "ChIJD7rAddPJxUcRa0J5KfioDIQ",
+      "website": "https://www.leidschenhof.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 51,
+      "name": "Tandartspraktijk Voorhof BV",
+      "address": "Aart van der Leeuwlaan 10, 2624 LD Delft, Netherlands",
+      "place_id": "ChIJ-7kPHru1xUcRNtBgPlnvyC8",
+      "website": "http://www.tandartspraktijkvoorhof.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 52,
+      "name": "Dental365 Rotterdam",
+      "address": "Dr. Molewaterplein 30, 3015 GD Rotterdam, Netherlands",
+      "place_id": "ChIJY0d02Js0xEcRdZVMYudBFes",
+      "website": "https://dental365.nl/spoed-tandarts/rotterdam/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 53,
+      "name": "Tandartsen overzicht",
+      "address": "Papsouwselaan 295, 2624 AP Delft, Netherlands",
+      "place_id": "ChIJk8IDWry1xUcR3xTbt80K6DE",
+      "website": "http://www.tandartsenoverzicht.nl/zuid-holland/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 54,
+      "name": "Bey De Tandarts Bv",
+      "address": "Junolaan 5 A, 3054 PV Rotterdam, Netherlands",
+      "place_id": "ChIJPXAaMJnMxUcRoJQU4Wz7zOU",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 55,
+      "name": "Mondzorg Lijn 2",
+      "address": "Putselaan 138, 3074 JG Rotterdam, Netherlands",
+      "place_id": "ChIJqV4PhAszxEcRFx5LLQqocnQ",
+      "website": "http://www.mondzorglijn2.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 56,
+      "name": "Tandartsenpraktijk D.e. Verlinden",
+      "address": "Kwikstaartplein 5, 2352 HS Leiderdorp, Netherlands",
+      "place_id": "ChIJy7vlCSXExUcRdol3ZyTB79k",
+      "website": "https://tandartspraktijkleiderdorp.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 57,
+      "name": "Tandartspraktijk A. Saffari",
+      "address": "Cornelis Bloemaertsingel 38, 3067 NJ Rotterdam, Netherlands",
+      "place_id": "ChIJK3xObCnNxUcRWJ_CWD5UbBI",
+      "website": "https://www.tandartsenpraktijksaffari.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 58,
+      "name": "Tandartspraktijk Bordeaux",
+      "address": "Bordeauxstraat 50, 2711 CJ Zoetermeer, Netherlands",
+      "place_id": "ChIJ_y41AyvJxUcRbUsRzvgoKjs",
+      "website": "https://www.tandartspraktijkbordeaux.nl/",
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 59,
+      "name": "Tandartspraktijk van Praag",
+      "address": "Thomas Mannplaats 166, 3069 NG Rotterdam, Netherlands",
+      "place_id": "ChIJawXu0RHNxUcRzzaoTec8BcY",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   },
+   {
+      "id": 60,
+      "name": "Tandarts De BOORDER",
+      "address": "Junolaan 8, 3052 AB Rotterdam, Netherlands",
+      "place_id": "ChIJRSqlMZnMxUcRBZmrwTvYPNk",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Zuid-Holland"
+   }
+]

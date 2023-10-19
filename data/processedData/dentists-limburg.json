@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Mondzorg Sittard-Geleen",
+      "address": "Dr. H. van der Hoffplein 1, 6162 BG Geleen, Netherlands",
+      "place_id": "ChIJ99jUgHrHwEcRZQsd6NhDP8g",
+      "website": "https://www.mondzorgsittard-geleen.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 2,
+      "name": "Mondzorg Limburg | Neer",
+      "address": "Hoogstraat 23, 6086 BH Neer, Netherlands",
+      "place_id": "ChIJo1JFvcZLx0cRZWSEk24x5i8",
+      "website": "http://www.mondzorglimburg.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 3,
+      "name": "Mondzorg Molenbeersel",
+      "address": "Smeetsstraat 1, 3640 Kinrooi, Belgium",
+      "place_id": "ChIJ-WY_0QPNwEcR9SpgTr5LgeE",
+      "website": "http://www.mondzorg-molenbeersel.be/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 4,
+      "name": "Mondzorg Molenbeecke Echt | Tandarts",
+      "address": "Wijnstraat 51, 6101 AK Echt, Netherlands",
+      "place_id": "ChIJy6BpAfLJwEcRTcbJyccCLvA",
+      "website": "http://www.molenbeecke.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 5,
+      "name": "tandartspraktijk heel",
+      "address": "Heerbaan 39, 6097 AV Heel, Netherlands",
+      "place_id": "ChIJs3_1VKDKwEcRrMoVWLVputQ",
+      "website": "https://www.tandartsenpraktijkheel.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 6,
+      "name": "Tandartsenpraktijk J.G.J.M. Niessen B.V.",
+      "address": "Dorpstraat 16, 6093 EC Heythuysen, Netherlands",
+      "place_id": "ChIJCayJF5o1x0cRYdincEZL_tU",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 7,
+      "name": "Tandartsen.93",
+      "address": "Mauritslaan 93, 6161 HS Geleen, Netherlands",
+      "place_id": "ChIJh4jl9RXHwEcRz40KpxZi-a8",
+      "website": "http://www.tandartsen93.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 8,
+      "name": "mondzorgcentrum-limbricht",
+      "address": "Raadhuisstraat 3, 6141 BG Limbricht, Netherlands",
+      "place_id": "ChIJbWm655XHwEcR_9WzCKIYe8M",
+      "website": "http://mondzorgcentrum-limbricht.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 9,
+      "name": "Praktijk voor Algemene en Esthetische Mondzorg B.V.",
+      "address": "Wilhelminastraat 4, 6131 KN Sittard, Netherlands",
+      "place_id": "ChIJQVqX5Xi4wEcR_ThoqRjpsZY",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 10,
+      "name": "Tandartspraktijk Dental Reizen (Dental Lemiers)",
+      "address": "Rijksweg 66, 6295 AP Lemiers, Netherlands",
+      "place_id": "ChIJg7HypI7qwEcRtpT8IiZQ8XU",
+      "website": "http://dentalreizen.com/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 11,
+      "name": "Tandartspraktijk Werrij B.V.",
+      "address": "Mauritslaan 20, 6161 HV Geleen, Netherlands",
+      "place_id": "ChIJOUjp4j7HwEcRSuK5fHm4dag",
+      "website": "https://www.mondzorgcentraal.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 12,
+      "name": "Weekenddienst Tandarts",
+      "address": "Suikerdoossingel 34, 6051 HP Maasbracht, Netherlands",
+      "place_id": "ChIJdRlUCIi1wEcRFZ4HrSWjlEc",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 13,
+      "name": "Tandartsenpraktijk K.J.W.A. Schnellen",
+      "address": "Parklaan 25, 6131 KE Sittard, Netherlands",
+      "place_id": "ChIJjfDR0Xi4wEcRiUK1Xk7R5tM",
+      "website": "http://www.schnellen-tandarts.com/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 14,
+      "name": "Tandartspraktijk Nieuw Eyckholt",
+      "address": "Nieuw Eyckholt 296C, 6419 DJ Heerlen, Netherlands",
+      "place_id": "ChIJfRl68sG9wEcRJsRhSDoseW4",
+      "website": "http://www.tandartspraktijknieuweyckholt.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 15,
+      "name": "Centrum voor Bijzondere Tandheelkunde",
+      "address": "Mauritslaan 140, 6161 HZ Geleen, Netherlands",
+      "place_id": "ChIJnxjwWo7HwEcRiKcyXj2Oyvg",
+      "website": "http://www.bijzonderetandarts.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 16,
+      "name": "Tandartsenpost Hoensbroek",
+      "address": "Monseigneur Nolensstraat 27, 6431 JL Hoensbroek, Netherlands",
+      "place_id": "ChIJZ6GfjOu-wEcRIMmvNFk0yxQ",
+      "website": "http://www.tandartsenposthoensbroek.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 17,
+      "name": "Tandartspraktijk Bolwerk Tandartsen",
+      "address": "Sint Servaasbolwerk 2, 6211 NB Maastricht, Netherlands",
+      "place_id": "ChIJafD7lLPpwEcRhsjUPPiSCiY",
+      "website": "https://www.bolwerktandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 18,
+      "name": "Weekenddienst Tandarts",
+      "address": "Beekhoverstraat 93, 6166 AB Geleen, Netherlands",
+      "place_id": "ChIJcYsMoUPHwEcRfatiJ7OQ7b8",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 19,
+      "name": "Tandartsenpraktijk Thijssen",
+      "address": "Piet Petersstraat 5, 5993 DC Maasbree, Netherlands",
+      "place_id": "ChIJ9-BDklVPx0cR5-ZWXBhLvAU",
+      "website": "http://www.tandartspraktijkthijssen.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 20,
+      "name": "TANDARTSEN BONGAERTS EN VAN WERSCH, MONDHYGIËNISTE SCHALK",
+      "address": "Marktstraat 1, 6191 JX Beek, Netherlands",
+      "place_id": "ChIJVejHBCbBwEcR3sF_OGlFxaA",
+      "website": "http://www.tpbeek.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 21,
+      "name": "Dirks Tandartsen",
+      "address": "Aylvalaan 11, 6212 BA Maastricht, Netherlands",
+      "place_id": "ChIJfdgbEKXpwEcR6HJo8oUl9j8",
+      "website": "http://www.dirkstandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 22,
+      "name": "Mondzorg Schimmert B.V.",
+      "address": "Langstraat 11, 6333 CC Schimmert, Netherlands",
+      "place_id": "ChIJS0o_AWLAwEcRJqoSODw_q8k",
+      "website": "https://www.mondzorgschimmert.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 23,
+      "name": "Mondzorg Molenbeecke | Heythuysen",
+      "address": "Stationsstraat 26, 6093 BK Heythuysen, Netherlands",
+      "place_id": "ChIJ2Q-JF5o1x0cRt242hRHOTxE",
+      "website": "http://www.molenbeecke.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 24,
+      "name": "Tandartspraktijk E.W.A.M. Peters",
+      "address": "Einderstraat 24, 6461 EP Kerkrade, Netherlands",
+      "place_id": "ChIJo6TcIaOiwEcRqCMZxYJG7VA",
+      "website": "https://www.tandartspraktijk-peters.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 25,
+      "name": "Tandartspraktijk H.F. Hamminga",
+      "address": "Jan Poelsweg 1-D, 5813 BN Ysselsteyn, Netherlands",
+      "place_id": "ChIJ9TI6s1g-x0cRTkjnda6uO94",
+      "website": "http://tandartshamminga.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 26,
+      "name": "Tandartspraktijk H. Voncken",
+      "address": "Rijksweg Zuid 119, 6134 AA Sittard, Netherlands",
+      "place_id": "ChIJpWBt44DHwEcRTVPafPKGBiU",
+      "website": "http://www.tandartsvoncken.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 27,
+      "name": "praktijk voor tandheelkunde en gnathologie",
+      "address": "Van Akenstraat 52, 6164 BD Geleen, Netherlands",
+      "place_id": "ChIJ9_dUUTTHwEcRZjXhH4xPujI",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 28,
+      "name": "Tandartsenpraktijk Reuver",
+      "address": "Oude Baan 9a, 5953 AN Reuver, Netherlands",
+      "place_id": "ChIJMaqJ3YlOx0cRrKOLYAi9nG4",
+      "website": "https://www.tandartsenreuver.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 29,
+      "name": "Tandartspraktijk J. Streppel",
+      "address": "Parklaan 1, 6067 GP Linne, Netherlands",
+      "place_id": "ChIJofRt2qe1wEcR5Db1_ZshIpk",
+      "website": "http://www.tandartsstreppel.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 30,
+      "name": "Tandarts Toklowicz",
+      "address": "Herdersstraat 78, 3630 Maasmechelen, Belgium",
+      "place_id": "ChIJr24OOIvEwEcRUFW4CWtEDbk",
+      "website": "http://www.tandartsenpraktijk-identity.be/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 31,
+      "name": "Tandartspraktijk Maasbree",
+      "address": "Dorpstraat 34, 5993 AP Maasbree, Netherlands",
+      "place_id": "ChIJX0802_NPx0cRhL9OA2buSWI",
+      "website": "http://www.tandartspraktijkmaasbree.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 32,
+      "name": "Tandartspraktijk M Deckers",
+      "address": "Geldersestraat 14, 6136 AT Sittard, Netherlands",
+      "place_id": "ChIJjaKhwnW4wEcRChnSGQ-76NI",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 33,
+      "name": "Tandartsen Reuver B.V.",
+      "address": "Pastoor Vranckenlaan 40, 5953 CR Reuver, Netherlands",
+      "place_id": "ChIJH9lZzodOx0cRLUS-Ht0es58",
+      "website": "http://tandartsenreuver.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 34,
+      "name": "Fincken Tandartsen",
+      "address": "De Pastorij 12, 6081 AZ Haelen, Netherlands",
+      "place_id": "ChIJ4X_sMP9Kx0cRQm21FOBcZ4g",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 35,
+      "name": "Tandartspraktijk Groenen",
+      "address": "Pr. Julianastraat 3, 6071 ES Swalmen, Netherlands",
+      "place_id": "ChIJe0_rnotMx0cRDqGop-yiHTI",
+      "website": "http://www.tandartsgroenen.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 36,
+      "name": "Tandarts G.C.T.M. Houben",
+      "address": "Beemdenlaan 1, 6041 NL Roermond, Netherlands",
+      "place_id": "ChIJbzZNzLm0wEcRV_g7kRblDS8",
+      "website": "http://houben.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 37,
+      "name": "Maatschap Tandartsenpraktijk Groenveld",
+      "address": "Prinsenstraat 8, 5913 ST Venlo, Netherlands",
+      "place_id": "ChIJB6xdtplax0cRUGOgGwihsKQ",
+      "website": "https://www.tandartsengroenveld.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 38,
+      "name": "Deckers Dentistry",
+      "address": "Sondertseveld 2, 5975 TP Sevenum, Netherlands",
+      "place_id": "ChIJMxG1po9Gx0cRTS3DW4-BSKk",
+      "website": "http://www.ptmd-sevenum.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 39,
+      "name": "Tandartsenpraktijk Voncken",
+      "address": "Monseigneur Joostenstraat 29, 5971 BL Grubbenvorst, Netherlands",
+      "place_id": "ChIJye2ibrlEx0cRZFRjVQJJSzE",
+      "website": "https://tiptoptand.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 40,
+      "name": "Tandartspraktijk Maaspoort, implantoloog & mondhygiene",
+      "address": "Maaspoort 49, 6001 BN Weert, Netherlands",
+      "place_id": "ChIJX1Jodn4yx0cRFP1Vl76--zI",
+      "website": "http://www.tandartsmaaspoort.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 41,
+      "name": "Ramaekers bvba / R.",
+      "address": "Zegestraat 1, 3630 Maasmechelen, Belgium",
+      "place_id": "ChIJt898iZrEwEcRGLKy-2_0yuI",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 42,
+      "name": "Tandartsenpraktijk Schadlu",
+      "address": "Tiendstraat 2, 5921 EV Venlo, Netherlands",
+      "place_id": "ChIJheYMM01Fx0cR38m4kvC2qyg",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 43,
+      "name": "Tandartsenpaktijk van der Putten-Vercoulen",
+      "address": "Beekstraat 1, 5931 ER Tegelen, Netherlands",
+      "place_id": "ChIJdaqyweRPx0cRDiBMo1X8eKo",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 44,
+      "name": "Tandartsen Paquay en Vervuurt",
+      "address": "Valderstraat 30, 6171 EM Stein, Netherlands",
+      "place_id": "ChIJb6p3Z6PGwEcRMlKp89PbJiU",
+      "website": "http://www.paquayenvervuurt.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 45,
+      "name": "Weekenddienst Tandarts",
+      "address": "Du Commerce 4, 6101 DB Echt, Netherlands",
+      "place_id": "ChIJNbhC7-PJwEcRnAOtcow78G4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 46,
+      "name": "Tandarts The",
+      "address": "Gasthuisstraat 12, 5961 GB Horst, Netherlands",
+      "place_id": "ChIJPdquGFFBx0cRrUF5anOIjuw",
+      "website": "http://www.tandartsenpraktijkthe.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 47,
+      "name": "Weekenddienst Tandarts",
+      "address": "Zandkuilweg 12, 6051 HV Maasbracht, Netherlands",
+      "place_id": "ChIJ-dnkoom1wEcRHfYVeF569Ck",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 48,
+      "name": "Henckens / Jos",
+      "address": "Gemeenteplein 6, 3620 Lanaken, Belgium",
+      "place_id": "ChIJDfMFeLzCwEcR4u9GcGpC_2I",
+      "website": "http://jos.henckens.mijntandarts.be/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 49,
+      "name": "Gonnie Eijkemans Tandarts",
+      "address": "Peperstraat 22, 5975 BV Sevenum, Netherlands",
+      "place_id": "ChIJ5w5v541Gx0cRatoAVb5csLM",
+      "website": "http://www.tandartseijkemans.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 50,
+      "name": "Accent Tandartsen",
+      "address": "Hertogsingel 57, 6211 NE Maastricht, Netherlands",
+      "place_id": "ChIJH9CFvbPpwEcR-9zQlMk7Mhw",
+      "website": "http://www.accenttandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 51,
+      "name": "Tandartspraktijk drs. F.J.M.L. Verhaegh B.V.",
+      "address": "Rijksweg Noord 42, 6071 KW Swalmen, Netherlands",
+      "place_id": "ChIJDdNLd2BMx0cRbUkrGd3hiLY",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 52,
+      "name": "Tandartspraktijk Neer",
+      "address": "Hoogstraat 15, 6086 BH Neer, Netherlands",
+      "place_id": "ChIJQ6L9v8ZLx0cRQIA_lQoJl9w",
+      "website": "https://www.tandartspraktijkneer.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 53,
+      "name": "Tandfijn",
+      "address": "Tiendstraat 2, 5921 EV Venlo, Netherlands",
+      "place_id": "ChIJQbM_M01Fx0cREPvjI-5zDys",
+      "website": "http://www.tandfijn.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 54,
+      "name": "Tandartsenpraktijk Bongers B.V.",
+      "address": "Boshoverweg 73A, 6002 AM Weert, Netherlands",
+      "place_id": "ChIJ49Q7bJctx0cRD6DLr-Zzybw",
+      "website": "https://tandartsenpraktijkbongers.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 55,
+      "name": "Tandartspraktijk DuoDent",
+      "address": "Wietelweg 4, 5981 TJ Panningen, Netherlands",
+      "place_id": "ChIJ9SdkelBIx0cRnhFB3DPqoAQ",
+      "website": "http://www.duodent.nu/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 56,
+      "name": "Tandartspraktijk Yap",
+      "address": "Burgemeester Kesselsstraat 10, 5951 BB Belfeld, Netherlands",
+      "place_id": "ChIJifpcjzVOx0cRFuMMp0NBR3c",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 57,
+      "name": "Tandartspraktijk Rijnaars B.v.",
+      "address": "Keverbergstraat 7, 5995 XW Kessel, Netherlands",
+      "place_id": "ChIJ9553hpVOx0cRt9kbb2tC2M4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 58,
+      "name": "Tandheelkundig Centrum Ulestraten",
+      "address": "Kasteelstraat 29A, 6235 BM Ulestraten, Netherlands",
+      "place_id": "ChIJc_MPy6jBwEcROMUs-n05fpg",
+      "website": "http://www.tcu-ulestraten.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 59,
+      "name": "Mondzorg Landgraaf",
+      "address": "Sloterstraat 92, 6374 GS Landgraaf, Netherlands",
+      "place_id": "ChIJ3dAaDsy8wEcRkWPcp24ol_E",
+      "website": "http://www.bio-holistischetandheelkunde.nl/",
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   },
+   {
+      "id": 60,
+      "name": "Tandartsenpraktijk Henckens B.V. Bvba",
+      "address": "Pastorijstraat 12, 3620 Lanaken, Belgium",
+      "place_id": "ChIJqbxpd7zCwEcRk8xXStrJdLs",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Limburg"
+   }
+]
