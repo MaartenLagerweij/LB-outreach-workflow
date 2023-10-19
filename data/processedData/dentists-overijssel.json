@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Tandartsenpraktijk Overijssel - Heino",
+      "address": "Dorpsstraat 31, 8141 AH Heino, Netherlands",
+      "place_id": "ChIJ_aJuVOznx0cRe6hFbaX166g",
+      "website": "http://www.tandartsenpraktijkoverijssel.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 2,
+      "name": "Tandarts Lemelerveld",
+      "address": "Kroonplein 2a, 8151 AZ Lemelerveld, Netherlands",
+      "place_id": "ChIJi7tOTIDkx0cRMpBUTvo4G18",
+      "website": "http://www.tandartsenpraktijkoverijssel.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 3,
+      "name": "Tandartsenpraktijk Overijssel - Deventer",
+      "address": "Deltaplein 11, 7417 BG Deventer, Netherlands",
+      "place_id": "ChIJQai0dIHrx0cRYQim_dqHn2o",
+      "website": "http://www.tandartsenpraktijkoverijssel.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 4,
+      "name": "Tandartspraktijk Geesteren",
+      "address": "De Marke 2, 7678 CD Geesteren, Netherlands",
+      "place_id": "ChIJpcTp_Q4EuEcR1hVyTlA0xL8",
+      "website": "https://www.tandartspraktijkgeesteren.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 5,
+      "name": "Tandartspraktijk Westerhaar",
+      "address": "Beeklaan 1, 7676 BC Westerhaar-Vriezenveensewijk, Netherlands",
+      "place_id": "ChIJOfhZO58AuEcRDEIdUT1C_Ag",
+      "website": "http://www.tandartspraktijk-westerhaar.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 6,
+      "name": "Tandartspraktijk Zaheddi",
+      "address": "Baron Bentinckstraat 65, 7731 EK Ommen, Netherlands",
+      "place_id": "ChIJiepYxlb9x0cRuUtXJ86Nh70",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 7,
+      "name": "Tandarts Schneider Nijverdal",
+      "address": "Dorsvloer, 7641 DZ Wierden, Netherlands",
+      "place_id": "ChIJ05Erj_MHuEcRR7mJFmnZ-OY",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 8,
+      "name": "Tandartsenpraktijk Goor",
+      "address": "Hengevelderstraat 40, 7471 CH Goor, Netherlands",
+      "place_id": "ChIJudpiCkIKuEcRq1CJYdWII-g",
+      "website": "http://www.tandheelkundigcentrumvriezenveen.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 9,
+      "name": "Tandartsenpraktijk Het Centrum",
+      "address": "Grotestraat 117, 7443 BD Nijverdal, Netherlands",
+      "place_id": "ChIJbXmOQg36x0cROuc85Qk-Q0c",
+      "website": "https://www.tandartsenpraktijkhetcentrum.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 10,
+      "name": "Tandartspraktijk G.D.Z. Schutte",
+      "address": "Boomkamp 10, 7461 AX Rijssen, Netherlands",
+      "place_id": "ChIJfTk6H_72x0cRlmKGZjac0Ks",
+      "website": "https://www.tandartspraktijkschutte.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 11,
+      "name": "Dental R.H.M. Geerdink",
+      "address": "Beethovenlaan 32, 7557 BD Hengelo, Netherlands",
+      "place_id": "ChIJuUbY7YwRuEcRjXoYrIrY2CM",
+      "website": "https://tpbeethovenlaan.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 12,
+      "name": "Tandheelkunde Thiemsland",
+      "address": "Canadian Grenadier 6, 7551 KG Hengelo, Netherlands",
+      "place_id": "ChIJXeVQEx4OuEcROzEhipP6Fm0",
+      "website": "http://www.tandheelkundethiemsland.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 13,
+      "name": "Tandzorg Twente",
+      "address": "Kieftsbeeklaan 1, 7607 TA Almelo, Netherlands",
+      "place_id": "ChIJP4NRWxkGuEcRdqMhCXayQ00",
+      "website": "http://www.tandzorgtwente.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 14,
+      "name": "Tandartspraktijk Brinkcate",
+      "address": "Vosmeerstraat 3, 7651 EN Tubbergen, Netherlands",
+      "place_id": "ChIJ9dQsfpIEuEcRSk0q6fQsDOQ",
+      "website": "http://www.tandartspraktijkbrinkcate.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 15,
+      "name": "Tandartsmensink",
+      "address": "Reggestraat 5, 7607 LM Almelo, Netherlands",
+      "place_id": "ChIJyZlLqCMGuEcRQnRw5KQnxrs",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 16,
+      "name": "Tandartspraktijk W. Lageveen",
+      "address": "Dorsvloer 12, 7641 DZ Wierden, Netherlands",
+      "place_id": "ChIJ05Erj_MHuEcRzC3Us2Xm-u0",
+      "website": "http://www.tandartspraktijklageveen.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 17,
+      "name": "Tandartspraktijk Schneider",
+      "address": "Veldkampsweg 22, 7441 CG Nijverdal, Netherlands",
+      "place_id": "ChIJG7vjowv6x0cRvll1lQBfxpo",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 18,
+      "name": "Partnership M. Wessels and S.A.M. Naber",
+      "address": "Anninksweg 50, 7557 AH Hengelo, Netherlands",
+      "place_id": "ChIJnx0Gc-8RuEcRTp56tKWU0DE",
+      "website": "https://www.wesselsnaber.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 19,
+      "name": "Mondzorg het Raan",
+      "address": "Kwartel 70, 8103 EB Raalte, Netherlands",
+      "place_id": "ChIJp36NwcTlx0cRRb8PXpf-Sz8",
+      "website": "http://www.mondzorghetraan.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 20,
+      "name": "Tandartspraktijk Mark",
+      "address": "Johanna van Burenstraat 7, 7447 HB Hellendoorn, Netherlands",
+      "place_id": "ChIJMdI8flD6x0cRb_DR9NkW5pg",
+      "website": "https://www.tandartspraktijkmark.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 21,
+      "name": "Tandartsenpraktijk Den Hof",
+      "address": "Den Hof 9, 7491 DV Delden, Netherlands",
+      "place_id": "ChIJiSmFLZ0OuEcRtSWWwO-uIUg",
+      "website": "http://www.tandartsenpraktijkdenhof.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 22,
+      "name": "Coen Wissink Tandartspraktijk",
+      "address": "Straatsburg 31, 7559 NM Hengelo, Netherlands",
+      "place_id": "ChIJuxbKxiwQuEcRvn_yJGKPtOM",
+      "website": "http://www.coenwissink.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 23,
+      "name": "Baron Tandartsenpraktijk",
+      "address": "Baron Bentinckstraat 65, 7731 EK Ommen, Netherlands",
+      "place_id": "ChIJq6oWx1b9x0cRc_kVR1QeC6M",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 24,
+      "name": "Tandartspraktijk Mijn Tand",
+      "address": "Wolter ten Catestraat 61, 7551 HX Hengelo, Netherlands",
+      "place_id": "ChIJQ7Y1LOURuEcRpl2CcDcls7U",
+      "website": "http://www.mijntandhengelo.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 25,
+      "name": "Tandartspraktijk Hengelo",
+      "address": "Dennenbosweg 9, 7556 CB Hengelo, Netherlands",
+      "place_id": "ChIJY90wOaUPuEcR1_01TYE_B4M",
+      "website": "http://www.tandartspraktijk-hengelo.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 26,
+      "name": "Dental Clinics Nijverdal",
+      "address": "Nijkerkendijk 38-21, 7442 LS Nijverdal, Netherlands",
+      "place_id": "ChIJj8zHtA76x0cRPiGoFSr1p0I",
+      "website": "https://www.dentalclinics.nl/tandarts/nijverdal/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 27,
+      "name": "Tandartspraktijk Roelfsema",
+      "address": "Vriezenveenseweg 61, 7602 AA Almelo, Netherlands",
+      "place_id": "ChIJAQOvPToGuEcRV8poLt_sKO4",
+      "website": "https://www.samenwerkendetandartsen.nl/praktijken/almelo",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 28,
+      "name": "Tandartsenpraktijk Van Den Top",
+      "address": "Jan Jansstraat 6, 7576 BA Oldenzaal, Netherlands",
+      "place_id": "ChIJcRXsQUsXuEcRpwHaDfo4ZP0",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 29,
+      "name": "Collaborating Dentists Almelo",
+      "address": "Vriezenveenseweg 61, 7602 AA Almelo, Netherlands",
+      "place_id": "ChIJaZQcJUcGuEcRzyiqj6Rky64",
+      "website": "https://tandarts-almelo.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 30,
+      "name": "Tandartspraktijk Het Centrum Nijverdal",
+      "address": "Dorsvloer 12, 7641 DZ Wierden, Netherlands",
+      "place_id": "ChIJZcPeiPMHuEcRo3NWH-1KOkg",
+      "website": "http://tandartsenpraktijkhetcentrum.nl/weekenddiensten.html",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 31,
+      "name": "Tandartspraktijk B.J.H. Melenhorst",
+      "address": "De Lepelaar 25, 7671 WJ Vriezenveen, Netherlands",
+      "place_id": "ChIJFcSVD3sHuEcRLJaDo7lPiUE",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 32,
+      "name": "Tandartspraktijk Rijssen",
+      "address": "Boomkamp 37, 7461 AW Rijssen, Netherlands",
+      "place_id": "ChIJtyLAEtb3x0cRTxLa6p6bkrA",
+      "website": "https://tandartspraktijkrijssen.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 33,
+      "name": "Tandarts Nijhuis",
+      "address": "De Marke 2, 7678 CD Geesteren, Netherlands",
+      "place_id": "ChIJyxDNZtMRuEcREfJTlOsR8zg",
+      "website": "https://www.tandartspraktijkgeesteren.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 34,
+      "name": "Tandartsenpraktijk Seleman",
+      "address": "Nijverdalsestraat 83, 7642 AC Wierden, Netherlands",
+      "place_id": "ChIJS6vwePgHuEcRV5Xt0TXqhfk",
+      "website": "http://www.seleman.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 35,
+      "name": "Tandarts Post Twente - Spoed Tandarts Enschede",
+      "address": "Beltstraat 43D, 7512 AC Enschede, Netherlands",
+      "place_id": "ChIJFY25j3QVuEcRtIyK7c88cMI",
+      "website": "https://tandartsposttwente.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 36,
+      "name": "Tandartspraktijk EH Blijkshof",
+      "address": "H. Leefsmastraat 181, 7556 JE Hengelo, Netherlands",
+      "place_id": "ChIJGbUzoyYOuEcRLD7QPfTUTmc",
+      "website": "http://www.tandarts-hengelo.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 37,
+      "name": "Tandartsenpraktijk Khoynezhad B.V.",
+      "address": "Wierdensestraat 34A, 7607 GJ Almelo, Netherlands",
+      "place_id": "ChIJsy-F_S8GuEcRWWqza8JNABU",
+      "website": "https://tandartskhoynezhad.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 38,
+      "name": "Hagenbeek Tandartsen",
+      "address": "Holterweg 108 C, 7429 AH Colmschate, Netherlands",
+      "place_id": "ChIJIeQAV5rrx0cRk3wQdrZ2DhQ",
+      "website": "http://www.hagenbeektandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 39,
+      "name": "Eijsink tandartspraktijk",
+      "address": "Langewijk 49, 7701 AB Dedemsvaart, Netherlands",
+      "place_id": "ChIJPbZI5AwGyEcRC-WGmAr5zmI",
+      "website": "http://www.eijsink-tandartspraktijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 40,
+      "name": "Tandartsenpraktijk Sanderink & Daalmans",
+      "address": "Máximastraat 11, 7442 NW Nijverdal, Netherlands",
+      "place_id": "ChIJu1zE5g36x0cRdpaNNjIQrUI",
+      "website": "http://www.tandartsenpraktijksanderink-daalmans.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 41,
+      "name": "TANDARTSEN TANDARTS TANDARTSPRAKTIJK",
+      "address": "Het Koggeschip, Koggeschip 208, 7429 BG Colmschate, Netherlands",
+      "place_id": "ChIJ9yQoqZnrx0cR1h29-kkbKt4",
+      "website": "http://www.tandartsenoverzicht.nl/overijssel/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 42,
+      "name": "Tandartspraktijk Van Ofwegen",
+      "address": "Boomkamp 2, 7461 AX Rijssen, Netherlands",
+      "place_id": "ChIJq6pmPP72x0cRQ8_YMO6WZrA",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 43,
+      "name": "Tandartspraktijk Brinkcate",
+      "address": "Boskamp, L. von Bönninghausenstraat 25, 7651 AA Tubbergen, Netherlands",
+      "place_id": "ChIJAQCwaZMEuEcRss-bzWQifMI",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 44,
+      "name": "dental Rijnvis",
+      "address": "Van Reeuwijkstraat 52, 7731 EH Ommen, Netherlands",
+      "place_id": "ChIJkR7tJFb9x0cR6Gci6mZiiYw",
+      "website": "http://www.tandartsenpraktijkrijnvis.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 45,
+      "name": "G. Nellensteijn - tandarts",
+      "address": "Schoonhetenseweg 64, 8111 PV Heeten, Netherlands",
+      "place_id": "ChIJka53sWzvx0cRAvqARZlukVU",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 46,
+      "name": "Tandartsenpraktijk Höfte",
+      "address": "Ardennenstraat 29, 7559 LT Hengelo, Netherlands",
+      "place_id": "ChIJBV6g0i0QuEcR_FVJG27oWOo",
+      "website": "http://www.tandartshofte.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 47,
+      "name": "Tandartspraktijk Termeulen",
+      "address": "Gerrit Peuscherstraat 15, 7558 BA Hengelo, Netherlands",
+      "place_id": "ChIJXXibrx8OuEcRgsWyCVLXhQw",
+      "website": "https://tandartstermeulen.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 48,
+      "name": "Tandheelkunde Beverdam",
+      "address": "Grotestraat 117, 7443 BD Nijverdal, Netherlands",
+      "place_id": "ChIJ__8LQg36x0cR1Y5wo4xzln8",
+      "website": "https://www.tandheelkundebeverdam.nl/contact/weekend-en-avonddiensten",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 49,
+      "name": "Samenwerkende Tandartsen Rijssen",
+      "address": "Wilhelminastraat 22a, 7462 CG Rijssen, Netherlands",
+      "place_id": "ChIJCdePQ_n2x0cR8KI_Rh3bfOE",
+      "website": "https://www.tandartsrijssen.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 50,
+      "name": "Tandartsenpraktijk G.H. Boenk B.V.",
+      "address": "Klaverstraat 43, 7552 EV Hengelo, Netherlands",
+      "place_id": "ChIJ98lkYO0RuEcR4QUmiGJTzcI",
+      "website": "http://www.tandartsboenk.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 51,
+      "name": "Tandartspraktijk H. Koning",
+      "address": "Van Corbachstraat 9, 7447 GK Hellendoorn, Netherlands",
+      "place_id": "ChIJE-pvDEP6x0cRTlQrGwVRcts",
+      "website": "http://tandartskoning.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 52,
+      "name": "Tandheelkundig Centrum Holten",
+      "address": "Gaardenstraat 32, 7451 CW Holten, Netherlands",
+      "place_id": "ChIJyeHH-Qvxx0cRqgNfMLcHEAs",
+      "website": "http://www.tandheelkundigcentrumholten.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 53,
+      "name": "Dental clinic De Merelhof",
+      "address": "Willebrandt van Oldenburgstraat 7, 7772 AL Hardenberg, Netherlands",
+      "place_id": "ChIJX5XG9ccByEcRLFBApAgWiHI",
+      "website": "http://www.demerelhof.com/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 54,
+      "name": "Mondzorgcentrum Nijverdal",
+      "address": "Stationsstraat 7, 7443 BX Nijverdal, Netherlands",
+      "place_id": "ChIJv5ShUQX6x0cRB91Z0Ep0X4w",
+      "website": "http://www.mondzorgcentrumnijverdal.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 55,
+      "name": "Tandartspraktijk De Graven Es",
+      "address": "Umbrialaan 60, 7577 KZ Oldenzaal, Netherlands",
+      "place_id": "ChIJP4cfAVIXuEcRjWtHkmT17oo",
+      "website": "https://tandartspraktijkdegravenes.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 56,
+      "name": "Dental Clinics Almelo",
+      "address": "De Schöppe 2, 7609 CB Almelo, Netherlands",
+      "place_id": "ChIJVyDd4H4IuEcR6IeWDVucvLY",
+      "website": "https://www.dentalclinics.nl/tandarts/almelo/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 57,
+      "name": "Tandartspraktijk Soons",
+      "address": "Vennekesgaarden 67, 7462 TR Rijssen, Netherlands",
+      "place_id": "ChIJn9HqceP2x0cR01466KBFl2Q",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 58,
+      "name": "Tandarts Patzke",
+      "address": "Esdoornlaan 4, 7681 HB Vroomshoop, Netherlands",
+      "place_id": "ChIJJ2rV3B3_x0cRvWYapPUVB6s",
+      "website": "http://www.patzke.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 59,
+      "name": "Tandartsenpraktijk Stadsveld, Enschede",
+      "address": "Wethouder Nijhuisstraat 225 A, 7545 NG Enschede, Netherlands",
+      "place_id": "ChIJkf4kZ5kTuEcRSsUWsJEJRKk",
+      "website": "http://www.tandartspraktijkstadsveld.nl/",
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   },
+   {
+      "id": 60,
+      "name": "Tandartspraktijk Mark",
+      "address": "Vrugteveensweg 12, 7447 AL Hellendoorn, Netherlands",
+      "place_id": "ChIJyZeU0kD6x0cRc0TZAZoNzs4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Overijssel"
+   }
+]

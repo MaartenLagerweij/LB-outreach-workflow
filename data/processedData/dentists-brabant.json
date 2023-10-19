@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Mondzorg Brabant",
+      "address": "Dr. Struyckenplein 67-68, 4812 TA Breda, Netherlands",
+      "place_id": "ChIJu4kNJhigxkcR4312_uBOSIo",
+      "website": "https://mondzorgbrabant.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 2,
+      "name": "Tandartspraktijk Acht",
+      "address": "Waalstraat 5B, 5626 AR Eindhoven, Netherlands",
+      "place_id": "ChIJY96mBQbcxkcRPPwDiOPnznk",
+      "website": "http://www.tandenenkiezen.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 3,
+      "name": "Tandartspraktijk Van de Veerdonk",
+      "address": "Kreitenmolenstraat 93, 5071 BB Udenhout, Netherlands",
+      "place_id": "ChIJjz-2piuVxkcR32kkHKZZeYc",
+      "website": "http://www.tc-u.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 4,
+      "name": "Tandheelkundig Centrum Moergestel",
+      "address": "Raadhuisstraat 32, 5066 AP Moergestel, Netherlands",
+      "place_id": "ChIJF2RbMUrAxkcRTtKQDg2iiac",
+      "website": "http://www.tcmoergestel.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 5,
+      "name": "Aarle Mondzorg",
+      "address": "Sint Franciscusweg 6, 5684 LZ Best, Netherlands",
+      "place_id": "ChIJW0CHg-bcxkcRZno3iCwHUvs",
+      "website": "http://www.aarlemondzorg.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 6,
+      "name": "Tandartsen Kastelenplein",
+      "address": "Kastelenplein 174, 5653 LX Eindhoven, Netherlands",
+      "place_id": "ChIJ4y_obJDZxkcRQneRMhU4ehA",
+      "website": "http://tandartsenkastelenplein.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 7,
+      "name": "Tandartspraktijk Tilburg",
+      "address": "Bijsterveldenlaan 5, 5045 ZZ Tilburg, Netherlands",
+      "place_id": "ChIJia4BMCu-xkcROnIbOLfKn1I",
+      "website": "https://tandartspraktijk-tilburg.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 8,
+      "name": "Tandartspraktijk van Diessen",
+      "address": "Steenakkerplein 11, 5126 AW Gilze, Netherlands",
+      "place_id": "ChIJ7wkBoC69xkcRzbfPjgoJ7iU",
+      "website": "http://www.vandiessen.info/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 9,
+      "name": "Tandarts Sanders Helvoirt",
+      "address": "Lindelaan 30C, 5268 CC Helvoirt, Netherlands",
+      "place_id": "ChIJwzJXYZbrxkcRDMJSZAA9e38",
+      "website": "http://www.tpsanders.nl",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 10,
+      "name": "Tandartsenpraktijk S. Lodder & A. Lodder-Janssen",
+      "address": "De Leeuwerikstraat 42, 5683 BP Best, Netherlands",
+      "place_id": "ChIJ_fRAAvjcxkcRlQJy-5c6YbA",
+      "website": "https://www.tandartsenpraktijklodder.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 11,
+      "name": "Tandartsenpost Brabant",
+      "address": "Koningsschild 16, 5051 SJ Goirle, Netherlands",
+      "place_id": "ChIJB9Psu3W_xkcRUBD0a5ehd9s",
+      "website": "https://tandartsenpostbrabant.nl/nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 12,
+      "name": "Tandartsenpraktijk C. Hanken",
+      "address": "Arkendonk 7, 4907 XT Oosterhout, Netherlands",
+      "place_id": "ChIJI8Gy3VqZxkcRvXNkB2srA_w",
+      "website": "http://www.tandartshankenoosterhout.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 13,
+      "name": "Lassus Tandartsen Oisterwijk",
+      "address": "Moergestelseweg 32L, 5062 JW Oisterwijk, Netherlands",
+      "place_id": "ChIJnYjye5vrxkcRcrmIADEfUSI",
+      "website": "https://lassustandartsen.nl/oisterwijk/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 14,
+      "name": "Tandartsenpraktijk J.F. Nowak B.V.",
+      "address": "Lensheuvel 1S, 5541 BA Reusel, Netherlands",
+      "place_id": "ChIJv1cFwv_IxkcRpz_HjRo_bmg",
+      "website": "http://www.tandartsnowak.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 15,
+      "name": "Tandartspraktijk Van Mierlo",
+      "address": "Moergestelseweg 20, 5062 JW Oisterwijk, Netherlands",
+      "place_id": "ChIJvXrmXCjAxkcRT_vib0S-LhI",
+      "website": "http://www.thco.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 16,
+      "name": "Tandheelkundig Centrum Boschdijk | Uw tandarts in Eindhoven",
+      "address": "Boschdijk 391, 5621 JB Eindhoven, Netherlands",
+      "place_id": "ChIJYaUejjvZxkcRd6zkjLNKLoQ",
+      "website": "https://tandartsenpraktijkboschdijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 17,
+      "name": "Tandartspraktijk Steenbeek",
+      "address": "Hoge Zij 26, 5704 CD Helmond, Netherlands",
+      "place_id": "ChIJpdJTAX4jx0cRufYhsU8HDcs",
+      "website": "https://tandartspraktijksteenbeek.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 18,
+      "name": "Tandartsen Gestel",
+      "address": "Bennekelstraat 7, 5654 DB Eindhoven, Netherlands",
+      "place_id": "ChIJZZsB6jXZxkcRYrOpf3wWJvk",
+      "website": "http://tandartsengestel.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 19,
+      "name": "Naaijkens & Maes Tandartsen",
+      "address": "Raadhuisstraat 37, 5056 HC Berkel-Enschot, Netherlands",
+      "place_id": "ChIJ_Wrlq06VxkcRU--zw0pb_E0",
+      "website": "http://www.mjmnaaijkens.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 20,
+      "name": "Tandartsenpraktijk Steenbergen Tilburg",
+      "address": "Kruisvaardersstraat 157, 5021 BC Tilburg, Netherlands",
+      "place_id": "ChIJHVSZqM-_xkcR-6kMZKhrt6A",
+      "website": "http://www.tandarts-steenbergen.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 21,
+      "name": "Samenwerkende Tandartsen B.v.",
+      "address": "De Waard 5, 4906 BC Oosterhout, Netherlands",
+      "place_id": "ChIJ_xwNgbGexkcRK5ICkqXHfn0",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 22,
+      "name": "Mondzorgcentrum De Parel (voorheen Praktijk Verhoeven)",
+      "address": "Langvennen-Noord 29, 5061 WX Oisterwijk, Netherlands",
+      "place_id": "ChIJcWZUa5bqxkcRTYVXk0or9xY",
+      "website": "https://mondzorgcentrumdeparel.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 23,
+      "name": "Frenken & Partners Tandartsen",
+      "address": "Boslaan 17, 5263 GW Vught, Netherlands",
+      "place_id": "ChIJD62eXqvuxkcRYdYn2IYohvU",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 24,
+      "name": "Tandartsenpraktijk TandworX",
+      "address": "Parallelweg West 54-B, 5251 JG Vlijmen, Netherlands",
+      "place_id": "ChIJU5E9lOHsxkcRzI7XlFCrPRg",
+      "website": "https://www.tcvlijmen.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 25,
+      "name": "Tandartsenpraktijk Van der Tas en Van Dooren",
+      "address": "Van Kemenadelaan 7, 5061 EE Oisterwijk, Netherlands",
+      "place_id": "ChIJY4zqxYTqxkcRruwsNyvkAZE",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 26,
+      "name": "Tandartspraktijk Helvoirt",
+      "address": "Catharinastraat 1, 5268 CT Helvoirt, Netherlands",
+      "place_id": "ChIJW5o7Ar7rxkcREwfKylUDDPk",
+      "website": "http://www.tandartspraktijkhelvoirt.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 27,
+      "name": "Tandheelkundig Centrum Spoorlaan (fusie Tandartspraktijk G.H.M. van der Zand en Tandarts Schroeder)",
+      "address": "Spoorlaan 378, 5038 CD Tilburg, Netherlands",
+      "place_id": "ChIJ6785tjO-xkcRQ8_wT1nuEUw",
+      "website": "http://www.tcspoorlaan.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 28,
+      "name": "B.V. Tandartspraktijk Van den Berg",
+      "address": "Bloemendaal 3, 5688 GP Oirschot, Netherlands",
+      "place_id": "ChIJxTzPI0bDxkcRBWeL9dSOSAw",
+      "website": "http://www.tandartspraktijk-jamvandenberg.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 29,
+      "name": "Tandartspraktijk P. Van Deursen",
+      "address": "Raafstraat 6, 5702 PW Helmond, Netherlands",
+      "place_id": "ChIJAQDs3MQjx0cRraZlja71460",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 30,
+      "name": "Tandartspraktijk Boeijen",
+      "address": "Oude Bestseweg 24, 5688 DM Oirschot, Netherlands",
+      "place_id": "ChIJKcEF0jvDxkcRQLkTJdlhtVI",
+      "website": "http://tandartspraktijkboeijen.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 31,
+      "name": "Tandartsengroep Goirle",
+      "address": "Van Haestrechtstraat 66, 5051 VE Goirle, Netherlands",
+      "place_id": "ChIJxblIrPu-xkcR-bwpYkwyBMw",
+      "website": "http://tandartsengroepgoirle.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 32,
+      "name": "Tandarts M.A.M. van de Loo",
+      "address": "Rembrandtlaan 22, 4907 NN Oosterhout, Netherlands",
+      "place_id": "ChIJDe8ff12ZxkcR1FJMK9R34nw",
+      "website": "http://www.tandartsvandeloo.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 33,
+      "name": "Collaborating Dentists Eindhoven - Willemstraat",
+      "address": "Willemstraat 63, 5611 HC Eindhoven, Netherlands",
+      "place_id": "ChIJi-tvjg_ZxkcRvg6C-_oKmek",
+      "website": "https://www.tandarts-willemstraat.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 34,
+      "name": "Tandartspraktijk van Spaendonck",
+      "address": "Nieuwstraat 21, 5271 AB Sint-Michielsgestel, Netherlands",
+      "place_id": "ChIJKYOO7bHoxkcRRtk_paPxI1Y",
+      "website": "http://www.tandartspraktijkvanspaendonck.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 35,
+      "name": "Tandartsenpraktijk Van der Heijden",
+      "address": "Brabantplein 29, 4817 LR Breda, Netherlands",
+      "place_id": "ChIJgT7bXmOfxkcRxUrwNQTqKrQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 36,
+      "name": "Dentist's practice Donkersloot",
+      "address": "Lorrainelaan 8, 5627 DD Eindhoven, Netherlands",
+      "place_id": "ChIJIQsNtQLcxkcRuMP4Zm3XCoY",
+      "website": "https://donkersloot.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 37,
+      "name": "Tandartsenpraktijk Andel",
+      "address": "Dokter Esseveldlaan 50, 4281 PM Andel, Netherlands",
+      "place_id": "ChIJydQeraqPxkcRh5OHiuzhsMI",
+      "website": "http://www.tandartsenpraktijkandel.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 38,
+      "name": "Dentist Team Besterd Tilburg",
+      "address": "Goirkestraat 37, 5046 GD Tilburg, Netherlands",
+      "place_id": "ChIJFfmR-YeVxkcRQp2uwSZ3syo",
+      "website": "https://www.tandartsdebesterd.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 39,
+      "name": "Tandartsenpraktijk Brouwhuis",
+      "address": "Overloop 50, 5704 EL Helmond, Netherlands",
+      "place_id": "ChIJzY6KOHgjx0cRU3Bbyjeo0XQ",
+      "website": "http://www.tandartsenpraktijkbrouwhuis.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 40,
+      "name": "Tandzorg Tilburg (Locatie Monteverdistraat)",
+      "address": "Monteverdistraat 69, 5049 EV Tilburg, Netherlands",
+      "place_id": "ChIJYfh5DY6VxkcRedwQBPOvNWs",
+      "website": "https://tandzorg-tilburg.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 41,
+      "name": "Dental Center Blixembosch",
+      "address": "Ouverture 149, 5629 PT Eindhoven, Netherlands",
+      "place_id": "ChIJaZdva8HexkcRdsvEmFAsQOw",
+      "website": "http://www.blixemtand.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 42,
+      "name": "Collaborating Dentists Tilburg - South",
+      "address": "Doctor Paul Janssenweg 143, 5026 RH Tilburg, Netherlands",
+      "place_id": "ChIJJ4rx22e-xkcR4vKEv0v_Ku0",
+      "website": "https://www.tandarts-tilburg-zuid.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 43,
+      "name": "Tandartspraktijk van Kemenade B.V.",
+      "address": "Nieuwstraat 60a, 5683 KD Best, Netherlands",
+      "place_id": "ChIJjQUAV1TcxkcRpAwYl7vQATw",
+      "website": "https://www.van-kemenade.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 44,
+      "name": "Tandartsenpraktijk Woenselse Heide",
+      "address": "Zuiderzeelaan 1, 5628 KC Eindhoven, Netherlands",
+      "place_id": "ChIJKfnt77XexkcR2W5VzHoxo0c",
+      "website": "http://www.woenselseheide.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 45,
+      "name": "Van der Veen & Vogels Mondzorg",
+      "address": "Van Kemenadelaan 7, 5061 EE Oisterwijk, Netherlands",
+      "place_id": "ChIJLzejRYzrxkcR4PH97Jhu-RY",
+      "website": "http://www.vanderveenenvogels.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 46,
+      "name": "MSB Tandarts",
+      "address": "Veldmaarschalk Montgomerylaan 783, 5623 AX Eindhoven, Netherlands",
+      "place_id": "ChIJWTUQcSPZxkcRVtfEqaxX-Fg",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 47,
+      "name": "Tandartspraktijk P.T. The B.V.",
+      "address": "Gerwenseweg 9A, 5708 EH Helmond, Netherlands",
+      "place_id": "ChIJId5rMRYhx0cRuV4_Q3xwl9M",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 48,
+      "name": "Tandartspraktijk B W L Jans",
+      "address": "Kastelenplein 174, 5653 LX Eindhoven, Netherlands",
+      "place_id": "ChIJ4y_obJDZxkcRHeLHXIr9HAQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 49,
+      "name": "Clinias - Tandarts Breda",
+      "address": "Bijster 30, 4817 HX Breda, Netherlands",
+      "place_id": "ChIJvZF_qy2gxkcRNVD2t2hzUJo",
+      "website": "https://clinias.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 50,
+      "name": "Aan 't Hof tandartsen",
+      "address": "Oirschotseweg 31, 5684 NE Best, Netherlands",
+      "place_id": "ChIJ5RdBD7HdxkcRMvwExi5hTBk",
+      "website": "http://aanhethoftandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 51,
+      "name": "Tandarts A. Marks",
+      "address": "Oirschotseweg 70, 5684 NK Best, Netherlands",
+      "place_id": "ChIJiaInbqTdxkcRiOEExhDkcIU",
+      "website": "http://dentalclinics.nl/tandarts/Best",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 52,
+      "name": "Tandartspraktijk Hendrik Verheeslaan",
+      "address": "Hendrik Verheeslaan 20, 5283 CV Boxtel, Netherlands",
+      "place_id": "ChIJKQ5w4GvoxkcRthAUEaoKo7g",
+      "website": "https://www.tandartshendrikverheeslaan.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 53,
+      "name": "Tandartsenpraktijk Eekelaar",
+      "address": "Dukaat 7, 5283 PJ Boxtel, Netherlands",
+      "place_id": "ChIJvxKyKFnoxkcRj_lALdTmqTQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 54,
+      "name": "Tandartspraktijk van den Hurk",
+      "address": "Maximalaan 2, 5531 JB Bladel, Netherlands",
+      "place_id": "ChIJB864a0LPxkcRPOVPbmUAzP8",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 55,
+      "name": "Tandarts Pels",
+      "address": "Douglashout 32F, 5621 DE Eindhoven, Netherlands",
+      "place_id": "ChIJBfF6QiTZxkcRWSpM5nl_Z00",
+      "website": "https://tandartspels.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 56,
+      "name": "Dental Center Wilborts BV",
+      "address": "Loosdorpstraat 1, 5045 WC Tilburg, Netherlands",
+      "place_id": "ChIJHb0wDy6WxkcRVKaNqk3zahs",
+      "website": "https://www.tandartspraktijkwilborts.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 57,
+      "name": "Tandheelkundig Centrum Hanevoet",
+      "address": "Oldengaarde 17, 5655 CP Eindhoven, Netherlands",
+      "place_id": "ChIJo38hLIzZxkcR6TJbmcDBw0I",
+      "website": "https://www.tchanevoet.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 58,
+      "name": "Tandartspraktijk Terwoert",
+      "address": "Frisselsteinstraat 8, 5461 AD Veghel, Netherlands",
+      "place_id": "ChIJnVyqCurhxkcRhuCeMcQQ66E",
+      "website": "http://www.tandartspraktijkterwoert.nl/",
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 59,
+      "name": "Tandarts Van Herk",
+      "address": "Castaert 96, 5688 PG Oirschot, Netherlands",
+      "place_id": "ChIJBVPz0yLDxkcR6Ei7rqftvy8",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   },
+   {
+      "id": 60,
+      "name": "tandarts in den bosch",
+      "address": "Rijnstraat 495, 5215 EJ 's-Hertogenbosch, Netherlands",
+      "place_id": "ChIJLaKO7anvxkcRim-yXxuSo5E",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Brabant"
+   }
+]

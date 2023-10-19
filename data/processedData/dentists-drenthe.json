@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Oral care Midden-Drenthe",
+      "address": "Eursingerweg 12, 9411 BB Beilen, Netherlands",
+      "place_id": "ChIJk0DaCAoYyEcRzCjc7_bp3ho",
+      "website": "https://mondzorgdrenthebeilen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 2,
+      "name": "Mondzorg Drenthe Erica",
+      "address": "Kerkweg 4a, 7887 BG Erica, Netherlands",
+      "place_id": "ChIJcWisSJ7vt0cRi3W1IH7SaPw",
+      "website": "https://mondzorgdrentheerica.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 3,
+      "name": "Rolde center Oral / Dental Technology Rolde",
+      "address": "Adolph van Ansenlaan 3a, 9451 GP Rolde, Netherlands",
+      "place_id": "ChIJQ1NFio4myEcRwSRlAb7QOzA",
+      "website": "https://www.dentalclinics.nl/tandarts/rolde/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 4,
+      "name": "TandartsCraanen.nl",
+      "address": "Drenthe, Asserstraat 118, 9492 TB Ubbena, Netherlands",
+      "place_id": "ChIJzYJH8Y4vyEcRAEJaaZdJDb0",
+      "website": "http://tandartscraanen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 5,
+      "name": "PUUR Mondzorg Emmen",
+      "address": "Boermarkeweg 44-D, 7824 AA Emmen, Netherlands",
+      "place_id": "ChIJB4reaiHmt0cRHM0ikxTiXpc",
+      "website": "https://puurmondzorg.nl/emmen/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 6,
+      "name": "Dental Clinics Assen",
+      "address": "Brink 37, 9401 HV Assen, Netherlands",
+      "place_id": "ChIJBVDku-IkyEcRElVctymy7ko",
+      "website": "https://www.dentalclinics.nl/tandarts/assen/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 7,
+      "name": "Tandartspraktijk Zwinderen",
+      "address": "37, Verlengde Hoogeveense Vaart, 7864 TA Zwinderen, Netherlands",
+      "place_id": "ChIJxTM9HIAdyEcRUc19OOhu8GM",
+      "website": "http://www.tandartspraktijkzwinderen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 8,
+      "name": "Mondzorg Oosterhesselen B.V.",
+      "address": "Edveensweg 13, 7861 AM Oosterhesselen, Netherlands",
+      "place_id": "ChIJTV1d3Dzit0cREW83dwLz8Ho",
+      "website": "http://www.mondzorgoosterhesselen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 9,
+      "name": "Dental De Jong",
+      "address": "Beilerstraat 179, 9401 PJ Assen, Netherlands",
+      "place_id": "ChIJre7nKeUkyEcRy5w76nTy0eg",
+      "website": "https://www.tandartsenpraktijkdejong.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 10,
+      "name": "Dental Center 't Haagje",
+      "address": "Het Haagje 163, 7902 LG Hoogeveen, Netherlands",
+      "place_id": "ChIJ7QbJHusayEcRjYJwI1ZrQz0",
+      "website": "https://www.tcthaagje.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 11,
+      "name": "Mondzorg Scheperpark",
+      "address": "Boermarkeweg 50H, 7824 AA Emmen, Netherlands",
+      "place_id": "ChIJd1XIMjrmt0cRGbaz1o--e4s",
+      "website": "http://mondzorgscheperpark.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 12,
+      "name": "Tandartspraktijk Wittenberg",
+      "address": "Emmerweg 6, 7751 AN Dalen, Netherlands",
+      "place_id": "ChIJsbf21F3jt0cRphmi1zcWhGk",
+      "website": "http://www.tandartswittenberg.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 13,
+      "name": "Mondzorg Drenthe Meppel",
+      "address": "Stationsweg 2, 7941 HD Meppel, Netherlands",
+      "place_id": "ChIJpWQLv5JyyEcRTqtqq7yWS-M",
+      "website": "https://mondzorgdrenthemeppel.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 14,
+      "name": "Tandartsenpraktijk Stationsstraat Emmen",
+      "address": "Stationsstraat 79, 7811 GS Emmen, Netherlands",
+      "place_id": "ChIJgSmRiTnmt0cRc4E_lQlyFw0",
+      "website": "http://www.praktijkstationsstraat.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 15,
+      "name": "Tandartspraktijk Nijhof",
+      "address": "Boermarkeweg 54, 7824 AA Emmen, Netherlands",
+      "place_id": "ChIJ4Q-MayHmt0cRXn-6cYIk0yU",
+      "website": "https://www.dentis.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 16,
+      "name": "Topdent Zaal BV",
+      "address": "Noordbargerstraat 4, 7811 KG Emmen, Netherlands",
+      "place_id": "ChIJyQ-Ooxbmt0cR7mT5H0SFgYg",
+      "website": "https://www.tandartspraktijkemmen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 17,
+      "name": "Drentsche Aa Tandheelkunde",
+      "address": "Esweg 3, 9467 PJ Anloo, Netherlands",
+      "place_id": "ChIJo9k-D4koyEcRip8wU7J9PSY",
+      "website": "http://www.drentscheaatandheelkunde.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 18,
+      "name": "Tandartspraktijk Meerdijk",
+      "address": "Bislett 2, 7825 SB Emmen, Netherlands",
+      "place_id": "ChIJn52wR5Hot0cR2aAPJfWIL9Y",
+      "website": "https://tandartspraktijkmeerdijk.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 19,
+      "name": "Tandartspraktijk Mulder",
+      "address": "Brinkenhalte 22, 7812 HX Emmen, Netherlands",
+      "place_id": "ChIJPbH_V-flt0cRVJtlG6yJJcQ",
+      "website": "http://tandartspraktijkmulder.com/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 20,
+      "name": "Dentist Kloosterveen",
+      "address": "Vesteplein 7, 9408 ME Assen, Netherlands",
+      "place_id": "ChIJnY9YdCs7yEcRvmNlsqLtiW0",
+      "website": "http://tandarts-kloosterveen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 21,
+      "name": "Mondzorgpraktijk Fokkerstraat | Tandarts Assen | Orthodontie, regulier en biologische tandarts",
+      "address": "A.H.G. Fokkerstraat 16, 9403 AP Assen, Netherlands",
+      "place_id": "ChIJyT2CggglyEcRYTwYA5CscXI",
+      "website": "https://mondzorgfokkerstraat.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 22,
+      "name": "Tandartspraktijk Ilisevic",
+      "address": "Julianalaan 6, 9462 PH Gasselte, Netherlands",
+      "place_id": "ChIJ10ny0f3Yt0cR-bC9uWo2f1M",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 23,
+      "name": "Tandartspraktijk Oortgiesen",
+      "address": "Nijkampenweg 67, 7815 GB Emmen, Netherlands",
+      "place_id": "ChIJHV1zbDbmt0cRGKKLG9DxNIY",
+      "website": "http://www.tandartspraktijkoortgiesen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 24,
+      "name": "The dental Rietlanden B.V.",
+      "address": "Valkenveld 120, 7827 HG Emmen, Netherlands",
+      "place_id": "ChIJb1TW3-Xlt0cReZP3mHqp2dw",
+      "website": "http://www.tandartspraktijkrietlanden.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 25,
+      "name": "Tandartspraktijk Heimink",
+      "address": "Brink 1, 7991 CG Dwingeloo, Netherlands",
+      "place_id": "ChIJm4iXTisUyEcRNddvbY-9dCE",
+      "website": "https://www.tandartspraktijkheimink.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 26,
+      "name": "Tandarts A.K. Tiktak",
+      "address": "Noordbargerstraat 71-A, 7812 AA Emmen, Netherlands",
+      "place_id": "ChIJUR3y82zmt0cRbpIjwzqIGYg",
+      "website": "http://www.tandartstiktak.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 27,
+      "name": "Tandartsenpraktijk Oranjebuurt",
+      "address": "Lauwers 10, 9405 BL Assen, Netherlands",
+      "place_id": "ChIJj5YzBwIlyEcR3WpsSWoE-6Q",
+      "website": "https://www.tandartsoranjebuurtassen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 28,
+      "name": "Tandartspraktijk Marsdijk",
+      "address": "Kleuvenstee 15, 9403 LT Assen, Netherlands",
+      "place_id": "ChIJl2n2Wp4lyEcR8G0-Lf11LAM",
+      "website": "http://www.tandartspraktijkmarsdijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 29,
+      "name": "Partnership Dental Center the Zevenster",
+      "address": "Burgemeester Feithsingel 4-A, 7742 BP Coevorden, Netherlands",
+      "place_id": "ChIJe8NS47_8t0cRLNH_4jc3kG8",
+      "website": "http://www.tandheelkundigcentrumdezevenster.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 30,
+      "name": "Mondzorg Westerbork",
+      "address": "Hoofdstraat 57, 9431 AC Westerbork, Netherlands",
+      "place_id": "ChIJyU9GbgIfyEcR8LBpacUC2gs",
+      "website": "https://www.mondzorgwesterbork.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 31,
+      "name": "B.V. Tandartspraktijk Remmelts",
+      "address": "Edveensweg 13-A, 7861 AM Oosterhesselen, Netherlands",
+      "place_id": "ChIJTV1d3Dzit0cRkS8ARODRe_0",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 32,
+      "name": "Tandarts- en mondhygiëne praktijk",
+      "address": "Nicolaas Beetsplein 5, 7901 KL Hoogeveen, Netherlands",
+      "place_id": "ChIJg4eX2pYayEcROnIIIsW4bLs",
+      "website": "http://www.tandartsenmondhygienepraktijk.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 33,
+      "name": "Tandartspraktijk J.R. Vastenburg",
+      "address": "Boermarkeweg 50H, 7824 AA Emmen, Netherlands",
+      "place_id": "ChIJKVnzYDvmt0cRITrVmLLl5aY",
+      "website": "http://www.mondzorgscheperpark.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 34,
+      "name": "Tandartspraktijk Venema",
+      "address": "Groningerstraat 15, 9471 AP Zuidlaren, Netherlands",
+      "place_id": "ChIJsaj1HmopyEcRxWYCTyNl4sU",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 35,
+      "name": "Tandartspraktijk C.L. Walther Boer",
+      "address": "Vaart Z.Z. 41, 9401 GG Assen, Netherlands",
+      "place_id": "ChIJyejEw-EkyEcRLkNCPY_Y3Mw",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 36,
+      "name": "Tandartspraktijk Sleen",
+      "address": "De Koepen 1, 7841 BT Sleen, Netherlands",
+      "place_id": "ChIJA8K4gVLht0cRYllq9YcYJPc",
+      "website": "http://www.tandartspraktijksleen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 37,
+      "name": "Mondzorgcentrum Atik",
+      "address": "Stationsstraat 11, 9401 KV Assen, Netherlands",
+      "place_id": "ChIJx5tMzvwkyEcRR499KQTGbIk",
+      "website": "http://www.tandarts-atik.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 38,
+      "name": "Tandarts M. Krikken",
+      "address": "Sparrenlaan 33, 7822 EM Emmen, Netherlands",
+      "place_id": "ChIJ-0NHGi7mt0cR3Daun3T0nBk",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 39,
+      "name": "Tandartspraktijk H. Meursing - De praktijk",
+      "address": "Oude Molenstraat 8, 7848 BM Schoonoord, Netherlands",
+      "place_id": "ChIJOcCU8Hrgt0cRKEmMW_Fb6PM",
+      "website": "http://www.tandartspraktijkhmeursing.nl/Contact/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 40,
+      "name": "Tandartspraktijk Ruinen",
+      "address": "Groene Weg 6, 7963 BX Ruinen, Netherlands",
+      "place_id": "ChIJ044v62IRyEcR9PenD-_Wt2I",
+      "website": "http://www.tandartspraktijkruinen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 41,
+      "name": "Tandartsenpraktijk Annen",
+      "address": "Spijkerboorsdijk 1A, 9468 CG Annen, Netherlands",
+      "place_id": "ChIJPSiigGbNyUcRfNfCxpOC4aM",
+      "website": "https://tandartsenpraktijkannen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 42,
+      "name": "Tandartsenpraktijk Roden",
+      "address": "Entinge 4, 9301 TV Roden, Netherlands",
+      "place_id": "ChIJ8T2RwiA0yEcRr7m2Nd_ASZ4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 43,
+      "name": "Tandartsenpraktijk Keur- Barkhuis",
+      "address": "Rondgang 54, 9408 MH Assen, Netherlands",
+      "place_id": "ChIJlSlFqgQlyEcRl0Kpr0K97pg",
+      "website": "http://www.tandartsenpraktijkkeur.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 44,
+      "name": "Tandartspraktijk E.A. Wiersema en S.G. Wiersema",
+      "address": "De Noesten 24A, 9431 TC Westerbork, Netherlands",
+      "place_id": "ChIJUz-VmkYfyEcRbl_xAyR4Rwo",
+      "website": "https://www.tandartspraktijkwiersema.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 45,
+      "name": "Tandartspraktijk Engelbertink",
+      "address": "Brinkenhalte 20, 7812 HX Emmen, Netherlands",
+      "place_id": "ChIJz7SyUOflt0cRcd-Cy3kydic",
+      "website": "http://www.tandartsengelbertink.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 46,
+      "name": "Linde & Co.",
+      "address": "Collardslaan 2, 9401 GZ Assen, Netherlands",
+      "place_id": "ChIJy-YvXeIkyEcR0f8ZAm8dtmk",
+      "website": "https://www.linde-co.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 47,
+      "name": "Tandzorg Op Maat Gasselternijveen",
+      "address": "Havenkade 4, 9514 BW Gasselternijveen, Netherlands",
+      "place_id": "ChIJb7cayoXZt0cRkb4DrN1QCnU",
+      "website": "http://gasselternijveen.tandartsopmaat.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 48,
+      "name": "Tandartspraktijk Albadent",
+      "address": "Duymaer van Twistweg 4, 7909 CB Hoogeveen, Netherlands",
+      "place_id": "ChIJ7wGqFnQQyEcRi_Z5MRZLTHA",
+      "website": "http://www.albadent.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 49,
+      "name": "Dental Goldenberg",
+      "address": "Van Schaikweg 60, 7811 KK Emmen, Netherlands",
+      "place_id": "ChIJN0Ya1hXmt0cRVYfaO-VGkhg",
+      "website": "http://www.tandartsengoldenberg.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 50,
+      "name": "Tandartspraktijk du Maine & van der Velden",
+      "address": "Pelikaanstraat 19, 9404 CH Assen, Netherlands",
+      "place_id": "ChIJc02kXlUkyEcRBGi37svV29w",
+      "website": "https://www.dumaine-vdvelden.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 51,
+      "name": "Drs. S. van der Zee tandarts",
+      "address": "Eursingerweg 12, 9411 BB Beilen, Netherlands",
+      "place_id": "ChIJO7wsDwoYyEcReyYVC9g6jys",
+      "website": "http://www.mmdbeilen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 52,
+      "name": "Tandartspraktijk Quadrant",
+      "address": "Vaart Zuidzijde 1, 7833 AA Nieuw-Amsterdam, Netherlands",
+      "place_id": "ChIJ8x2v31nmZEER_OJgvEQ8CSA",
+      "website": "http://www.praktijkquadrant.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 53,
+      "name": "Tandheelkundig Centrum De Kazerne Zuidlaren",
+      "address": "Annerweg 30B, 9471 KV Zuidlaren, Netherlands",
+      "place_id": "ChIJZ63GGxEpyEcRsZnQQIGY1OU",
+      "website": "http://www.tandartszuidlaren.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 54,
+      "name": "Tandartspraktijk R. van der Hengst",
+      "address": "Montgomerystraat 5, 7901 AV Hoogeveen, Netherlands",
+      "place_id": "ChIJCdWEWIUayEcRG3bMMYPYWLM",
+      "website": "http://www.hengst-hoogeveen.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 55,
+      "name": "Tandartspraktijk Te Raa",
+      "address": "Brinkenhalte 22, 7812 HX Emmen, Netherlands",
+      "place_id": "ChIJVVXlV-flt0cREN9vK8QeG4o",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 56,
+      "name": "quaTand, Practice of Dentistry",
+      "address": "Brink 15A, 9461 AR Gieten, Netherlands",
+      "place_id": "ChIJWwzrgg3Yt0cRDDxkeUSmggg",
+      "website": "http://www.quatand.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 57,
+      "name": "Dental care Center Meppel",
+      "address": "Werkhorst 42, 7944 AV Meppel, Netherlands",
+      "place_id": "ChIJgSKrh-5yyEcRgljsCqt6MCU",
+      "website": "http://mondzorgmeppel.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 58,
+      "name": "Tandartspraktijk Zuidgeest verw.pr. v. bijz. tandheelk.",
+      "address": "Veenweg 20, 9481 TJ Vries, Netherlands",
+      "place_id": "ChIJQ_0GZUkuyEcR5Q4WVGhzmtg",
+      "website": "http://www.tandartspraktijk-zuidgeest.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 59,
+      "name": "M.B. vd Zande",
+      "address": "De Zaaier 4, 7908 MA Hoogeveen, Netherlands",
+      "place_id": "ChIJLd7JtAwQyEcRlOi1uV9iRBY",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   },
+   {
+      "id": 60,
+      "name": "Tandartspraktijk De Oude Pastorie",
+      "address": "Bisschopsstraat 11, 9411 PH Beilen, Netherlands",
+      "place_id": "ChIJ9-hGzAwYyEcR32SCjEbCFR0",
+      "website": "http://www.happyteeth.nl/",
+      "usedSearchTerm": "tandartsen+in+Drenthe"
+   }
+]

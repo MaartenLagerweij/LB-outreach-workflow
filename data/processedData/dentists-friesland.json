@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Dental practice Grou",
+      "address": "Allingawier 39, 9001 LP Grou, Netherlands",
+      "place_id": "ChIJG55pcDH4yEcR_CdcDmmlp20",
+      "website": "https://www.tandartsengrou.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 2,
+      "name": "Tandartspraktijk Van der Lee",
+      "address": "Westersingel 44, 8913 CL Leeuwarden, Netherlands",
+      "place_id": "ChIJ29_Lyyn8yEcR6Unxj5m0SmY",
+      "website": "http://www.tandartspraktijkvanderlee.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 3,
+      "name": "Dental Center Bilgaard",
+      "address": "Brandemeer 98, 8918 GJ Leeuwarden, Netherlands",
+      "place_id": "ChIJJ5wToXn-yEcR5Vy3b2DpDms",
+      "website": "http://www.thcbilgaard.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 4,
+      "name": "Biologische Tandarts Friesland",
+      "address": "Pieter Sipmawei 19, 8915 DZ Leeuwarden, Netherlands",
+      "place_id": "ChIJVVVxNMv9yEcRV1-VEKMjB2w",
+      "website": "https://debiologischetandarts.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 5,
+      "name": "Tandarts Dornseiffer",
+      "address": "Emmakade 62, 8933 AT Leeuwarden, Netherlands",
+      "place_id": "ChIJZycF547-yEcRfYcJ13Hd0lU",
+      "website": "https://www.tandartsdornseiffer.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 6,
+      "name": "Dental Clinics Hardegarijp",
+      "address": "Vossenburcht 1, 9254 AL Hurdegaryp, Netherlands",
+      "place_id": "ChIJCbkDEBRVyEcR3KmDANPPSes",
+      "website": "https://www.dentalclinics.nl/tandarts/hardegarijp/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 7,
+      "name": "Kliniek Tandheelkunde Sneek",
+      "address": "Simmerdyk 14B, 8601 ZP Sneek, Netherlands",
+      "place_id": "ChIJg-9TMyjuyEcRPcEALBZ1kgw",
+      "website": "http://www.tandartssneek.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 8,
+      "name": "Tandartsenpraktijk Camminghaburen",
+      "address": "Havingastate 9E, 11, 8925 AZ Leeuwarden, Netherlands",
+      "place_id": "ChIJv1Vy2FD-yEcRw4fAMGa6KG4",
+      "website": "http://www.tandartscamminghaburen.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 9,
+      "name": "Tandzorg Op Maat Leeuwarden",
+      "address": "Uiterdijksterweg 15a, 8931 BK Leeuwarden, Netherlands",
+      "place_id": "ChIJX-7Q4SP8yEcRdNxdL3fx_Yc",
+      "website": "https://tandzorgopmaatleeuwarden.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 10,
+      "name": "Tilon Tandartsen",
+      "address": "Biensma 31-A, 9001 XZ Grou, Netherlands",
+      "place_id": "ChIJ5STKaDX4yEcRNMs4UpapGw8",
+      "website": "https://www.tilon.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 11,
+      "name": "Tandarts MJJ van der Schoot",
+      "address": "Broukade 44, 8912 CK Leeuwarden, Netherlands",
+      "place_id": "ChIJ9yTv2sf_yEcRxnu9RqEoKn0",
+      "website": "http://www.tandartsvdschoot.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 12,
+      "name": "Tandheelkunde Bredijk B.V.",
+      "address": "De Leijen 28, 8604 CE Sneek, Netherlands",
+      "place_id": "ChIJB-m2Q7fxyEcRMpdVrljbzwc",
+      "website": "https://www.kraantandheelkundebredyk.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 13,
+      "name": "Tandarts Kruitbosch",
+      "address": "Vredeman de Vriesstraat 4, 8921 BT Leeuwarden, Netherlands",
+      "place_id": "ChIJUfgi0I7-yEcROdGX6RbHt-4",
+      "website": "http://www.tandarts-kruitbosch.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 14,
+      "name": "Tandarts | Implantoloog | Van Asperen | Bolsward",
+      "address": "Snekerstraat 83, 8701 XC Bolsward, Netherlands",
+      "place_id": "ChIJ_6PvwszoyEcRcrCrQaS-qRU",
+      "website": "http://www.vanasperentandheelkunde.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 15,
+      "name": "Dental Dynamic",
+      "address": "Fonteinland 7D, 8913 CZ Leeuwarden, Netherlands",
+      "place_id": "ChIJQbus9yz8yEcRKYgIFJJ4ym4",
+      "website": "http://www.dentaldynamic.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 16,
+      "name": "Maatschap Tandartspraktijk Oenkerk",
+      "address": "Canterlandseweg 5, 9061 BX Gytsjerk, Netherlands",
+      "place_id": "ChIJ6edBxgQAyUcRh4pFVmK117I",
+      "website": "https://www.tandartsenpraktijktrynwalden.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 17,
+      "name": "Tandartspraktijk Dora de Vries",
+      "address": "Brandemeer 98, 8918 GJ Leeuwarden, Netherlands",
+      "place_id": "ChIJfbwaoXn-yEcR8r2oVcXi58c",
+      "website": "http://www.thcbilgaard.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 18,
+      "name": "Maatschap P. de Haan en A. Alkema",
+      "address": "De Overspitting 43, 8501 PG Joure, Netherlands",
+      "place_id": "ChIJoyhX2bn1yEcReF7UQerShIc",
+      "website": "https://alkemadehaantandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 19,
+      "name": "de HuysTandarts",
+      "address": "Mr, Meester P.J. Troelstrawei 6, 9001 CV Grou, Netherlands",
+      "place_id": "ChIJuzUFjTT4yEcRsGbDyPaYZF0",
+      "website": "http://www.dehuystandarts.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 20,
+      "name": "Dental Clinics Leeuwarden",
+      "address": "Oostergrachtswal 37-39, 8921 AA Leeuwarden, Netherlands",
+      "place_id": "ChIJ9Wu8HYb-yEcRBJZwu88OPLI",
+      "website": "https://www.dentalclinics.nl/tandarts/leeuwarden-oostergrachtswal/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 21,
+      "name": "Veldhuis Tandartsen",
+      "address": "Hege Hearewei 1C, 9051 AA Stiens, Netherlands",
+      "place_id": "ChIJz_dNiWQCyUcRYr7LpuM3b0E",
+      "website": "http://www.veldhuistandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 22,
+      "name": "Tandartspraktijk G A Steensma",
+      "address": "Trekschuit 16-18, 8447 CJ Heerenveen, Netherlands",
+      "place_id": "ChIJK9U45h9fyEcRHTYhH7K8zzw",
+      "website": "http://tandartsgasteensma.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 23,
+      "name": "Tandartsenpraktijk Fennepark",
+      "address": "Ringweg 11, 9201 GT Drachten, Netherlands",
+      "place_id": "ChIJjTiMNNpRyEcRsYIwVwpQGEg",
+      "website": "http://www.tandartsenpraktijk-fennepark.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 24,
+      "name": "Tosk Tandartsen",
+      "address": "Gauke Boelensstraat 4, 9203 RM Drachten, Netherlands",
+      "place_id": "ChIJr3eqbStQyEcRqDYn7gzKzAE",
+      "website": "https://www.tosk.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 25,
+      "name": "Tandartspraktijk Ferwert",
+      "address": "Marrumerweg 13, 9172 PN Netherlands",
+      "place_id": "ChIJh-0cAqsGyUcR7sv6zWAVi8I",
+      "website": "https://veldhuistandartsen.nl/contact/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 26,
+      "name": "Tandartsenpraktijk Trynwâlden",
+      "address": "Canterlandseweg 5, 9061 BX Gytsjerk, Netherlands",
+      "place_id": "ChIJ6edBxgQAyUcR8t_-RXNdn78",
+      "website": "https://www.tandartsenpraktijktrynwalden.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 27,
+      "name": "Tandartsenpraktijk Grouw",
+      "address": "Lange Veemarktstraat 1/A, 8601 ET Sneek, Netherlands",
+      "place_id": "ChIJjR_YAdDxyEcRlpylAPQyPnA",
+      "website": "https://www.tandartsengrou.nl/spoedgevallen/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 28,
+      "name": "Tandarts J. Hoitsma",
+      "address": "Uiterdijksterweg 15A, 8931 BK Leeuwarden, Netherlands",
+      "place_id": "ChIJxYEs4CP8yEcRdUNYTgul0Nk",
+      "website": "http://www.tandartsenpraktijk-hoitsma-vdheide.nl/pages/default.asp",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 29,
+      "name": "jouw tandarts",
+      "address": "Sixmastraat 66, 8932 PA Leeuwarden, Netherlands",
+      "place_id": "ChIJaWcPoI7-yEcRdxwFC4GJ3lU",
+      "website": "https://www.jouwtandarts.frl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 30,
+      "name": "Tandarts",
+      "address": "Emmaplein 2, 8933 BS Leeuwarden, Netherlands",
+      "place_id": "ChIJ__9boI7-yEcRqyAtk8pJetQ",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 31,
+      "name": "Tandartspraktijk De Woudvaart",
+      "address": "Birdaarderstraatweg 80-G, 9101 PK Dokkum, Netherlands",
+      "place_id": "ChIJfSCkWdGryUcREXy3LW1qygI",
+      "website": "http://www.dokkumtandarts.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 32,
+      "name": "Centrum Tandheelkunde Elyassi",
+      "address": "De Tijen 19, 9201 BX Drachten, Netherlands",
+      "place_id": "ChIJuY5wFs5RyEcRbB1Jh3rYlao",
+      "website": "https://www.tandarts-drachten.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 33,
+      "name": "Tandartspraktijk Holwerd",
+      "address": "Vossenburcht 1, 9254 AL Hurdegaryp, Netherlands",
+      "place_id": "ChIJ3xKkGhRVyEcRs8CzfZDd804",
+      "website": "https://www.tandartsholwerd.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 34,
+      "name": "Tandartsenpraktijk Oranjewijk",
+      "address": "Emmaplein 2, 8933 BS Leeuwarden, Netherlands",
+      "place_id": "ChIJaWcPoI7-yEcRrtbyjQcjkr8",
+      "website": "https://oranjewijk.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 35,
+      "name": "Tandartspraktijk P.W. Nauta",
+      "address": "Lepelaarstraat 73, 8446 JN Heerenveen, Netherlands",
+      "place_id": "ChIJtTqtoWReyEcRu0yUXYXvmq8",
+      "website": "http://www.tandartspraktijknauta.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 36,
+      "name": "Tandartspraktijk Bleekerhûs",
+      "address": "Moleneind Zuidzijde 11, 9203 ZW Drachten, Netherlands",
+      "place_id": "ChIJPWJJ6tRRyEcRZR6nOrhUSFM",
+      "website": "http://www.bleekerhus.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 37,
+      "name": "Tandartspraktijk Ureterp",
+      "address": "Lijteplein 18, 9247 EN Ureterp, Netherlands",
+      "place_id": "ChIJxeilcxtPyEcRnrh0PLwIGw4",
+      "website": "https://www.tandartspraktijkureterp.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 38,
+      "name": "Tandartspraktijk De Griene Leane",
+      "address": "Griene Leane 5 R, 9051 LZ Stiens, Netherlands",
+      "place_id": "ChIJaTMosHICyUcRUA15VsN7CCk",
+      "website": "https://www.degrieneleane.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 39,
+      "name": "Tandartspraktijk De Witte Heren",
+      "address": "Witherenstraat 1A, 8701 JJ Bolsward, Netherlands",
+      "place_id": "ChIJrXBIrsXoyEcR4AELHwQOJ6c",
+      "website": "http://www.dewitteheren.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 40,
+      "name": "Mts. Tandartsenpraktijk M.C. de Jong/L. Menso",
+      "address": "Geeuwkade 3, 8601 ER Sneek, Netherlands",
+      "place_id": "ChIJJQNQ7NHxyEcRf992dEifUOk",
+      "website": "https://www.dejongenmenso.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 41,
+      "name": "Moai Tandzorg",
+      "address": "Harlingerweg 50 A, 8801 PD Franeker, Netherlands",
+      "place_id": "ChIJk1S82DDhyEcRbQqmVwlKGt8",
+      "website": "http://www.moaitandzorg.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 42,
+      "name": "PUUR Mondzorg Dokkum",
+      "address": "Aalsumerpoort 7, 9101 JJ Dokkum, Netherlands",
+      "place_id": "ChIJZWd-WH2pyUcRCrWRD7IGcJg",
+      "website": "https://puurmondzorg.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 43,
+      "name": "TandartsIndex.nl",
+      "address": "Westereems 16, 8602 CR Sneek, Netherlands",
+      "place_id": "ChIJq6paVC7wyEcR7uO-1hnsGZI",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 44,
+      "name": "Mondzorg Akkrum",
+      "address": "Feansterdyk 20 A, 8491 BW Akkrum, Netherlands",
+      "place_id": "ChIJA0JFyrj3yEcRFi8nQoK-9sk",
+      "website": "http://www.mondzorgakkrum.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 45,
+      "name": "Tandartspraktijk J O Lourens",
+      "address": "Hammole 13, 8711 BZ Workum, Netherlands",
+      "place_id": "ChIJuda9GkTqyEcRkGuyc6Q83eE",
+      "website": "http://www.dentworktandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 46,
+      "name": "Tandartspraktijk Tjin A Koeng",
+      "address": "David Kloostermanstrjitte 8, 9298 JZ Kollumersweach, Netherlands",
+      "place_id": "ChIJv79kXeGsyUcRIGjgM6ZmCgU",
+      "website": "https://tandartspraktijkratjin-a-koeng.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 47,
+      "name": "Tandheelkundig Centrum Zuiderburen",
+      "address": "Wiardaplantage 3, 8939 AA Leeuwarden, Netherlands",
+      "place_id": "ChIJeT70VcL-yEcRam-rWJi3UYc",
+      "website": "https://www.thkcentrum.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 48,
+      "name": "Tandartspraktijk Meijer & Schildkamp",
+      "address": "Rollemastate 113, 8925 DC Leeuwarden, Netherlands",
+      "place_id": "ChIJAQD01FD-yEcRmE7wCEBzEDk",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 49,
+      "name": "Tandarts Tamayo Bv",
+      "address": "Mannagras 20, 8935 RV Leeuwarden, Netherlands",
+      "place_id": "ChIJ_9BE6Or-yEcRFf3loF8uUBc",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 50,
+      "name": "Tandartsenpraktijk P.J. Nijenhuis",
+      "address": "Stinzenflora 155, 8935 LG Leeuwarden, Netherlands",
+      "place_id": "ChIJvxz0sej-yEcRH_FrUQgh1JY",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 51,
+      "name": "Tandarts G. Hoekstra",
+      "address": "info@tandartshoekstra.nl, Jan Mankeslaan 37, 8442 HL Heerenveen, Netherlands",
+      "place_id": "ChIJ__8P8edeyEcR79tU3Cqpbf4",
+      "website": "https://tandarts-g-hoekstra.business.site/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 52,
+      "name": "Tandarts Herbig",
+      "address": "Aalsumerpoort 7, 9101 JJ Dokkum, Netherlands",
+      "place_id": "ChIJC7eEz9uuyUcRqkHPU5E2GMw",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 53,
+      "name": "Tandheelkundig Centrum Sneek",
+      "address": "Goeman Borgesiuslaan 43, 8603 BH Sneek, Netherlands",
+      "place_id": "ChIJVa6HLTPwyEcRQdR3sbeYps8",
+      "website": "http://www.tandartsinsneek.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 54,
+      "name": "Tandartspraktijk Koudum",
+      "address": "Bovenweg 2, 8723 AR Koudum, Netherlands",
+      "place_id": "ChIJzwvs4CuVyEcRhUtU-2yHMmo",
+      "website": "https://www.tandartspraktijk-koudum.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 55,
+      "name": "Medident B.V.",
+      "address": "De Skeakels 15, 9001 NM Grou, Netherlands",
+      "place_id": "ChIJSUhCLC74yEcRR5440U9rJuw",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 56,
+      "name": "Tandheelkunde De Loten",
+      "address": "Westereems 16, 8602 CR Sneek, Netherlands",
+      "place_id": "ChIJmx8rUS7wyEcRK-Vg_rySoEs",
+      "website": "https://www.tandheelkundedeloten.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 57,
+      "name": "Tandzorg Drachten",
+      "address": "Stationsweg 37, 9201 GG Drachten, Netherlands",
+      "place_id": "ChIJbZIxqtZRyEcRZbigoqcg9BQ",
+      "website": "https://www.tandzorgdrachten.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 58,
+      "name": "Dental Clinics Leeuwarden Aldlân",
+      "address": "Stinzenflora 155, 8935 LG Leeuwarden, Netherlands",
+      "place_id": "ChIJs-Qesuj-yEcRilqVqUZRW3Y",
+      "website": "https://www.dentalclinics.nl/tandarts/leeuwarden-aldlan/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 59,
+      "name": "Tandarts Kollum A.S. Hibma",
+      "address": "Willem Lodewijkstraat 51, 9291 MZ Kollum, Netherlands",
+      "place_id": "ChIJ6ZOq_XuyyUcRRP4X9xYMmxc",
+      "website": "https://www.tandartshibma.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   },
+   {
+      "id": 60,
+      "name": "J.H. Lodders Tandarts",
+      "address": "Oostergrachtswal 37-39, 8921 AA Leeuwarden, Netherlands",
+      "place_id": "ChIJvXOVHYb-yEcRmQi7WFVoyeo",
+      "website": "http://www.dentalclinics.nl/",
+      "usedSearchTerm": "tandartsen+in+Friesland"
+   }
+]

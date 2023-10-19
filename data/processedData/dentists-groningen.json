@@ -1,0 +1,482 @@
+[
+   {
+      "id": 1,
+      "name": "Tandartspraktijk Hartje Groningen",
+      "address": "Oude Boteringestraat 30, 9712 GJ Groningen, Netherlands",
+      "place_id": "ChIJ0bu_N6EyyEcREv9mbk7WyRU",
+      "website": "https://www.tandartspraktijkhartjegroningen.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 2,
+      "name": "Dental Clinics Groningen De Ommelanden",
+      "address": "Friesestraatweg 219, 9743 AD Groningen, Netherlands",
+      "place_id": "ChIJA58BfjrNyUcRU1Bd4riAPTM",
+      "website": "https://www.dentalclinics.nl/tandarts/groningen-de-ommelanden/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 3,
+      "name": "Tandartspraktijk Hortusbuurt",
+      "address": "Noorderkerkstraat 5, 9712 RB Groningen, Netherlands",
+      "place_id": "ChIJP5SF20TNyUcRqrhta-2cbfg",
+      "website": "https://www.tandartspraktijkhortusbuurt.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 4,
+      "name": "Alldental Groningen",
+      "address": "Rigaweg 34, 9723 TH Groningen, Netherlands",
+      "place_id": "ChIJ_9A_wzItyEcRh2kmcpkbLo0",
+      "website": "http://www.alldentalgroningen.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 5,
+      "name": "Tandartsenpraktijk Dubbeling",
+      "address": "Emmasingel 74, 9726 AJ Groningen, Netherlands",
+      "place_id": "ChIJaZ-3b03NyUcRdZW5F-O9Tz4",
+      "website": "http://www.dubbeling.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 6,
+      "name": "Practice for Dentistry Loes",
+      "address": "Floresplein 30A, 9715 HL Groningen, Netherlands",
+      "place_id": "ChIJF3JN-L7SyUcRveW6_BS2BU4",
+      "website": "http://www.tandartsloes.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 7,
+      "name": "Dental Practice Hunze",
+      "address": "Granpré Molièreweg 53, 9731 LC Groningen, Netherlands",
+      "place_id": "ChIJKwjZT3zNyUcRkUYK2yKcFho",
+      "website": "http://www.praktijkdehunze.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 8,
+      "name": "Tandartspraktijk Zonnelaan",
+      "address": "Zonnelaan 32, 9742 BM Groningen, Netherlands",
+      "place_id": "ChIJo8-BTmfNyUcRArDWrq9_xo0",
+      "website": "http://www.tandartss.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 9,
+      "name": "Tandartspraktijk P. Doelman",
+      "address": "Vechtstraat 17, 9725 CS Groningen, Netherlands",
+      "place_id": "ChIJS8vfwqoyyEcR-HnSH3oZQRg",
+      "website": "http://www.tandartsdoelman.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 10,
+      "name": "Tandartspraktijk Wijert Zuid",
+      "address": "Bordewijklaan 27, 9721 TN Groningen, Netherlands",
+      "place_id": "ChIJ9SZT_l4tyEcRuFHWOUMMcig",
+      "website": "https://www.tandartspraktijkwijertzuid.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 11,
+      "name": "Tandartspraktijk Meijer & Meijer",
+      "address": "Bottelroosstraat 1, 9741 JD Groningen, Netherlands",
+      "place_id": "ChIJM0mBoWzNyUcRUw995QFw8o8",
+      "website": "http://www.tandartsen-meijer.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 12,
+      "name": "Tandartsenpraktijk Hooft- Oosterhaven",
+      "address": "Trompstraat 7, 9711 EB Groningen, Netherlands",
+      "place_id": "ChIJpXa9GlbNyUcRctn3_uojWpE",
+      "website": "http://www.hooft-oosterhaven.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 13,
+      "name": "Tandartspraktijk Helpman",
+      "address": "Verlengde Hereweg 80, 9722 AG Groningen, Netherlands",
+      "place_id": "ChIJ18zbc1otyEcRTIyDe2nt_Ps",
+      "website": "https://helpman.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 14,
+      "name": "Hooghiemstra & Aldunein Tandartsen Groningen",
+      "address": "Nieuwe Kijk in Het Jatstraat 1, 9712 SB Groningen, Netherlands",
+      "place_id": "ChIJA3UZYuDNyUcRS5PK8LOUT5g",
+      "website": "https://www.hatandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 15,
+      "name": "Apex dental care",
+      "address": "Friesestraatweg 20-1, 9718 NH Groningen, Netherlands",
+      "place_id": "ChIJodPvCDbNyUcR0sz-xFFNJDw",
+      "website": "http://www.apextandzorg.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 16,
+      "name": "Tandarts van Wely",
+      "address": "Hoendiep 1, 9718 TA Groningen, Netherlands",
+      "place_id": "ChIJN-FZYifNyUcRrOnbTe75lRc",
+      "website": "https://www.tandartspraktijkvanwely.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 17,
+      "name": "Tandartspraktijk Ulgersmaborg",
+      "address": "Gentiaanstraat 50, 9731 BP Groningen, Netherlands",
+      "place_id": "ChIJ9Ypy45bSyUcRS7vfvcBYo1E",
+      "website": "https://tandartspraktijkulgersmaborg.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 18,
+      "name": "Tandartspraktijk P. Maats",
+      "address": "Stationsstraat 10, 9711 AS Groningen, Netherlands",
+      "place_id": "ChIJgd8cQFLNyUcRrmJFUxoYxJo",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 19,
+      "name": "Buijs Dentists",
+      "address": "Heresingel 12, 9711 ES Groningen, Netherlands",
+      "place_id": "ChIJ-S_7m1PNyUcRwn08qi1IYMI",
+      "website": "https://buijstandartsen.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 20,
+      "name": "Tandarts W van Gelder",
+      "address": "Radesingel 33, 9711 EG Groningen, Netherlands",
+      "place_id": "ChIJ03CvBlbNyUcR1p0bBOPOvdM",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 21,
+      "name": "Tandartspraktijk Studentist Groningen",
+      "address": "Lopendediep 7, 9712 NV Groningen, Netherlands",
+      "place_id": "ChIJiTK6vk_NyUcR4w8nfr71lL0",
+      "website": "https://www.studentist.nl/tandarts-groningen",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 22,
+      "name": "Tandartspraktijk Vinkhuizen",
+      "address": "Aquamarijnstraat 723, 9743 PT Groningen, Netherlands",
+      "place_id": "ChIJN7OZot_MyUcRbPjaerkVFDA",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 23,
+      "name": "Tandartspraktijk dtg.nl",
+      "address": "Paterswoldseweg 450, 9728 BB Groningen, Netherlands",
+      "place_id": "ChIJr3sqlK8yyEcRwIzxPGEKL34",
+      "website": "https://www.tandartspraktijkdtg.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 24,
+      "name": "Dental Practice B.J. Tuik",
+      "address": "Waterland 33, 9734 BA Groningen, Netherlands",
+      "place_id": "ChIJox4nOvLSyUcRhQznlYrvQVw",
+      "website": "https://tandartstuik.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 25,
+      "name": "Tandartsenpraktijk Mennen",
+      "address": "Jan Steenstraat 1, 9718 LG Groningen, Netherlands",
+      "place_id": "ChIJjQZF_TXNyUcRNODQpVMk0Fc",
+      "website": "http://tpjansteenstraat.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 26,
+      "name": "Mondzorgpraktijk Heijs & Christenhusz",
+      "address": "Maluslaan 33, 9741 LK Groningen, Netherlands",
+      "place_id": "ChIJ-9bJXhTNyUcR-Av0yYFbIcA",
+      "website": "https://mondzorgheijs-christenhusz.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 27,
+      "name": "PUUR Mondzorg Groningen-singel",
+      "address": "Ubbo Emmiussingel 4, 9711 BH Groningen, Netherlands",
+      "place_id": "ChIJE_MYfVTNyUcRtuLoYcnkLns",
+      "website": "https://puurmondzorg.nl/tandarts/groningen-singel/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 28,
+      "name": "Tandartsenpraktijk Rivierenbuurt",
+      "address": "Barestraat 35, 9725 CM Groningen, Netherlands",
+      "place_id": "ChIJ92Z02KoyyEcR8NrR8tjLThI",
+      "website": "https://tprivierenbuurt.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 29,
+      "name": "Tandartspraktijk Heresingel",
+      "address": "Heresingel 6, 9711 ES Groningen, Netherlands",
+      "place_id": "ChIJR5giOFTNyUcR2CIWJVkpdyg",
+      "website": "https://www.tandartspraktijkheresingel.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 30,
+      "name": "Tandarts Bonnema",
+      "address": "Ubbo Emmiusstraat 10, 9711 CB Groningen, Netherlands",
+      "place_id": "ChIJ7cntuFPNyUcRHrh8BVguu_s",
+      "website": "https://tandartsbonnema.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 31,
+      "name": "Mondzorg Korreweg طبيب أسنان",
+      "address": "Bankastraat 78, 9715 CJ Groningen, Netherlands",
+      "place_id": "ChIJubpAvpjNyUcRjtpZAa8o7O4",
+      "website": "http://www.mondzorgkorreweg.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 32,
+      "name": "Tandartspraktijk M. de Groot",
+      "address": "Van Lenneplaan 3, 9721 PC Groningen, Netherlands",
+      "place_id": "ChIJNTmgLaYyyEcRyNm_gFBeKf4",
+      "website": "http://www.tandartsmdegroot.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 33,
+      "name": "Tandarts Krans",
+      "address": "Korreweg 2-32, 9715 AA Groningen, Netherlands",
+      "place_id": "ChIJPSzMe0PNyUcRO2E0VE99dnE",
+      "website": "http://www.tandartskrans.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 34,
+      "name": "Tandarts Mw H. Fabius",
+      "address": "Goeman Borgesiuslaan 129, 9722 RG Groningen, Netherlands",
+      "place_id": "ChIJHxNimUQtyEcRHM4NQSMHQM8",
+      "website": "http://www.tandartsfabius.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 35,
+      "name": "Tandarts Hekman",
+      "address": "Zonnelaan 28, 9742 BL Groningen, Netherlands",
+      "place_id": "ChIJa2fwNzzNyUcR_BfmNFBhijU",
+      "website": "http://www.tandartshekman.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 36,
+      "name": "Tandartspraktijk Stoepemaheerd",
+      "address": "Stoepemaheerd 15, 9737 TK Groningen, Netherlands",
+      "place_id": "ChIJmxeyWYHSyUcRUVQjVYdGxC0",
+      "website": "http://www.tandartspraktijkstoepemaheerd.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 37,
+      "name": "Tandartspraktijk Eisenga",
+      "address": "Van Ketwich Verschuurlaan 149, 9721 SJ Groningen, Netherlands",
+      "place_id": "ChIJl9ErS18tyEcRPkFDuaB6e8I",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 38,
+      "name": "Tandartspraktijk van Ketwich Verschuurlaan",
+      "address": "Van Ketwich Verschuurlaan 153, 9721 SJ Groningen, Netherlands",
+      "place_id": "ChIJP9agTF8tyEcR53qEvirDI3U",
+      "website": "https://www.tandartspraktijkvkv.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 39,
+      "name": "Tandarts Lich",
+      "address": "Hora Siccamasingel 212, 9721 HW Groningen, Netherlands",
+      "place_id": "ChIJRZk6nlktyEcRQ2CwNo8tWbQ",
+      "website": "https://tandartspraktijklich.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 40,
+      "name": "A. Van Der Tuin",
+      "address": "Stationsstraat 5, 9711 AR Groningen, Netherlands",
+      "place_id": "ChIJ__-SFFLNyUcRMzIgZaZElj4",
+      "website": "https://vandertuin-implant.com/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 41,
+      "name": "Tandartspraktijk Grunobuurt",
+      "address": "Van Leeuwenhoekstraat 23, 9727 JH Groningen, Netherlands",
+      "place_id": "ChIJLbWJA64yyEcRXGx5PF47jRA",
+      "website": "http://www.tandartspraktijkgrunobuurt.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 42,
+      "name": "Tandartspraktijk Hereweg",
+      "address": "Hereweg 67, 9725 AC Groningen, Netherlands",
+      "place_id": "ChIJdU6JvqoyyEcRXd4OTg4fgyg",
+      "website": "http://www.tandartspraktijkhereweg.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 43,
+      "name": "Tandartspraktijk Oosterpark",
+      "address": "Gorechtkade 2, 9713 CA Groningen, Netherlands",
+      "place_id": "ChIJpf2rUabSyUcRjMui0u-_27E",
+      "website": "http://www.tandartspraktijkoosterpark.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 44,
+      "name": "Tandartspraktijk King Dental",
+      "address": "Aweg 17, 9718 CV Groningen, Netherlands",
+      "place_id": "ChIJa03UA0zNyUcRpN-972PHoDU",
+      "website": "http://www.kingdental.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 45,
+      "name": "Tandarts Groningen",
+      "address": "Nieuwe Ebbingestraat 137, 9715 BA Groningen, Netherlands",
+      "place_id": "ChIJ2ba-dX3NyUcRIriVDdn0K1g",
+      "website": "http://www.tandartsgroningen.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 46,
+      "name": "Tandarts Kamerling",
+      "address": "Meeuwerderweg 36A, 9724 ET Groningen, Netherlands",
+      "place_id": "ChIJo_myy6vSyUcRmuj5qBQD_HQ",
+      "website": "http://tandartskamerling.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 47,
+      "name": "Tandartspraktijk M.R. Scheltes",
+      "address": "Westersingel 57, 9718 CJ Groningen, Netherlands",
+      "place_id": "ChIJ-69_Jk_NyUcR_ZOCfk6nq1o",
+      "website": "http://www.tandartsscheltes.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 48,
+      "name": "Tandheelkundig Team Beijum",
+      "address": "Emingaheerd 6, 9736 GA Groningen, Netherlands",
+      "place_id": "ChIJvd_hQ4bSyUcRGZsZ-mkrauA",
+      "website": "http://www.tandarts-beijum.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 49,
+      "name": "Tandartspraktijk Huddleston Slater",
+      "address": "H.A. Kooykerplein 3, 9713 GT Groningen, Netherlands",
+      "place_id": "ChIJPyBQZKfSyUcRZ97I7PMLO-o",
+      "website": "http://www.huddlestonslater.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 50,
+      "name": "Tandartspraktijk Schepman-Drenth",
+      "address": "Goeman Borgesiuslaan 47, 9722 RC Groningen, Netherlands",
+      "place_id": "ChIJS7k_mUQtyEcRvnG9FZXd-Gk",
+      "website": "https://tandartspraktijkschepman.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 51,
+      "name": "11-48 Dental Wellness",
+      "address": "Akerkhof 38, 9711 JC Groningen, Netherlands",
+      "place_id": "ChIJGyBNA07NyUcRkD9dahuaotI",
+      "website": "http://www.11-48.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 52,
+      "name": "Mondzorg Praedinius",
+      "address": "Praediniussingel 9, 9711 AB Groningen, Netherlands",
+      "place_id": "ChIJR24Xd1LNyUcRazgV7kEQeZo",
+      "website": "http://www.tandartsinhetcentrum.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 53,
+      "name": "dental Lewenborg",
+      "address": "Getij 60, 9732 MS Groningen, Netherlands",
+      "place_id": "ChIJf890q-vSyUcRWUez9l4ZJ_Q",
+      "website": "https://www.tandartsenpraktijklewenborg.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 54,
+      "name": "De Verbetering Tandartsenpraktijk",
+      "address": "De Verbetering 10, 9744 DZ Groningen, Netherlands",
+      "place_id": "ChIJmT2oGywzyEcRQdqenaZ0ITo",
+      "website": "http://www.deverbetering.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 55,
+      "name": "Tandartspraktijk Alting",
+      "address": "Euvelgunne, Rigaweg 34, 9723 TH Groningen, Netherlands",
+      "place_id": "ChIJX1ZjxDItyEcRSQMrHq3AAfc",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 56,
+      "name": "Tandartsenpraktijk Ubbo Emmiussingel 33",
+      "address": "Ubbo Emmiussingel 33, 9711 BC Groningen, Netherlands",
+      "place_id": "ChIJ-S_7m1PNyUcRqqGlUTKggi4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 57,
+      "name": "R. Lich",
+      "address": "Hora Siccamasingel 212, 9721 HW Groningen, Netherlands",
+      "place_id": "ChIJRZk6nlktyEcRMjxb9lDVwGk",
+      "website": "https://tandartspraktijklich.tandartsennet.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 58,
+      "name": "Tandartsenpraktijk De Held",
+      "address": "De Held 119, 9745 DH Groningen, Netherlands",
+      "place_id": "ChIJi3ur2tvMyUcRHG88t8VWmSs",
+      "website": "http://www.tandartsenpraktijkdeheld.nl/",
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 59,
+      "name": "Tandartsenpraktijk C.g. Feenstra",
+      "address": "Noorderstationsstraat 46, 9717 KP Groningen, Netherlands",
+      "place_id": "ChIJsVbwzUPNyUcRLX7DNVuXN-4",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   },
+   {
+      "id": 60,
+      "name": "Tandartsenpraktijk Doelman",
+      "address": "Vechtstraat 17, 9725 CS Groningen, Netherlands",
+      "place_id": "ChIJDanT3KoyyEcRRRKPTiU329o",
+      "website": null,
+      "usedSearchTerm": "tandartsen+in+Groningen"
+   }
+]

@@ -15,7 +15,6 @@ async function getPlaceWebsite(place_id){
         console.log('Error during fetching place details in getPlaceDetails:  ', err)
     }
 }
-//getPlaceWebsite('ChIJh7VwDMAJxkcRpsvc30zKvF4').then(website => console.log(website));
 
 //This function takes in a query and requests the data from the Places API and writes that to a filename with that query
 async function getPlacesData(query, niche){
@@ -36,7 +35,7 @@ async function getPlacesData(query, niche){
                 for(const dentist of response.data.results){
                     const website = await getPlaceWebsite(dentist.place_id);
                     results.push({
-                        index,
+                        id: index,
                         name: dentist.name,
                         address: dentist.formatted_address,
                         place_id: dentist.place_id,
@@ -67,4 +66,4 @@ async function getPlacesData(query, niche){
     }
 }
 
-getPlacesData('tandartsen+in+Noord-Holland', 'dentists-noord-holland');
+getPlacesData('tandartsen+in+zeeland', 'dentists-zeeland');
