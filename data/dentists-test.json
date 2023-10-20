@@ -5,7 +5,8 @@
       "place_id": "ChIJh7VwDMAJxkcRpsvc30zKvF4",
       "website": "https://www.studentist.nl/tandarts-amsterdam",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 1
+      "id": 1,
+      "emails": "amsterdam@studentist.nl|roeterseiland@studentist.nl|utrecht@studentist.nl|groningen@studentist.nl"
    },
    {
       "name": "dentist Eva",
@@ -13,7 +14,8 @@
       "place_id": "ChIJH4Z_2wDixUcRctSD912mBV4",
       "website": "https://thedentistamsterdam.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 2
+      "id": 2,
+      "emails": ""
    },
    {
       "name": "Tandartspraktijk Jan van Galen",
@@ -21,7 +23,8 @@
       "place_id": "ChIJL7GGBW7ixUcRVw_zIZ50_m0",
       "website": "https://tandartsjanvangalen.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 3
+      "id": 3,
+      "emails": "info@tandartspraktijkjanvangalen.nl"
    },
    {
       "name": "Dentists Practice Amsterdam IJburg",
@@ -29,7 +32,8 @@
       "place_id": "ChIJ0QcZRV8JxkcRmRCCsAB4OA0",
       "website": "https://www.tpamsterdam.nl/ijburg",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 4
+      "id": 4,
+      "emails": "amsterdam@dentalclinics.nl"
    },
    {
       "name": "Tandartsen Praktijk Amsterdam Watergraafsmeer",
@@ -37,7 +41,8 @@
       "place_id": "ChIJ0QcZRV8JxkcRQjzfkwfKdBo",
       "website": "https://www.tpamsterdam.nl/watergraafsmeer",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 5
+      "id": 5,
+      "emails": "amsterdam@dentalclinics.nl"
    },
    {
       "name": "De Amsterdamse Tandarts",
@@ -45,7 +50,8 @@
       "place_id": "ChIJ4Z2-UJgJxkcR-DYDFOkVxUA",
       "website": "http://www.deamsterdamsetandarts.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 6
+      "id": 6,
+      "emails": "info@deamsterdamsetandarts.nl"
    },
    {
       "name": "Tandartsjordaan.nl B.V.",
@@ -53,7 +59,8 @@
       "place_id": "ChIJFd-eDtAJxkcR4aHffvRmyBI",
       "website": "https://tandartsjordaan.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 7
+      "id": 7,
+      "emails": "info@tandartsjordaan.nl"
    },
    {
       "name": "Dentists Practice Amsterdam Brouwersgracht",
@@ -61,7 +68,8 @@
       "place_id": "ChIJJQHDbs4JxkcRRbIBqYPLB3c",
       "website": "https://www.dentalclinics.nl/tandarts/amsterdam-brouwersgracht/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 8
+      "id": 8,
+      "emails": "amsterdam@dentalclinics.nl"
    },
    {
       "name": "Tandartspraktijk De Parel",
@@ -69,7 +77,8 @@
       "place_id": "ChIJ2eelhv_hxUcRb9mFxbZNuZs",
       "website": "https://tandartspraktijkdeparel.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 9
+      "id": 9,
+      "emails": "tandartspraktijkdeparel@edpnet.nl"
    },
    {
       "name": "Dental Clinics Amsterdam Reguliersgracht",
@@ -77,7 +86,8 @@
       "place_id": "ChIJRUfRCJMJxkcR7UdHihdAOss",
       "website": "https://www.dentalclinics.nl/tandarts/amsterdam-reguliersgracht/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 10
+      "id": 10,
+      "emails": "reguliersgracht@dentalclinics.nl"
    },
    {
       "name": "Tandartspraktijk de Zuidas",
@@ -85,7 +95,8 @@
       "place_id": "ChIJ-cnoY_EJxkcRMnaUuHAF4Bs",
       "website": "https://www.tandartspraktijk-dezuidas.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 11
+      "id": 11,
+      "emails": "info@tandartspraktijk-dezuidas.nl"
    },
    {
       "name": "Tandartspraktijk Rivierenbuurt",
@@ -93,7 +104,8 @@
       "place_id": "ChIJF9IL1YkJxkcRJhOQWDvt0iY",
       "website": "http://www.tprb.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 12
+      "id": 12,
+      "emails": "info@tprb.nl"
    },
    {
       "name": "Dentist Amsterdam West",
@@ -101,7 +113,8 @@
       "place_id": "ChIJWwaKi2_ixUcR6nDgklUAMqw",
       "website": "http://tandartsamsterdamwest.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 13
+      "id": 13,
+      "emails": "amsterdam@mondzorgpoli.nl|info@tandartsamsterdamwest.nl"
    },
    {
       "name": "iSmile tandartspraktijk Amsterdam West",
@@ -109,7 +122,8 @@
       "place_id": "ChIJYZecHGTjxUcRPR428NAkEGk",
       "website": "https://www.ismile-tandartspraktijk.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 14
+      "id": 14,
+      "emails": "info@ismile-tandartspraktijk.nl|lutmastraat@ismile-tandartspraktijk.nl"
    },
    {
       "name": "Dental Centrum Amsterdam Noord",
@@ -117,7 +131,8 @@
       "place_id": "ChIJJaHZYuMIxkcRbgmr5nOuY0E",
       "website": "http://www.noordent.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 15
+      "id": 15,
+      "emails": "info@noordent.nl"
    },
    {
       "name": "Dental Practice Stadhouderskade",
@@ -125,7 +140,8 @@
       "place_id": "ChIJPTJJP5IJxkcRP6My4w-6EFA",
       "website": "http://www.tandartspraktijk.amsterdam/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 16
+      "id": 16,
+      "emails": "afspraak@xs4all.nl"
    },
    {
       "name": "Tandartspraktijk TTH van Wou",
@@ -133,7 +149,8 @@
       "place_id": "ChIJQTCWTo8JxkcRdirF6fEVQ98",
       "website": "https://tthvanwou.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 17
+      "id": 17,
+      "emails": "info@tthvanwou.nl"
    },
    {
       "name": "Tandartspraktijk T.Broekman-Teggelaar",
@@ -141,7 +158,8 @@
       "place_id": "ChIJuTziqikKxkcRyEipLONQn6M",
       "website": "https://www.tandartsrivierenbuurt.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 18
+      "id": 18,
+      "emails": "info@tandartsrivierenbuurt.nl"
    },
    {
       "name": "Lassus Dentists",
@@ -149,7 +167,8 @@
       "place_id": "ChIJK3xc-v0JxkcR1HvPy-1vFFs",
       "website": "https://www.lassustandartsen.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 19
+      "id": 19,
+      "emails": "info@lassus.nl|lelystad@lassus.nl|oisterwijk@lassus.nl|tilburg@lassus.nl"
    },
    {
       "name": "Dijkstra & De Wet Tandartsen",
@@ -157,6 +176,7 @@
       "place_id": "ChIJn5AYmvkJxkcRXbg955pDD8w",
       "website": "http://www.dijkstradewet.nl/",
       "usedSearchTerm": "tandartsen+in+Amsterdam",
-      "id": 20
+      "id": 20,
+      "emails": "receptie@dijkstradewet.nl"
    }
 ]
