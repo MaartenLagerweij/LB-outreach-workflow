@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Grijze achtergrond voor de hele e-mail */
+            margin: 0;
+            padding: 0;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        h1 {
+            color: #444;
+            font-size: 1.5em;
+        }
+
+        p {
+            margin-bottom: 10px;
+        }
+
+        .footer-info p {
+            margin-bottom: 5px;
+            line-height: 1.2;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #3498db;
+            color: #fff !important;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+
+        .email-container {
+            max-width: 600px; /* Maximale breedte van de e-mail */
+            margin: 40px auto; /* Centreert het witte blok in het midden van de e-mail */
+            background-color: #ffffff; /* Witte achtergrond voor het centrale blok */
+            border-radius: 10px; /* Geeft afgeronde hoeken aan het witte blok */
+            overflow: hidden; /* Zorgt ervoor dat alles binnen de grenzen van het afgeronde blok blijft */
+        }
+
+        .email-content {
+            padding: 20px; /* Ruimte binnenin het witte blok */
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="email-content">
+            <p>Beste {{ $json.Contactpersoon }},</p>
+          
+            <p>Ik zie dat er maandelijks {{ $json.SV1 }} mensen zoeken naar '{{ $json.Keyword1 }}' en ik vroeg mij af of jullie al actief bezig zijn geweest om hier (en op andere termen) zo optimaal mogelijk op te scoren met jullie site {{ $json.Website }}?</p> 
+            
+            <p>Naast '{{ $json.Keyword1 }}' zijn er namelijk nog tientalle andere zoekwoorden die voor jullie interessant kunnen zijn. Zo kijken we naar zoekopdrachten voor het vinden van een B&B naar plaatsen in en rondom {{ $json.Plaats }}, en veel meer.</p>
+          
+            <p>Wij doen dit o.a. door effectief linkbuilding op te zetten. Is het interessant voor jullie als ik, gratis en vrijblijvend, meer interessante zoekwoorden doorstuur met informatie hoe jullie meer bezoekers via Google kunnen binnenhalen? </p>
+                
+            <p>Bij voorbaat dank alvast en ik hoor het graag.</p>
+          
+            <p>--</p>
+
+            <div class="footer-info">
+                <p>Met vriendelijke groet,</p>
+                <p><b>Maarten Lagerweij</b></p>
+                <p><b>DMS Digital Marketing Services</b></p>
+                <p style="color:#999999;">Mail: maarten.lagerweij1@gmail.com</p>
+                <p style="color:#999999;">Tel: +31638241911</p>
+                <p style="color:#999999;">Website: <a href="https://www.digitalmarketingservices.nl/">https://www.digitalmarketingservices.nl/</a></p>
+                <a href="https://calendly.com/digitalmarketingservices-nl/intake-digitalmarketingservices?month=2023-10" target="_blank" class="button">Plan een afspraak</a>
+            </div>
+          
+          <div class="footer">
+              U ontvangt deze e-mail omdat we denken dat onze diensten waardevol kunnen zijn voor uw bedrijf. Als u geen verdere communicatie van ons wilt ontvangen, laat het ons dan weten.
+          </div>
+        </div>        
+    </div>
+
+</body>
+</html>
